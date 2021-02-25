@@ -286,9 +286,7 @@ section1:addToggle("Remove Underwater Blur", nil, function(value)
 end)
 
 section1:addButton("Remove Oxygen", function()
-    local targetplayer = game.Players.LocalPlayer.Name
-
-    game.Workspace[targetplayer].Diving:Destroy()
+    game.Players.LocalPlayer.Character.Diving:Destroy()
 end)
 
 section2:addSlider("Brightness", 3, 0, 50, function(value)
