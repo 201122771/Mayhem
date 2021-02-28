@@ -1,8 +1,6 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/201122771/Mayhem/main/ChatSpy"))()
-
 print("----------<({Sanity})>---------")
 -- init
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/201122771/Mayhem/main/venyx"))() --Reuploaded Venyx UI Lib
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/201122771/Mayhem/main/venyx"))() --Reuploaded Venyx UI Lib, guy get's free credit.
 local venyx = library.new("Sanity", 5013109572)
 
 -- themes
@@ -19,11 +17,9 @@ TextColor = Color3.fromRGB(255, 255, 255)
 local page = venyx:addPage("Welcome!", 5012544693)
 local section1 = page:addSection("Welcome!")
 
-section1:addButton("UI Library by Venyx", function()
+local guiuser = game.Players.LocalPlayer.Name
 
-end)
-
-section1:addButton("Scripts & GUI by Menace#1337", function()
+section1:addButton("Logged in as, ".. guiuser, function()
 
 end)
 
@@ -35,7 +31,15 @@ section1:addButton("**Some Scripts Aren't Mine**", function()
 
 end)
 
-section1:addButton("Must Execute Remove Oxygen/Death Return after death", function()
+section1:addButton("Must Execute Remove Oxygen/Death Return after use", function()
+
+end)
+
+section1:addButton("Thanks to NeoXephox for giving me a way to learn lua :D", function()
+
+end)
+
+section1:addButton("Fun Fact: I learned lua through a uncopy-locked jojo game.", function()
 
 end)
 
@@ -43,7 +47,7 @@ section1:addButton("Project: Mayhem", function()
 
 end)
 
-section1:addButton("Version 2.9.0", function()
+section1:addButton("Version 2.9.4", function()
 
 end)
 
@@ -54,12 +58,11 @@ end, function()
 end)
 
 -- universal page
-local page = venyx:addPage("Universal", 5012544693)
-local section1 = page:addSection("Universal Scripts")
+local page = venyx:addPage("Tools", 5012544693)
+local section1 = page:addSection("Tools")
 
 section1:addButton("Chat Spy", function()
-    loadstring(game:HttpGet("https://pastebin.com/raw/xE7S3FD4"))()
-
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/201122771/Mayhem/main/ChatSpy"))()
 end)
 
 section1:addButton("Remote Spy", function()
@@ -73,6 +76,38 @@ end
 webImport("init")
 webImport("ui/main")
 
+end)
+
+section1:addButton("Synapse Dex (WIP)", function()
+    
+end)
+
+section1:addButton("Http Spy", function()
+    local g
+    g = hookfunction(game.HttpGet,function(self,url,...)
+    print("HttpGet Request Sent To: "..url)
+    return g(self,url,...)
+    end)
+
+    local ga
+    ga = hookfunction(game.HttpGetAsync,function(self,url,...)
+    print("HttpGetAsync Request Sent To: "..url)
+    return ga(self,url,...)
+    end)
+
+    local p
+    p = hookfunction(game.HttpPost,function(self,url,...)
+    print("HttpPost Request Sent To: "..url)
+    warn("Arguments: "..(...))
+    return p(self,url,...)
+    end)
+
+    local pa
+    pa = hookfunction(game.HttpPostAsync,function(self,url,...)
+    print("HttpPostAsync Request Sent To: "..url)
+    warn("Arguments: "..(...))
+    return pa(self,url,...)
+    end)
 end)
 
 -- first page
@@ -250,7 +285,7 @@ section3:addButton("Goto Ship (day 1 only)", function()
 
 end)
 
-section4:addButton("V3rm Isle GUI", function()
+section4:addButton("V3rm Autohack Gui", function()
     loadstring(game:HttpGet("https://paste.ee/r/f2sGK/0",true))()
 
 end)
@@ -286,7 +321,9 @@ section1:addToggle("Remove Underwater Blur", nil, function(value)
 end)
 
 section1:addButton("Remove Oxygen", function()
-    game.Players.LocalPlayer.Character.Diving:Destroy()
+    local targetplayer = game.Players.LocalPlayer.Name
+
+    game.Workspace[targetplayer].Diving:Destroy()
 end)
 
 section2:addSlider("Brightness", 3, 0, 50, function(value)
@@ -330,14 +367,13 @@ section2:addButton("Load ESP", function()
 
 -- Options for ESP
 _G.options = {
-    ["Locations"] = false,
     ["Hunters"] = true,
     ["Traps"] = true,
     ["Items"] = true,
-    ["Threats"] = true, -- Serpent, Turrets, etc.
+    ["Threats"] = true,
 }
 
-loadstring(game:HttpGet("https://pastebin.com/raw/frgnMzxb"))() -- ESP Script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/201122771/Mayhem/main/ESP"))() -- ESP Script
 
 end)
 
@@ -370,16 +406,6 @@ section1:addToggle("Toggle Sleep", nil, function(value)
         game.Players.LocalPlayer.Character["SleepMode"].Value = false
     end
 print("Toggled", value)
-end)
-
-section1:addButton("Kill Mercs(doesn't make elite mercs arrive)", function()
-    local Player = game.Players.LocalPlayer
-    for index, value in next, workspace:GetDescendants() do
-    if (value:FindFirstChildOfClass("Humanoid") and value ~= Player.Character) then
-    value.Humanoid.Health = 0
-    end
-    end
-
 end)
 
 -- Anti-TP bypass Section
@@ -499,19 +525,28 @@ section3:addButton("Drone Cave", function()
 end)
 
 
--- Mentions
-local page = venyx:addPage("Mentions", 5012544693)
-local section1 = page:addSection("Special Mentions")
+-- Credits page
+local page = venyx:addPage("Credits", 5012544693)
+local section1 = page:addSection("Scripter & UI")
+local section2 = page:addSection("Special Mentions")
 
-section1:addButton("NeoXephox#0001", function()
-
-end)
-
-section1:addButton("LookFord#2277", function()
+section1:addButton("Scripts by Menace#1337", function()
 
 end)
 
-section1:addButton("ArtfulDesires#6929", function()
+section1:addButton("UI Library used: Venyx", function()
+
+end)
+
+section2:addButton("NeoXephox#0001", function()
+
+end)
+
+section2:addButton("LookFord#2277", function()
+
+end)
+
+section2:addButton("ArtfulDesires#6929", function()
 
 end)
 
