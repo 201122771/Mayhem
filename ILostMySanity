@@ -1,7 +1,7 @@
 print("----------<({Sanity})>---------")
 -- init
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/201122771/Mayhem/main/venyx"))() --Reuploaded Venyx UI Lib, guy get's free credit.
-local venyx = library.new("Sanity", 5013109572)
+local venyx = library.new("Sanity; IsleGui", 5013109572)
 
 -- themes
 local themes = {
@@ -35,10 +35,6 @@ section1:addButton("Must Execute Remove Oxygen/Death Return after use", function
 
 end)
 
-section1:addButton("Thanks to NeoXephox for giving me a way to learn lua :D", function()
-
-end)
-
 section1:addButton("Fun Fact: I learned lua through a uncopy-locked jojo game.", function()
 
 end)
@@ -59,7 +55,8 @@ end)
 
 -- universal page
 local page = venyx:addPage("Tools", 5012544693)
-local section1 = page:addSection("Tools")
+local section1 = page:addSection("Spys")
+local section2 = page:addSection("Tools")
 
 section1:addButton("Chat Spy", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/201122771/Mayhem/main/ChatSpy"))()
@@ -76,10 +73,6 @@ end
 webImport("init")
 webImport("ui/main")
 
-end)
-
-section1:addButton("Synapse Dex (WIP)", function()
-    
 end)
 
 section1:addButton("Http Spy", function()
@@ -108,6 +101,10 @@ section1:addButton("Http Spy", function()
     warn("Arguments: "..(...))
     return pa(self,url,...)
     end)
+end)
+
+section2:addButton("Dark Dex", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/201122771/Mayhem/main/mayhemdex"))()
 end)
 
 -- first page
@@ -285,7 +282,7 @@ section3:addButton("Goto Ship (day 1 only)", function()
 
 end)
 
-section4:addButton("V3rm Autohack Gui", function()
+section4:addButton("Load Autohack Gui", function()
     loadstring(game:HttpGet("https://paste.ee/r/f2sGK/0",true))()
 
 end)
@@ -323,7 +320,7 @@ end)
 section1:addButton("Remove Oxygen", function()
     local targetplayer = game.Players.LocalPlayer.Name
 
-    game.Workspace[targetplayer].Diving:Destroy()
+    game.Workspace[targetplayer].Underwater:Destroy()
 end)
 
 section2:addSlider("Brightness", 3, 0, 50, function(value)
