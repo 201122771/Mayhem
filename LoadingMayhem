@@ -1,0 +1,60 @@
+local Loading = Instance.new("ScreenGui")
+local Frame = Instance.new("Frame")
+local BackgroundLoad = Instance.new("TextLabel")
+local LoadingBar = Instance.new("TextLabel")
+local ImageLabel = Instance.new("ImageLabel")
+
+Loading.Name = "Loading..."
+Loading.Parent = game.CoreGui
+Loading.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+Frame.Parent = Loading
+Frame.BackgroundColor3 = Color3.fromRGB(37, 37, 37)
+Frame.BorderColor3 = Color3.fromRGB(212, 44, 2)
+Frame.BorderSizePixel = 2
+Frame.Position = UDim2.new(0.367057353, 0, 0.386416852, 0)
+Frame.Size = UDim2.new(0, 1,0, 194) -- {0, 431},{0, 194}
+Frame.ClipsDescendants = true
+
+BackgroundLoad.Name = "BackgroundLoad"
+BackgroundLoad.Parent = Frame
+BackgroundLoad.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
+BackgroundLoad.BorderColor3 = Color3.fromRGB(212, 44, 2)
+BackgroundLoad.BorderSizePixel = 2
+BackgroundLoad.Position = UDim2.new(0.0464037098, 0, 0.70103091, 0)
+BackgroundLoad.Size = UDim2.new(0, 391, 0, 24)
+BackgroundLoad.Font = Enum.Font.SourceSans
+BackgroundLoad.Text = ""
+BackgroundLoad.TextColor3 = Color3.fromRGB(0, 0, 0)
+BackgroundLoad.TextSize = 14.000
+
+LoadingBar.Name = "LoadingBar"
+LoadingBar.Parent = BackgroundLoad
+LoadingBar.BackgroundColor3 = Color3.fromRGB(157, 32, 1)
+LoadingBar.BackgroundTransparency = 0.150
+LoadingBar.BorderSizePixel = 0
+LoadingBar.Size = UDim2.new(0, 0, 0, 24)
+LoadingBar.Font = Enum.Font.SourceSans
+LoadingBar.Text = ""
+LoadingBar.TextColor3 = Color3.fromRGB(0, 0, 0)
+LoadingBar.TextSize = 14.000
+
+ImageLabel.Parent = Frame
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 1.000
+ImageLabel.BorderSizePixel = 0
+ImageLabel.Position = UDim2.new(0.183294654, 0, 0.030927835, 0)
+ImageLabel.Size = UDim2.new(0, 272, 0, 120)
+ImageLabel.Image = "rbxassetid://6476486360"
+
+Frame:TweenSize(UDim2.new(0, 431,0, 194), "InOut", "Linear", 0.2)
+wait()
+LoadingBar:TweenSize(UDim2.new(0, 391,0, 24), "InOut", "Linear", 4)
+wait(4)
+LoadingBar.BackgroundColor3 = Color3.new(0.0784314, 1, 0.509804)
+BackgroundLoad.BorderColor3 = Color3.new(0.0784314, 1, 0.509804)
+Frame.BorderColor3 = Color3.new(0.0784314, 1, 0.509804)
+wait(1)
+Frame:TweenSize(UDim2.new(0, 431,0, 0), "InOut", "Linear", 0.15)
+wait(.15)
+game.CoreGui["Loading..."]:Destroy()
