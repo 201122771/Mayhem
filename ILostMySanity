@@ -1,1 +1,567 @@
-return(function(o,...)local v="This file was obfuscated using PSU Obfuscator 4.0.A | https://www.psu.dev/ & discord.gg/psu";local a=o[(162926083)];local i=o[(352555351)];local h=o['hhsJGISsp'];local L=o[(814717352)];local A=o[((42993851-#("psu 34567890fps, luraph 1fps, xen 0fps")))];local g=o[(400158311)];local W=o[(646633579)];local y=o[((315951504-#("oh Mr. Pools, thats a little close please dont touch me there... please Mr. Pools I am only eight years old please stop...")))];local Q=o[((766496659-#("Luraph v12.6 has been released!: changed absolutely fucking nothing but donate to my patreon!")))];local s=o[(262491278)];local G=o[(314193185)];local U=o[(271360084)];local P=o[((668890204-#("@everyone designs are done. luraph website coming.... eta JULY 2020")))];local z=o[(680784396)];local _=o[((#{279;115;468;777;(function(...)return 588,893,...;end)(601)}+260901586))];local w=o['kWfjT5S'];local H=o["smUyI"];local M=o[(284568699)];local D=o[(136251969)];local b=o["EQPNm"];local F=o[((#{795;(function(...)return 947,742,263;end)()}+464972758))];local Z=o['HUL6Nz'];local J=o[((#{399;238;140;(function(...)return 640,291,721;end)()}+104111627))];local f=o[((#{548;320;179;}+25501884))];local r=o[(190299889)];local k=o['q8xNIL'];local l=o[((#{963;(function(...)return 630,81,851;end)()}+821392232))];local X=o[(482135135)];local j=o[(805768409)];local c=o[(968409689)];local p=o[(551482703)];local m=((getfenv)or(function(...)return(_ENV);end));local n,u,t=({}),(""),(m(l));local d=((t[""..o["b4cNtWx"].."\105\116"..o[M]..o[g]])or(t[""..o.b4cNtWx.."\105\116"])or({}));local e=(((d)and(d[""..o['b4cNtWx'].."\120"..o[h].."\114"]))or(function(n,o)local t,e=l,c;while((n>c)and(o>c))do local l,d=n%_,o%_;if l~=d then e=e+t;end;n,o,t=(n-l)/_,(o-d)/_,t*_;end;if n<o then n=o;end;while n>c do local o=n%_;if o>c then e=e+t;end;n,t=(n-o)/_,t*_;end;return(e);end));local n=(_^F);local E=(n-l);local B,I,C;local f=(u[""..o[i]..o[f].."\98"]);local N=(u[""..o[p]..o['aTwR9ip']..o['H8Gkh54pUM'].."\114"]);local x=(u[""..o['b4cNtWx']..o[y]..o[r]..o[a]]);local n=(u["\103"..o[i].."\117\98"]);do local function n(...)while((((not((not{[(((-[====[0Tq]====]))())]=(((-(not"2$iW<^GrS^4pW.")))._)();((-(not 502554)))();}))()*(#(((not 613694))._)()/((-#false))()and((-#(not"{<_AngnnLtkjnK")))._^(#(not false))._)._<=(not...)*(#...)()/((#[=[uL^F/nECW#;Uxj.o^U:]=])._)()^#(not...)>((not nil))._>=((-(not 763040)))._))._)()and(not((-#(not[====[NRu(@TpPk1/U(]====])))._*(((-#64167))._)()/((-(not'@R,o>YO*sM.*2(q35j<')))._ and((-#true))()+((-true))()<=(false)()/("U>|&=Ke")()+"QL:&jDa")or(#"i-Q^%+H!")()<(#(not false))()>((-...))()==((-#(not'W}.5-s')))()^("Qnna")._/(#'ffN+kE;YFovf--U')()>((-791801))()/(-false)^((-(not 518595)))()^((-[=[3-Cm&tj?&?pMh4]=]))._)do while(((-#(not"}Jpb)Nj>#k^?g>NVC.m")))._<=#nil+(({[((((not...))._)())]=((not 154271))._;nil;((-#701133))();[(#16673)]=(-(not'7FZ&N!+'));})._)()==((-(not"qypY3>Q<}Y+lW")))()+((-#(not 705439)))()>('|H:VAioTw(=x}}iVxY')()+((-#773031))._/(#974317)._>=(#(not"&EwJr09|n?,qf&QL6f"))._%((not nil))())do for n=#(function(o,o,o,o,o,o,n,...)return((-#n))._,((-#n))(),((-n))();end)<((-(not...)))()*((#[===[%v/rw9]===])._)()or((-#(not false)))()==(#5626)()/(-#(not nil))>(#(not 22624))._^(not 51514),((#...)._)()or((-{[(((-(not 843750)))())]=(((not true))._)();(1048229)._;((#',2P_DPNJp?Q:')._)();}))._/#(not"RNv^pFpPw")<((not false))()-((#nil)._)()or(((-'AQ*>_x1rB$4{'))._)()>=(((-#(not'{92|&viZ)~ev)J?`S5C`v!o')))._)()%((-#(not[=========[9Y.^vfO]=========])))._,((-{(-#(not"5X(Xs.J15MQlI(&q{MYu}SIKOE"));[((nil)._)]=((nil)._)();[(((not 828861))._)]=((-#(not"}9^`Nqk.,Zx11P|k)|#6A.aD")))._;}))._==((-#(not...)))()or("Ig*nl#f)Y6/1")._ or(not 304328)+((-(not[===[Bob=8?fOXkn8]===])))._<((-55521))._-(((-809896))._)()and((#(not nil))._)()do end;while(((#(not"0EkVM1hRo:"))._)()%((#(function(n,...)return(((-#(not...)))._)(),((-(not 18219)))(),(#(not nil))._,(3427)._,((not n))(),((-(not nil)))._;end))._)()<=((...)._)()^((#[====[>lJ#Iy&xC5]====])._)()or(-(not 849692))-((-#(not 69169)))._-((-#(not[=[J:)fD]=])))()>(not nil))do end;local n=((-(not'L-g/b}.{^7UHU4r^')))._;local function n(...)end;for n=((#(not false))._)()^((not n))._>#[=[h@{76]=]/(((-#[[#nY|JV`Ka1dwKfI8TVtvy]]))._)()%(-#"f:K")>((not 896658))._ and((not n))()and((-#nil))._,((-(not[=[&Jv_OPt<vW@)io/G4fkqh]=])))()>=((-#(function(o,o,o,o,o,n,...)return#true,("hXtL4Pf3`a")._,((-(not 192044)))(),(n)();end)))._*(-(not 675038))%(-53893)/((not[==[cNcef!|]==]))._^((not...))._>=((#834867)._)()/((-#'k+ng9c<~'))._,((-n))._-(((-#...))._)()*(not'6j-=')<=(((-#(not"=CbSd7~L}Ic#Qrx4y")))._)()-584800*((#(not 12554))._)()+((-...))._%'(%<_7gEt{QK-P=f%Kl^M92`'do end;if((-#(not{}))or(((-(not 72955)))._)()and#(not"D5pC&u{}!Ju`nmq5_K%pSmD")%(not...)+(-176086)-#(not...)-((-#21076))()==(-#(not"mx;Tx3x>%5jcu4L8")))then end;local n=(-#(not(function(n,n,n,n,n,n,n,...)return(not[==[Ew_R%nn)+m5xQO^Yv,0r1]==]),(((not"7R-}vY^5udQ95djg"))._)(),(62993)();end)));for n=((-#(not(function(n,n,n,n,...)return(840004)._,((#(not"C3``9z8daYpzIrx`f&~_"))._)(),((#(not 808337))._)(),(-(not false)),((-false))(),((not'V9jE$~c?iC9IL_3/nE'))._,(-#true),(#...)._;end))))()/((-(not n)))._^((#"Y6ry.Hm2d=B")._)()>=(#[=======[sYA++h;1!4pB>KM@K(4hl]=======])()or(((-#(not 21688)))._)()<=((-#(not 51014)))._%((not nil))()or((-#(not...)))._,((-#(not[[W9eY.uj,%:po]])))()or(((-#(not...)))._)()==("<4Zr8B")()-((#33503)._)()/(#(not nil))._-(#(not 34285))._ or((#true)._)()<=#'OB1My',((-#(not nil)))._/(#nil)()+(#'h$zj5o?z')._<#(not')ZR_F^A&ff3vlGb/23?CYGW^$Ryt')+(-(not[=======[<xml-BL23/8>ntm9)cTd^]=======]))>=((-(not"Gs.sa-P@W0O-xmu>fp!=/S")))()==#(not nil)<(-(not n))do end;end;if(((-#(not(function(n,n,n,n,n,...)return;end))))()-((#false)._)()==(function(n,n,n,n,...)return(((not true))._)(),"B.ag",((-#true))._;end)or((not false))()/15555%((-#(not 91929)))._/((-#true))._%(-#(not 75574))*((52438)._)()*(-#(not...)))then local n=(not((-(not false)))()^((-#(not'4vr7<4qhiARuGJ07O')))()<(-#"*U:JQd%/8,9Se")>(((not true))._)()+((#(not 749345))._)()%(#...)());local n=((not nil))();for n=#(not[=====[H0>omL$ah]=====])/#(not n)>=(((-#(not nil)))._)()>=((-#true))()-(nil)._>=#66732>=(#(not nil))._>(((-#(not n)))._)(),(-#(function(n,...)return(((-#true))._)(),((-#(not n)))(),(#(not true))._,((-#(not true)))(),(((-(not 52801)))._)(),((#nil)._)(),((-#129492))();end))>=(#(not n))()-true==((n)._)()*((-(not nil)))()^(-#false)>=((-(not 86110)))._>=(-#(not n)),((-#(not(#"(uf$F>@>")()+((-#(not 115402)))._ and(-#...)/((-(not 86460)))._)))()==(not{((-#(not 509196)))();})+(((not n))._)()-(false)()>(-(not nil))and((-true))()==((not 73565))._+(782180)()do end;local n=(((-(not 19102)))._)();while(((not true))._*(#(not...))._ and#(not[==[sP:K=U|e^E]==])or((-#26759))()^(#false)()<(((-#(not"EwlIW9&~b|;:UXK")))._)()<((#1048332)._)()/(#649409)._)do end;local n=(((not{((-#...))._;(-#(not[=[C,80MIazEn?S;]=]));(((-#7226))._)();[((#...)())]=((#(not'I0k7jp'))._)();(-(not true));[(((-#"a/9So>zin$8kyG+e:$MYHdwmDeB"))())]=((-(not 20553)))();}))._)();local n=((-#',x01zX2r*o)mQ'))._;end;local n=(((-"#ZBS"))._)()and(((not 58674))._)()*(((-true))._)()%(-(not...))/(-#true)<#72456-((-#(not nil)))._-((-false))._;while((not false)<(((-#(not 617125)))._)()/(((-(not[=========[d2V.VEQ]=========])))._)()-((-{[(((-#nil))())]=(-61529);(#'ALP=E:')._;}))()*(90694)()>=((-#(not'nGbMWzd')))._>((-#(not false)))()and(((-26977))._)()==((#n)._)()>(-#...))do while(((-((not...))()%((26359)._)()*((76224)._)()*((-...))._))()<((-#(not[===[8Rlmxn9s*finT4a]===])))()<=(#'QVxFS%sV{<44^')()or false or(944902)()<=(#(not false))()<(#(not 92567))()*((-#(not'H&V^k7~#OWHR4*Yw')))._)do end;if(((-#(not[=====[s;E`k;eJrm2`%EtP]=====])))._==(((-#(not true)))._)()==((not'(}bz^XLzZP@!'))._>=(-#...)<((#(not n))._)()*(-#(not...))or((-#(not 97887)))._*(((-#...))._)())then end;local function n(...)end;local n=(-(not false));if((-(not...))+((...)._)()>((-#(not false)))._-((#'eel>F+OB&xGj)+{$W')._)()==(not 26605)>=(-#(not false))or(#(not":Q&5A)*V@kcUOjbhnfq$Ix"))._%n)then end;while(#(not'|G<^7wF2kEd4wp6|m')*(((-(not false)))._)()<=(#697155)()*((-#n))._-(((-#978516))._)()>(-(not 61728))+(967769)()-(((not 565162))._)())do end;local n=((#(not(((-#(not false)))._)()/(#false)()and((715625)._)()<(((-#(not true)))._)()<(not...)>=((nil)._)()))._)();for n=(-((not nil))._==(#n)()*(-'&z|')>(#(not 45741))())<=((-#(not nil)))()*((-(not 858474)))._^((#(not n))._)()>(-n)==((-...))._+(-974579)+(("!^jAT$v}zs")._)(),((not 63084))()and((-#(not(((not n))._)()<(#(not 11513))()<=(false)._/((-#(not 1037216)))._)))()^'MMKl.;P}?I}'and((#'%W~z&=mv`5n+F')._)()*((-#(not';QjbBPb(:R,I&Q')))._/('t:@>k|;.{enIAx!FbV')()or(#false)._%((nil)._)(),((((-false))._)()/#(not nil)*(#(not n))._>=(...)._)()==(373755)._>((#(not"{)*%?FH7kg"))._)()>=((-#670378))._ and((-#n))()-((-1032252))._>(91767)._%(("c{C)0zE<")._)()do end;end;local function n(...)if(((#(not true))._)()%((-false))()and((-n))()>((-(not's7N&Gvb1kQ')))._%((#97114)._)()+((-#(not n)))()*#(not 34774)>=((-#81946))._)then end;local n=(#129735)();while(((#765651)._)()==(#nil)._<='&13SxD$AZ3IFs6^'and(-#(not n))and((-#'mT4j'))()>(#(not n))()%((#(not 974468))._)()/((-626649))())do end;local n=((not 47153))();while(((not 23489))._ and((-#(not(function(o,o,n,...)return(not n),7704,(-#(not nil)),#nil,n,((-[==[+1EhUK$KI$]==]))(),88794,(((-...))._)();end))))()==(((-(not"T0*nCe")))._)()*((-(not"=8^~)6Xk{")))()/(#(not"MK:(joPZJV|1"))()==(-n)<=((-(not...)))()>=(#(not n))())do end;while(((-(not nil)))._>((-#...))()^(((-(not[=====[kv.!b]=====])))._)()/(((not true))._)()>=((-#n))()>(((not 593343))._)()+((not 40046))()>=((-#nil))())do end;while((-(not nil))%(-#n)>='x|L_LPBF0BPP'>=(((not[=======[Y9F-PQJn*i}N|UQTE]=======]))._)()>((#true)._)()>(-#(not 754212))>((-32947))._==(((-#(not 91258)))._)())do end;end;local n=#nil;end;end;end;local T=((t[""..o[U]..o.H8Gkh54pUM.."\116"..o['aTwR9ip']][""..o[s].."\100"..o[a].."\120\112"])or(function(o,n,...)return((o*_)^n);end));local V=(t[""..o[i]..o[a]..o[r]..o[U].."\101"..o[r]..o['H8Gkh54pUM'].."\116"..o['H8Gkh54pUM'].."\98\108\101"]);local U=(t[""..o[i]..o[a].."\108"..o[a].."\99\116"]);local Y=(t[""..o[k]..o["H8Gkh54pUM"]..o[D].."\114\115"]);local S=(t["\109"..o["H8Gkh54pUM"]..o[r].."\104"]["\102\108"..o[h]..o[h].."\114"]);local n=(t["\116"..o[y].."\112"..o[a]]);local u=((t["\117"..o.XIQv65xDgz..o[k].."\97"..o[p]..o[A]])or(t["\116"..o['H8Gkh54pUM']..o["b4cNtWx"].."\108\101"]["\117\110\112"..o["H8Gkh54pUM"]..o[p]..o[A]]));local n=(t[""..o[w].."\97"..o[Q]..o[i]..o[a]..o[r]]);local k=(t["\116\111"..o['XIQv65xDgz'].."\117\109\98\101\114"]);do local function n(...)while((#n)._-(((-(not((-(not n)))._+(-(not(function(n,...)return((-n))._,(#n)(),((-n))(),((-#n))._,(#n)();end)))>((-(not n)))._+(((-n))._)()>(-n)+((-#(not n)))()+((not n))()>=#n)))._)()>=((-#(not n)))._/(n)()+((-#n))()-((-#(not(-(not n))>((n)._)()==(((-#(not n)))._)()>=((not n))())))()-((-n))()>=(-(not n))==((-#n))._/(n)()*(((-(not n)))._)()>(n)())do for n=(-(not{}))and((-#n))()==(((-(not((-(not n)))()/((-#n))()>(#(not n))()<=(#n)._)))._)()*((n)._)()+(n)()==(-#(not n))==#(not n)==(((-#(not n)))._)()+((not n))._==((not n))._,((-(not n)))._ and(-#(not n))^(#(not n))()or(((-(not(function(...)return(((-(not n)))._)(),((-#(not n)))(),((#n)._)(),(-(not n));end))))._)()/(#n)._%(-#n)%(-n)<=((not n))()<=(-#n)^((#n)._)(),#(not n)+(((-n))._)()and(((-n))._)()%(#(function(o,o,o,o,o,o,n,...)return(#(not n))(),#n,(not n),(not n),((-n))(),(#n)(),((-#(not n)))(),(n)._,((#n)._)();end))._==(#(not n))._>=(#n)()%((-(not n)))()+((-(not n)))()-((-n))._<(((not n))._)()do while(((function(n,n,n,n,n,n,n,n,n,...)return;end))()==((-#(not n)))()+(#(not n))._==(-n)<(#n)()and#n==((-n))()^((-(not n)))())do end;local function n(...)end;while(((not n))._<(n)._%(n)()<=#(not n)^((-(not n)))._<=((not n))()-(((-n))._)()>((not n))._)do end;local n=((-(not n)))._;if(((not n))()%(#(not n))()and(#n)._^((-n))._%(#(not n))()<((n)._)()>#n*((-n))._)then end;while(((#(not n))._)()%((-#n))()+#(not n)/(#n)()-((#n)._)()*(((-n))._)()>(#n)()>=(-#n))do end;while(((-#{(-(not n));[(#n)]=((-#(not n)))();}))()>(-#(not n))*((#(not n))._)()==(#(not n))()>((not n))()+((not n))._%((-n))()or(#(not n))._)do end;while((#((not n))._<(-#n)>=(#n)()%((#n)._)())._>(((-(-#(not n))/(((-#n))._)()+((#(not n))._)()<=(((-(not n)))._)()))._)()^((not n))()*#(not n)>(((-#n))._)()==(#n)()and n/(-#n))do end;end;local function o(...)if(({[((not o))]=(((-#o))._)();[((-#o))]=(((not o))._)();})()>((not(function(o,o,n,...)return(#(not n))(),(((-n))._)(),((-n))._,(((-n))._)();end)))._/(#(not o))()<=(((-#o))._)()%(#(not o))._<=((not o))._%(((-#o))._)()<=(((-#(not o)))._)())then end;local n=(#(not o))();for n=(({(-#n);((-(not n)))();((-#(not n)))._;(((-(not n)))._)();[(#n)]=((#n)._)();[(((-n))())]=((-(not n)))._;(#(not n))();((-#(not n)))();})._)()^(#n)._>=((-n))()or((#(not n))._)()==(-n)>=(-#n)/((not n))._%#n,((#(not(function(...)return(((-n))._)(),(-(not n)),(not n),#n,((-(not n)))(),((-#n))();end)))._)()^(((-#(not n)))._)()-((-(not n)))()==((-(not n)))._<=(((not n))._)()^((-#n))()or(-#n)*(((-n))._)(),((-(not n)))._ or((-#{(-#n);[((((not n))._)())]=((-#n))();(((not n))._)();}))()or((-#n))._<(-#(not n))==((-#(not n)))._<=#n*((-#n))._ and(-#(not n))do end;while(((#n)._)()^(((not(function(o,o,o,o,n,...)return((not n))();end)))._)()/#n>(-n)<(#n)._==((-#n))._ and(n)()or(-n))do end;for n=#n and(#n)._<=(-n)^((-#n))._-(n)._ or(n)()<((n)._)()/(n)(),((-#(not n)))._ or((#(not{((#n)._)();}))._)()^(n)()==(n)()^(-#(not n))and(#(not n))()and((-#n))()-(#n)(),(((not n))._)()or((-(not{})))()>=((-#n))._>(-(not n))>(((-(not n)))._)()/n<(-(not n))*((n)._)()do end;for n=({(n)();(-(not n));})._*((#n)._)()/(#n)._/((not n))._ and((-n))._/(((not n))._)()==(((not n))._)()%(not n),(((-#(not n)))._)()<(#((-n))()==(#n)()==(-#n)*((-#n))._)._>=((n)._)()and(-#n)<((#(not n))._)()+#n>=((not n))._-((-n))._,((-n))._ or(#n)()or((-#(not n)))._<(#n)._==((-(not n)))()%(-(not n))or((-(not n)))._*((-#n))._ do end;if(((not n))._/(((not n))._)()/((#n)._)()^(n)()+((not n))()>(not n)+(((-n))._)()%(n)())then end;end;while(((not o))()%((#(not o))._)()or((not o))()>((-#o))._/(#o)()*#o<#o/((-o))._==((-(not o)))._%(((-(not o)))._)())do local function n(...)end;for n=(-(not(#(not n))()+((not n))()+((-#(not n)))._%((-#n))._))or(-n)^(n)._/(#n)._<=(((-n))._)()/((-#n))()/n/(((-#(not n)))._)(),((n)._)()>=((-(not n)))()==((-n))()>#(not n)>=#(not n)%((-n))()<=(((-#n))._)()==((#(not n))._)(),(((not n))._)()*(#n)._/(-n)^(-n)and((-#n))()+(((-n))._)()<((-#(not n)))._ and(-#n)do end;while(#(not n)>(((-#(not n)))._)()>=(((not n))._)()or((-n))()>(((-#(not n)))._)()<(((not n))._)()and(-#n)%((not n))._)do end;local function n(...)end;for n=((((not n))()<=(-#(not n))/((n)._)()-(-#n))._)()or(((-n))._)()^(-n)/(((-n))._)()and(-#n)/(-(not n))^(n)()+((not n))(),(n)()-n^(-#(not n))>=#n or((not n))()<=((-n))._<=(((-#n))._)()==#n,(#(not n))._==#(not n)*(((-#n))._)()-(not n)<(#n)()-((-n))()%((not n))()<((not n))()do end;for n=(-(not n))<=((not n))()<=((#(not n))._)()<=n^(#(not n))()and((-(not n)))._>=(-#(not n))<(-n),((-n))()/((n)._)()>=((n)._)()or(n)._/(-n)*(-#(not n))<((#n)._)()and(-#n),(((-#(not(function(n,...)return((#n)._)(),(n)(),(((-#n))._)(),(((-(not n)))._)(),(((-n))._)(),((-#n))._,((-#n))(),n;end))))._)()<((-(not n)))._>((-(not n)))()^((not n))._==((-n))()<=(-(not n))==#(not n)==((-(not n)))._ do end;end;for n=(((not{}))._)()*(o)._/(#(#(not o))()%(#(not o))()<((-o))._%((-(not o)))())._*(-#o)-(-#o)<=((not o))()or((not o))()^(-o)+(#o)()or(((-(not o)))._)(),((not o))._>(((-#o))._)()%(o)._<=(((-#o))._)()+((#(not o))._)()>(-o)^((not o))()%(#(not o))._%(((-o))._)()^((-#o))(),((-(function(o,o,n,...)return(-#n),((-#n))._,((-n))(),((-n))._;end)))._==(-(function(n,n,...)return;end))+(-(not o))%(-#(not o))and((#(not o))._)()^(((-o))._)()%((-o))._-((-#(not o)))._>=(((-#(not o)))._)()<=(-(not o))do while(((-#(not n)))()+((not n))._ or(((-(not n)))._)()and(((-#n))._)()*((-n))._==((-#(not n)))()<=((-n))()or((-#(not n)))())do end;for n=((-n))()%((-#(function(o,o,n,...)return(n)(),(#n)._,((-n))._,(#(not n))();end)))()-((#(not n))._)()==((-(not n)))._>((-(not n)))._/((#(not n))._)()-((-(not n)))._==(((-#(not n)))._)(),((not(#n)._ and(-#n)^#(not n)<=(((-#n))._)()))._*((-#(not(function(o,o,o,o,n,...)return(n)._,(((-(not n)))._)(),n;end))))()*((n)._)()or((n)._)()-((-#n))._<=(((-#(not n)))._)()>=(#n)()^(((-n))._)(),((-n))()>=(#n)()*(not n)>((-#n))()and((-n))._<=#n>=(n)()==(-(not n))do end;for n=(((-#{(n)._;}))._)()<=(not{((#(not n))._)();[(((-#n))._)]=(-n);(((not n))._)();})<=(-#n)+((-n))._<=(#(not n))()or((not n))()+((not n))._+(-(not n)),((n)._)()^(-n)%((#(not n))._)()/(#(not n))._>=(((-#n))._)()+(((not n))._)()and(((-(not n)))._)()==((n)._)(),(((-#(not n)))._)()^(-(not n))and((#n)._)()%((-#(not n)))()or((-#n))._>(n)()%n/((-n))._ do end;while(((-(function(o,o,o,o,o,n,...)return(not n),(#n)(),(-#(not n)),#(not n),((-#n))._,(-#(not n)),((-#n))();end)))()<=((not n))._>((-#(not n)))()-n%((-#n))._>((#n)._)()^((n)._)()and((-#(not n)))())do end;local n=(#(not{[(#n)]=(n)._;[((-n))]=(#n)._;[((-(not n)))]=((not n))();[(((not n))())]=(not n);(((-#n))._)();}))();if(((n)._)()<(n)._*(-(not n))^(n)._==#n>=((#(not n))._)()%((n)._)()^(((-(not n)))._)())then end;end;local function o(...)local function n(...)end;local function n(...)end;for n=((-(not n)))._^(((not n))._)()-((#n)._)()==(#n)._<(((-#(not n)))._)()-(-(not n))or((#(not n))._)()<=((#n)._)(),((-#(not n)))._/(((#n)._)()>(-(not n))*(n)()and((-#(not n)))())._>=(#n)()^(-#(not n))>(-(not n))*((-(not n)))._%(-#(not n))*(-n),((-#n))()and((-#n))()>=((-#n))._>=#(not n)-((-#(not n)))._*((-n))._*(n)()==(-#(not n))do end;local function n(...)end;local function n(...)end;while((not n)+(#n)()%((#n)._)()<=(((not n))._)()<=((-(not n)))._>=(-(not n))>=(((-(not n)))._)()-(-(not n)))do end;local n=(-(not n));end;for n=((not o))._*(-#o)/(((not o))._)()<((o)._)()>((not o))()^#o*((-#(not o)))._<=((-#o))()>=((-#o))()^(not o),((not o))._/(-(not o))%((not o))()>(((-#o))._)()or(-#o)^#(not o)>=((#(not o))._)()and(#(not o))._>(-#(not o))%((-(not o)))(),((-#(not{(-#o);})))()*(not o)-(#(not o))._>((not o))._%((-#o))._+((o)._)()>(-o)<=(-(not o))^((-#(not o)))._+(not o)do for n=((n)._)()==((not n))()==(not n)==#(not n)+(((-(not n)))._)()<(not n)*((#n)._)()*((#n)._)(),((-(function(n,n,n,n,n,...)return;end)))._+(#(not n))()-#(not n)<=((-(not n)))()==(#(not n))()+(#(not n))._>=(-#n)/(-(not n)),(n)()/((-(not n)))._<=#n^((#n)._)()/((-#(not n)))()-((-#(not n)))._<=(n)()/((#(not n))._)()do end;if((#(function(o,o,n,...)return((#n)._)(),((#(not n))._)(),((not n))._,((not n))(),(((-(not n)))._)(),(not n),((-#(not n)))._,(not n);end))()%((-#n))()^#n%(-#n)+(((-n))._)()%(n)._/((-n))()or(-#n))then end;local function n(...)end;local n=((-n))();local n=((-{(((-#n))._)();[(((-#n))._)]=(((-#n))._)();[(((n)._)())]=(-(not n));(((-#n))._)();((-n))._;(#(not n))();}))();local n=#n;end;if(((#o)._)()+((not o))._*(((-o))._)()and((-#(not o)))._<((-#(not o)))()%((o)._)()<=#(not o)and((-o))()<((not o))._>=(-(not o)))then local function n(...)end;local function n(...)end;for n=((n)._)()%(#n)._+(-(not n))+((-(not n)))()<=(not n)^((not n))()*(n)._-(#(not n))(),((-#n))._>=((function(o,o,o,o,o,o,o,n,...)return((not n))._,(((-#(not n)))._)(),(-(not n));end))()==((#(not n))._)()>=((-(not n)))._ or n-(#(not n))()-((n)._)()/(-(not n)),((-(function(n,n,...)return;end)))()+(-#n)/(not n)^((#(not n))._)()>=(((-(not n)))._)()+((-n))()+((-n))()^(((-n))._)()do end;for n=((-n))._+(((not n))._)()+((n)._)()*(((-n))._)()and(((-#n))._)()and(n)()==n-((-(not n)))._,((-(#(not n))._==((-(not n)))._==((-n))._ and(((-(not n)))._)()))()-#(not n)%((-(not n)))._^((-#n))._^(((-(not n)))._)()^#n or(#n)._/(((-#n))._)(),((-#(not n)))._<=(not#n>((not n))()+(-#n)-((-#(not n)))())==(((not n))._)()<(#n)._%((-(not n)))._>(((-#n))._)()<=(((-#n))._)()<(((-(not n)))._)()do end;if(((#n)._)()-(-#(not n))<((-#n))()-(-#n)and(((not n))._)()>=(n)._ or((-(not n)))()>((not n))._)then end;if((#(not n))._/#(function(o,o,n,...)return((-#n))(),(-n),n,((-n))(),(((not n))._)();end)==(#n)()or n>=#(not n)>=((n)._)()>n^(#(not n))())then end;end;while((#o)._*((#o)._)()<=((-#(not o)))._ and(((not o and#(not o)<(-#(not o))*(((not o))._)()))._)()+(not o)*((not o))()==((-#o))._==((-#o))._==(-#o)<=(((-#o))._)())do local n=((-#(not o)))();local function n(...)end;local n=((-#(not n)))();local n=((-#(not n)))._;for n=n or(-#(not n))-(((not n))._)()^((-#n))()>=(((-(not n)))._)()>=(-n)*((not n))()/(-n),((#n)._)()<=#(not n)+((not n))()^((#(not n))._)()/(-#(not n))==(not n)*((#(not n))._)()-((-#n))._,(#(not n))()and((#n)._)()+(#(not n))._*(-(not n))>=((-n))._^(-#(not n))>((-n))()or(not n)do end;local function n(...)end;for n=((-n))()*((-n))._==((not n))._>=((-(not n)))._^((not n))._<=(#(not n))()+((not n))()and((-#n))._,(#(not(function(o,o,o,o,o,o,o,n,...)return(n)(),((#(not n))._)(),((-n))._,(n)._,(not n),((-#(not n)))._,#n;end)))._+((-n))._*(-n)>(not n)<=(-n)>(((-n))._)()+((-#n))()^((-(not n)))._,((-n))._>=(#(not n))._>=(not n)%((#(not n))._)()-((n)._)()>=#(not n)%(n)._-((-(not n)))._ do end;end;end;end;end;C=(d["\98"..o.H8Gkh54pUM..o['XIQv65xDgz'].."\100"])or(function(o,n,...)return(((o+n)-e(o,n))/_);end);local y=(d[""..o.b4cNtWx..o[h]..o[w]])or(function(n,o,...)return(E-C(E-n,E-o));end);I=((d["\114"..o[i].."\104"..o[D]..o[b].."\116"])or(function(o,n,...)if(n<c)then return(B(o,-(n)));end;return(S(o%_^F/_^n));end));local E=(d["\98\110"..o[h]..o[r]])or(function(n,...)return(E-n);end);B=((d[""..o[s].."\115"..o.aTwR9ip.."\105"..o[b]..o[r]])or(function(o,n,...)if(n<c)then return(I(o,-(n)));end;return((o*_^n)%_^F);end));if((not(t[""..o['b4cNtWx']..o[D].."\116\51"..o[g]]))and(not(t[""..o.b4cNtWx.."\105"..o[r]])))then d["\98\97"..o.XIQv65xDgz.."\100"]=C;d[""..o[s]..o[i].."\104\105\102\116"]=B;d[""..o[w].."\115\104"..o[D]..o[b].."\116"]=I;d[""..o['b4cNtWx'].."\111\114"]=y;d[""..o["b4cNtWx"]..o[j].."\111\114"]=e;d[""..o.b4cNtWx.."\110\111\116"]=E;end;do local function n(...)while(((-#n))()<=(not n)or((#(not n))._)()and(#n)._%((#n)._)()<=(-{(-#n);})/(((-n))._)()/((-(not n)))._*(not n)%(n)()or(((-#n))._)()*(((-(not n)))._)())do local n=n;for n=(((not n))._)()+(-n)<=(((-(not{(-(not n));(-n);})))._)()==(-n)*(-#n)and((-#(not n)))._/(-#(not n))^((#(not n))._)()-(-(not n))>((-#n))(),(((-#(not n)))._)()+(-{((-n))();[((#(not n))._)]=((-#(not n)))();})^#(not n)and(not n)+(n)._ or((-#n))._<(n)._>((#(not n))._)()+(-(not n))-((-#(not n)))(),(#(not n))._/((-#(not n)))()*(((-{[((((-#(not n)))._)())]=(((-#n))._)();[((((-(not n)))._)())]=(-#(not n));}))._)()>(not n)%(-n)*(n)._*#(not n)/((-#(not n)))._/((n)._)()/(#n)._ do for n=(-#n)<=((-n))._*(-#n)<=#(not n)>=(not n)>=((-(not n)))()<(not n)*((-n))._,(((#(not n))()==(n)()^(#n)()/((not n))())._)()==(((-#n))._)()+((-n))._*#(not n)*(#(not n))._>((-(not n)))._ or(n)._>=(-#(not n)),(not{((not n))._;[((((-n))._)())]=(#n)._;[(((#n)._)())]=(#(not n))();[(((#n)._)())]=((n)._)();})^((#(not(-#n)==((-n))()>=(not n)==(not n)))._)()==((-#n))()^(n)._<((-(not n)))()>=(#(not n))()and((n)._)()<=(#n)()do end;local function n(...)end;if((n)._<=((-(not n)))._<(#n)._ and(#(not n))()%(((-#n))._)()/((#(not n))._)()>(#n)()<((-(not n)))())then end;local n=((-(not(function(o,n,...)return((-#n))._,(((-n))._)(),(((not n))._)(),((-#(not n)))._,((not n))._,(((-#n))._)(),#n;end))))();if(((-#(not n)))._==((-#(not(function(o,o,o,n,...)return#n,(n)._,((#(not n))._)(),(n)._,(-(not n)),(((-#(not n)))._)();end))))._%(#(not n))._<=(((not n))._)()or(not n)>(n)._ or((-n))()or((-#(not n)))._)then end;local function n(...)end;end;local function n(...)if(((not n))._>((-n))()*#n<(-n)^((not n))._<=(n)._<=((not n))._-((-(not n)))())then end;while((not(((not n))._)()^(#n)._/(((-#n))._)()%(((-#n))._)())or(-(not n))/(-#(not n))*(-n)and(#n)()or n%(#(not n))._^((#(not n))._)())do end;for n=((not(-#n)*(#(not n))._ and(((-#n))._)()>=(((-#n))._)()))._/((-#(not n)))._ or((#n)._)()<(not n)%((#(not n))._)()>((-#(not n)))._^((-#n))()*(#n)._,(-((-#(not n)))._<=(-#n)or((-#n))()^((n)._)())-((-n))()<((-#n))()and((-#n))()*(#(not n))._ or(#n)._%(((-#n))._)()+n,(-#n)>=((not#(not n)-#n-((#(not n))._)()>=(-(not n))))()>=(-(not n))*((not n))._*((#n)._)()==(#(not n))._%(n)._ or(((-#(not n)))._)()do end;while(#(not n)<=((-#(not n)))()<=(not n)<(#(not n))()>=#n-((-(not n)))._^(not n)==((-#n))())do end;for n=((-n))()/((-#{(#(not n))();[(((-n))._)]=(n)._;((-n))._;[(((-(not n)))())]=((-#(not n)))();}))()and((-#n))._%(not n)>(-#n)>((-#(not n)))._+((-(not n)))._>=#n,(((-n))._)()^((-n))()and(((-n))._)()or(-#n)and((not n))._*(((-#n))._)()<=((-#n))._%#(not n),#{((-#(not n)))._;(n)._;((n)._)();}<=(n or((n)._)()>(-#n)/(-#n))._^((-(not n)))()and((n)._)()%((-#n))()<(#n)()*(#n)._<=(((-(not n)))._)()do end;if(((not n))._==((-n))._<n%(((-#(not n)))._)()<=((-n))._<(-#n)/(#n)()/(((-#(not n)))._)())then end;while(((-#(not(function(o,o,o,o,o,o,n,...)return n,(#n)._,(#(not n))(),((#(not n))._)(),(n)._,((-n))();end))))._%(#n)()%(-#n)or((-(not n)))()-n or(((-(not n)))._)()+(n)()==(-#(not n)))do end;end;if((#(not(((not n))._)()/(#(not n))()or(((-#(not n)))._)()<(((-(not n)))._)()>((n)._)()==(((not n))._)()))._*((#((#n)._)()==n<=((-#n))()<(not n)^((-#n))._*((-#(not n)))())._)()or#n>=((-n))._/(((-#(not n)))._)()+(-(not n))>(((not n))._)()+(((-(not n)))._)()>((-(not n)))()or(not n))then if((-#(not n))+(-#(not n))==((not n))()and(#(not n))._^(-#n)/(#n)._==(n)._ or(#n)._)then end;while(((-n))()>((-#n))()^((-(not n)))._*((-(not n)))()-(((not n))._)()-((-#n))._<((not n))()or(-#(not n)))do end;if((n)()%((not n))._>((not n))._/((not n))()*((-(not n)))()<((#n)._)()%(#n)()^(#n)._)then end;for n=((function(o,o,n,...)return((-(not n)))(),#(not n),(#(not n))(),((-(not n)))._,(#n)._,(#n)(),((-(not n)))._,((-#n))();end))._*((-#(function(o,o,o,o,o,o,o,n,...)return(((-#(not n)))._)(),#n,(#(not n))._,((-#(not n)))(),(-(not n)),(((-n))._)(),((-(not n)))(),((-#n))._;end)))._>=(-#(not n))==(#n)()^(((-#(not n)))._)()==n-((-n))()>((not n))._,((n)._)()>=((-#(not n)))()+(#n)._+((n)._)()and(#n)._<(#n)._ or#(not n)<((not n))(),#(not n)%(#(not((-#n))._<=((#(not n))._)()<=((#n)._)()and(((not n))._)()))()-(#(not n))._>(((-#(not n)))._)()/#(not n)*((n)._)()%((-#(not n)))()<=((-n))._ do end;while((((-#n))._)()or((not n))._>(((not n))._)()==((not n))._/(-#n)<=(-#n)+(not n)-((#(not n))._)())do end;if(((-#(not n)))()<((-#n))()%(not n)or((-n))._/((#n)._)()+(-n)<(n)._<=((-#n))())then end;if((#n)()<=((not n))()<(((not n))._)()%(n)._ or((-(not n)))._+((not n))._+((-(not n)))._%((-(not n)))._)then end;end;for n=((not n))._*(n)._-(-#n)==(#(not n))._^((#n)._)()>=((-#(not n)))()*(((-#(not n)))._)()%(((-#n))._)()-((-n))._>((-(not n)))._,((-#(not n)))()-((-#(not n)))()/((n)._)()and(((-n))._)()<#(not n)and(#n)()/((not n))._ or((#(not n))._)()or(((-(not n)))._)()/((-(not n)))._,((not n))._>=(((not n))._)()>=((-#(not{[((((-n))._)())]=n;})))()%(not((#(not n))._)()<=(((-#(not n)))._)()/#n or(((-#n))._)())>=#(not n)<=((-#(not n)))()^#n%((-#n))._<=(#(not n))._+n do local function n(...)end;local n=((#(not n))._)();for n=(((not(function(o,o,o,o,o,o,n,...)return((#n)._)(),(#n)(),(not n);end)))._)()^(n)()or((-(not n)))._%(#n)._ and(n)._ and n<=(#n)()*(#n)(),(#(not n))._+((not n))._%((-(not n)))()<(#(not n))()<=(((-n))._)()<=(((not n))._)()and((-#(not n)))()==(n)(),(#(function(...)return((-#(not n)))(),((#n)._)(),(-#n),((-n))();end))._-((-(not n)))()/((#n)._)()or((-#n))()/((n)._)()>((-(not n)))()*((-#n))._*(-n)do end;while(((-(not{[((-#n))]=((#n)._)();[((n)._)]=((-n))._;((-#(not n)))._;[(((-(not n)))._)]=((#(not n))._)();})))._<((not n))._+n<(-#n)-((-(not n)))._ or(-(not n))+((-#(not n)))._ or((-#n))._)do end;for n=((-(not n)))()-(((-#(not n)))._)()+(-n)==#n or(#n)._^((#(not n))._)()^((#n)._)()^#n,((-#(not n)))._==((not(function(o,o,o,o,o,o,n,...)return n,((-#n))._;end)))()%(((-#(not n)))._)()%n^((#(not n))._)()%(n)._ or#n or n,(((-n))._)()and((not n))()>=#(not n)and(#(not n))()<=((-n))()%(((not n))._)()or((-#(not n)))._^(n)._ do end;for n=(#(not(((-#n))._)()/((#(not n))._)()^((not n))._*((-n))._))._*(-#(not{[(((not n))())]=(not n);((-#n))._;}))*((-#(not n)))._+((#n)._)()<(-#(not n))>((-n))()*(-(not n))>=n,(-#(not n))^((-#(not n)))._<=(-(not n))>=(((-n))._)()and n-(-(not n))>=((-n))._/(-(not n)),((-(not(n)()or(#n)._>((-(not n)))()*((#(not n))._)())))._==((-n))._<((-#n))._<=(((-(not n)))._)()<=(n)()>=((not n))._<=((#(not n))._)()==(#n)._ do end;for n=(#n)()and((#n)._)()and(((-n))._)()>=(((not n))._)()and(not n)/#(not n)<=(#n)()+(#n)._,(((-n))._)()>((-#(not n)))._+n/((#n)._)()<((n)._)()<(-(not n))and(not n)>((-(not n)))(),(((-(not((not n))._%(#n)()/(((-#n))._)()and(((-n))._)())))._)()>=((not n))()and((not n))()/(((-n))._)()+(-(not n))+((#n)._)()*((-(not n)))._<=(-(not n))do end;for n=(n)._<(-#n)+((#(not n))._)()/(((-n))._)()^((not n))._<=(#(not n))()>((n)._)()==((not n))._,((#n)._)()<=(((-n))._)()>(((-(not n)))._)()/(n)._*n==(#n)._-(-#(not n))-(n)(),(-#(not n))%((-{((n)._)();(-#(not n));[(((-n))())]=((n)._)();[((n)())]=(((-#(not n)))._)();}))._*((not n))._<((#(not n))._)()or(n)._<=((-n))()>((-#n))()^(n)._ do end;end;local function n(...)for n=((-#(not n)))()-(-#(not(((not n))._)()-n*(n)()*#(not n)))<((-n))()*(-n)-((-(not n)))()and(-#(not n))>((not n))._+((not n))(),(#(not n))()*(n)._<((-#n))._ or((#n)._)()>(#(not n))()==(((not n))._)()*(-#n)/(not n),(-(function(n,...)return(((-n))._)(),#n,((-(not n)))._,((-n))._,((not n))._,#(not n),(n)(),((-#n))._,((not n))._;end))or(((-#(not n)))._)()/(((-#(not n)))._)()<=(not n)%(-#(not n))^#(not n)^((#(not n))._)()<=((-n))()do end;for n=((-#(not n)))._/(not n)>(((-#(not n)))._)()<(-#n)+(not n)>((not n))._+(#(not n))._/#(not n),(((-#(not n)and((-n))._>((not n))()*((n)._)()))._)()>((-(not((not n))._*(-#n)/(#(not n))()/(((-n))._)())))()/(-n)>=#n<=(((-#n))._)()==((-n))._<=#(not n)>=((-#(not n)))(),(-#{[((((-#(not n)))._)())]=(((-n))._)();[((((not n))._)())]=((-#n))._;[((((-#(not n)))._)())]=((not n))._;((-(not n)))();#n;})/(((-#(not n)))._)()/(((-#n))._)()+(((-#n))._)()-(((-#(not n)))._)()/#n<=((-(not n)))()-(#(not n))()do end;local n=(-{[((not n))]=(-#n);[(((-(not n)))._)]=(-(not n));});local function o(...)end;if((((-(function(n,...)return((-#(not n)))(),((#(not n))._)(),(-n),(not n),(#(not n))(),(not n),((not n))._,(#n)();end)))._)()*((-#(not o)))()or(#(not o))._<=(-#(not o))+((#(not o))._)()or(o)._ or(-o)and#o)then end;end;local n=(-#(not n));if((not n)/((-#(not n)))._-(not(-(not n))or((-#n))._ or n^(((-n))._)())-(((-(not{((-#n))._;[((((-#(not n)))._)())]=((-n))._;(((-(not n)))._)();})))._)()==(#(not n))._/(-#n)^(((-n))._)()<=(#(not n))._^((-#(not n)))._%((-#(not n)))._)then while((((-#n))._)()+(-(not n))*(#n)._*((-#n))._>(((-(not n)))._)()==((#n)._)()<(n)()/((#n)._)())do end;local n=((n)._)();if(((-(not n)))()+((-#n))()and(-(not n))or((-#(not n)))()<#n and(-#n)%((-#(not n)))()%(#(not n))._)then end;local n=(((not(n)()>(-(not n))>=((-#(not n)))()-((-#n))._<((#n)._)()/((#(not n))._)()))._)();local n=((-#(not{[((-#(not n)))]=((-(not n)))();})))();local function n(...)end;local n=((-((n)._)()>=((not n))()-((-#(not n)))._>(#n)()and(-#n)>=((-n))._))();end;end;end;end;local b=(((t[""..o[r]..o['H8Gkh54pUM']..o.b4cNtWx..o[s].."\101"]["\99\114"..o[a].."\97\116"..o[a]]))or((function(n,...)return({u({},c,n);});end)));local n=(t[""..o[r]..o["H8Gkh54pUM"].."\98"..o[s]..o[a]]["\105"..o.XIQv65xDgz..o[i]..o[a]..o[w].."\116"]);local i=(t[""..o[r]..o["H8Gkh54pUM"].."\98\108"..o[a]]["\99\111"..o['XIQv65xDgz']..o[p]..o["H8Gkh54pUM"].."\116"]);local n=(t["\116\97\98"..o[s]..o[a]][""..o[w].."\101\109"..o[h].."\118\101"]);t[""..o["b4cNtWx"].."\105"..o[r]..o[M].."\50"]=d;local t=(Z);local _=(#v+H);local d,s=({}),({});for n=c,_-l do local o=N(n);d[n]=o;s[n]=o;s[o]=n;end;local h,l=(function(e)local a,n,o=x(e,l,z);if((a+n+o)~=J)then t=t+X;_=_+G;end;e=f(e,L);local o,t,a=(""),(""),({});local n=l;local function r()local o=k(f(e,n,n),P);n=n+l;local t=k(f(e,n,n+o-l),P);n=n+o;return(t);end;o=s[r()];a[l]=o;while(n<#e)do local n=r();if d[n]then t=d[n];else t=o..f(o,l,l);end;d[_]=o..f(t,l,l);a[#a+l],o,_=t,t,_+l;end;return(i(a));end)("PSU|23121W102762772781014142761111101k1k27727f111z1z27j101121a21A27J27f217217277121227927827Y27D27F27H27T1027v27x27z28027628227p28427i28328727w28C28A28b28d27e27g28G28E28i28928b28k28h28528H28828V28U28N28F28628Z1028D28M28a28o28x28r29529728029228P29428J29628l27613132761M1g162762381r18101B192371j15276234121R171q22Q171h27621T1y1n1t1v1N1L1h1121W22Z21A1S1r1B171a23029W28r29B1i1i1021221327f101I1J27E1329927F1x1x2861c1C2772bb102142142862BH28Y29j29E27929G29b28O29D29l27A27c101m1i2Bx22V161c182371s1A276230131E151n17162A61923521521r27622W1s27a132211L1022l1j1M22H2211e1T1s1T1N1n161M1n1H1C111Q1H1B1q22I2251C1221U1T1227f29o2A2161U22Q2181O1h1d1821u21u2c41721T230217191L2131Z192331H1727622021o27a21j1Y1h23h1928w28q2ay2B02B22762B5112122122Bg1w112142171327E1I1H2f02b827D27p2en29n28O2d328621521529i27727b28o279112CF29P2C02762c22C423729r27622U192aG1c1l22q2fN1021A21U1p1k23b1Q2BF102Ed2EF2Eh21H21e1a1N1d2392C72c92cb2cd2CF2ch23521A21K2CM2Co142cQ2Cs2cU2cW2cy2D02d22d42d62D82DA2DC2de2dG2dI1A22e22k22v21D1t1M2d22DU112222ha22k2HA22L2G31k2372az2aW2EM2B62121y2Bx1I1g122et2BG1z122eY2B8121I1M1411142A2101X211142142152iC2iB2CF2bE27J16172IO27E11191821321327J15142En1818112b82FB27d12132iX2772i92iB2f527P2j91s1o2GU2F027P1u1u102F927P1d1d27O27q27s2bn277192EK27B29p1u2aV2361N1J1v1Q1Q161123C2ea2762Gi21Y2DY181723c2FS1022D2111I1D131O2FZ2bX22X17171T23j1B2eL2JC2aZ2j528A2er2Fi1016141214162Bv27T112J92jB27Y2jd2LH29o2JG132BM2lO2lJ2i82Ia27k2j82Lp2bc2JX276152J02Bx28129629p2a12a32A52A722Q1f1P2EC2ee142eG1h22C23621j1k141G1m1722C23721I2DD22c23821n22d1Q2192jt2HT2jC2f32I22eq2lu27p27D2Id2jb2It2j01S1P2M22Lm2lQ2lm2Io27d2J02jb2N9152Nb27e2cf27m27J2J91f1f2NU1327r2fF2762Kx2M428A1m2m7102A42A62A8182jo2G92MF2MH2GD2Gf1d21V2mK2mm2mO2MQ2ms2MU2Mw2mY2n02L22eq2n42eu2N62Ib2N827p2na2iY2Nc142nE2NG2J92ni2j92nk27P2nm2IY2NO2nq2FK162nT2LW2Nw2NY2O02Lz102O327X2La2m62iE2O92MA2g023B2O61S23C1c1q2mE27a1w21r1s2Mq2Ol2Mn2Mp2Mr2MT1q2mV2mX1Q21I1T2L11021T21f1l1i1o182dd172211Q21e2hs29A2em2Ow2JC2lU2Jf2IC2NP2P327E2ND2Nf2FH2p82Ly2b42n42ep2b42Lu2j92no1v1v29k112R92p72lx2Ny2PB2ro142Nn2P12r628e2ph2pJ2Lo2Pl2lW2PN29C29j2pQ28C2Ps2by192RM2oe2q52Q7172OH2GG2Ok2ml2qb2oO2qE2qg2My21I2px2pZ23c2qk2aC2qO2Qq2QS1q2qu2qi2O72PV1q22u2QY2932Ov132122112Ln2Ll2B32RX2Pg2Rp2RB2RR2T92b12B32LL2R42iD2rl2rN2TI2iB2rC2rS2g82pC2rv2pE2Tg2R72S027N2PK2nx2s42JW2S62772O31629S2by2g72cm2Eb141D1J1r1D2af2Kb23c2UL2q4142q62Q82Si2GH2Uf2Se2Mg2GC2gE2gg2392k32uR2UT172KU2fO2C32c52Ke2uy2Mh22x1t2Ou2B42hV2oX2b42I02HW2Bx1x2I421621b1527Y1615132ID2TF27827k2JN2jp2F027f2Pg2jG27Z2f12VM2vk2f22ta2hX2761X1Y132162142J9132LE27b152IT2LG2b82w22fh27P2lS2l52822lK2r12oy2vN2wF2Ih2162152Vx2lD132J02Wp29727y2lM2w22m12L52Jb2F92J928229N2JD2n52b41N152x22iF210152162172ro1529s2LA2wp29N2772F92j02W22uC2lm2jb2FH27U2S72EB2782k12bY2G02Fp2C522F21t2gS2cp2cr2Ct2cV2cX2cZ2d12d32D52d72D92dB2Dd2dF2DH2dJ2DL2Jp102dO2Dq2ds2DU2DW2ki2E02dy2dt2dV19111T2322Gj102Ca2cC2cE2cG172ci2Vc2ga2uz2EI2eK2n22eQ2aZ2122102l62vj2eV2ex2Ez2f12f32LV2N8112f82W4102J728r2Fd2o12bw2l82781E1e29p1V2zx21V2E31J1J122d71n22s2Sv102241z2dH1D21o21O1D1O1S310y2V42G921p1O1c1f11161D2k52B322e21S310Q27622121m21K2aO21P2171o1P23C132Cs1022U1f2AS1y21B1R2FK21J2XX151821721521121b1D2Az22T2Vc228311731191n1122T161g27622d2122d621N2131u2WP21321i1n141V1a162C62c81022V121h3132313431361622629J27621222U22e2VC2232aO21m2181b112HR2Bx21X2171r1O23F2YI2Va2373110310S191f191221I2131l2AJ23E2sD2qz2L32B02162G82Bh2162182Ud314n2xx2wF2BC2162162BG2BC2142192IE2hZ2dL2R427F2W227y23o23o101h1G111A313A2jz2Po2eN212314L314T2BI1W2AV3152311I2Ye28O3156122bh2142182hY2vM2192QL2Vp122161W1a27Y31622x52I7315s2Jo31573159211211102W229H2b43100315K2IF314U314P315l2Xw2b3314n314w315l314z31512I02l528h315T315V2112N1315p182ZX28O2K92Rn2YC2Y429O2UC2762952782BZ2C13144312s27621U2172As21C21n21P21j1B1a111n1x2131h1l22u2zL313c313E313331353137313927622A2131r21p3186313h2371M2771b2QL314i2Zz2eO316S314y2EZ2eQ316y2J03170316C315u314Y2162L6316Y2Id2t92l8122Y12iE28r31792yB28s2m031972762Yg1m21921n2yn2gU2yP2gX2yS2h02Yv2h32yy2h62z12dI2301e1922X23923b319V319x319z2dY1I2aa1n22L23G21o2T01h31382zL2ZN2GM2zQ2Zs2yE2Zu2Mh2V8313b2Va233313A318M316k318O2eQ2Hv2Tc2wF2EW214318Z3108310e2nL14310n2RZ2f72AZ319A310G28o310I2pO2m127931B52bY311C21t21b2Lh1C1d1l2231p28J24i21I23Y23B21b22c2UQ1022521831Bq21r131V1l21021B1929y237312l312n311A312Q1O310o1022b1z1L161A181d21Q21j121e2kB1t22T311C220311e311G311I311k317L311d311f311H311J21i21p101R21021D1j1631aM2yj31452QL3112311431163118311a22s311p1022F21K1T1p1O131H3195237312027621V1y2c42k621831c11y21h2962152192T01l1f1d313831dQ3147310u310W1H1n22H24X2lN1026821b1M22E2kM21V1521g1j2C42K52Vh315I1x2YE314N2X6316q1Y2Av314N1x3161316O2uD2Er21231F631AX112162E727E1X2ew21621A2Ib1131FQ31FM314w31fP31fr2131D27e1h2aB1R1Q112JS31f531F7314U31F9316n1021631FB316q31fe316q2vS27621d21D102K72Dh2i8310031fk31gE316931FA2Av31GN31gP1i315D317V317B2902771S2CO28726822y26C26R21X23C27125226J1Q21L24k24w21Y25O1n21t26j21g24A23225626H23e22i22G25Y311031dK12311531Cd310Y31EJ310T310v310x22S1l2Ln2321B1I22K25Q21h26q26X1Y21z27123N25Y31Ex31EZ31f118313j2791K22C22Z24k22521j26523823d25222B26J313k101g22822e31432C422622527824Z22J25Q22z31j91822022e31D331cY31d531D131D831Da31DC31de22n23B25v31j126523w25F21331JD2BX2pY181t22n26s24025e1q26x23G21923j22z22r24p24b31hU24p1Z26C26J31KM31kO21m25221L22p26j1m31J223825V1926n22E25y31cc31DN312p22G1024S24125r1n23k25i22031J828021s22Z26V24722925525Y24H21225P1K31Hs31Hu26h27225W25U22Z31hA31Hc21x1S22Y25H31jm2791o22g1D31Jh2ZY31as2123160316Q21r312131f82ln314n31Ft316q21031CH31fi31Gu31fW2vr2wp310c316y2JF2Wc111J2hs2Ll1D2g82W12jO27B31g431da31G72kX315i21i312T2vI27E2d628H2LQ315i31MK31gv31Mm316q31gd31mq2vO314U31mt31aU2eS31mW31fr2VS2W92DL31g631931G2aB2Rh2IB1L28g31nA2BW31nd31g62Fk1731nh31NJ2L731Bm31nn2Rd31NP31Ff31gF31ns31gv31nu314U31MR31Gv31NY31Nk31fJ31f731o231mz315P2b5319331Dv2OY317w318I310b2WT1431og31nf31OJ310031NI31nZ11317U31Oo314J31mj31or21631ot31mO316Q31Ox314N31OZ31mV31p231fM31O331N02dl2tF31n32fl31oa11311x2F61131pD31pf31oI31oK31Pk2IV31PN318N31PP31Ml31Mn31Gc31mp31ow31NW31GF31PX2hV31O131Q031P4316Y2P031N31E2u62lL317631QA31QC31g531pG31Qf31NK2dA1r31Qi2u9319c279317e2yh317j2Fq31I1311331I331dM312o310z2ql21w1x141L1s21M21j2AK172Q02vC31RR2MP162hf23331i71931el31Ia31L9312O1123e31772t831mi2VK314n31GL31Gv314S31GV31pV314U2WK316v318R28R2ni31h4317a28031g82G82hg2QL312M31LA22A22S2192D92362ZL22B314D31de31eN2Gd1S23j2vc22b21I1h21J2182d231iV27831iX22e311C21w21D171J1l1T2UO31D331TI317u2161x1R1T2Nw316631TX2Uo2g0221314L2kc31je2c52o722C21P1T1o29z31CG2762361G1Q1p2AZ1m1H1t1d22m2cS1V2122G022621B2FQ2g022c2He1c23d2n131ar31py31fL316R31fz2ex31B0310c310931922Ty1w2102Bx21D21H14310u102j31x2xu3164313a3180141R3130318k31Vq31vS1Q192uc31w51J1G2x727k319931Fu319b2l929s31BE2By31Sb31cE22t2zl21z2eh313F318731382vc21v21827F1B161n31Dg314431UN1031T2312o1W21j18121p1v2zR23131Aq31sG315I31aW31GE2IJ2tN316Y2TF316B29K31mX31PV31ay31VI315331Wk310b31792f931Sv2yG277315e29P2Vc2251Y2fk1t31U531dP2Zx31ds31DU31DW31Dy3138151j2762272191H2D6142ai31U51B313s121T2wP31en22S31t9212171k1731951Y21E31tf2o721X2142C41523E312p27621i1W31v631v822Q311c225214318i1I2le22F21031uF2a02PU2m91Q31VA31F4310031c831nZ21221a31Fc31fR2Xx31vg2WJ31q331MX31fy31fv31fR2x6320831fT320831Q131Mx219173208314p2It2Ba2Rd2bT2Bo31q328031YI31PB31Uu2ye21S11219192d41722t2G021z2122FQ31iC27631Ie1i22p31wP31wR318F313731tO27626823z21B31k727631v71t1c22Q314621829N1t21T22t21j1D1p1G31dI27631i231I431lA31Yy313A321r1C31tl321X21t21131dQ31x6311a31tE23J311c2212131T1731EF31EH32251031wQ31TK312b182D61b2kd2YE22u1K2dK31MM1522c2Km22831Dd1N2dD22Q31ex321w13321y2112O722E3221322323731S731S931Yx31Zt31v231v431UG2Ie21T32122D422q2T31h183128312K2YE322J312p22n21831f42XQ212218313A31vw2xV2wK2m11I1k2kB31q62R52192192771h1K1531Oh2ay324l1621231rX2WF2131631Pr31cL16317Y3254320L2Uc325821621m29r32573253314v31wI324t324v31ty31g9324m21221431cH325c32192Uc1i1l320m318u2B41Q2J4325y1i1r2zh325Y2Ph2w22JZ325k31U5162NW324y21221E28G325v17325031o91X31Z02I631ng3264111K3121315q326819326m17216320l2kx326X31fN19327131z0316r3275326y21l1J32782141Z2Ar320M2Iq31e727j2cf161e2aV2Y331Mt316u1X2161b31my315E1x31T621621K1I2M123o23z2L12BE325i102pJ1i1p1B325p325r327s2163219318K31sY2Ww31bM2xi2F01F1E2Ya2iB1A1B2W2310N1h1R1a1R1g1b2j323O23m162F0121w1w317f28J320s2772PL2nK317G277317g321m321o31dQ31yD31Dv31dx31DZ1P2U622P2a231U331u531u71231U92Kc31Dq322C21K219132zR23e32423244312q31YZ31z131z31631Z531tF323G313u22n1Q1B313k23o21226a22e3110322W312a2Ro322Z323d23C31Zi321S31x22c423H1O31zZ2b01Z31512Hv31Nq31mx2WK31vG2141x2ZH28O11327I28H2la28A327O21E31pb24K24N323I1l322z31pb315g2rX329727x2Ld31xW326A31tY29N32582i6324K3260315Q2Wf21419314o2La141x32c831Fs142jz32CD32C931652jZ2iu181s1L2IV18326332BD2JC1O317v31qY328A2L82pH3179318k31582jP2lh2J32762J7329b2762bE2BP2Z62Cv29P321G3185313G31882Zl322C322e323I322G321B10321d22P321v322F322032221G321K31eS321N22E323q31i931yx31wM312p22T323G322f2112vC3210323z2iQ32162Bx322c22Q322I31i5322l2o7323y321331df32ap2EH32aR312C323023c323L323n3224323a323C323e323u31rJ31DJ31rl322831RO323T2BX32182Fq322n322p322r31eg313832a632452vc323432361L15232324b31Mh1i324d21h31YJ2xT324i12324K324m2lM2nO324q324S324U31OH326d325o32512iF325H314P325b325h325e32gC32542Vs32gF31gg182UC32bz327l1e326E31MW325H31MM325u325W2ru2Eq32C53262326Q32662cF326V32Gm325N324Z326g2Eq325w326k2WF326N2Bk326p2zH324o2iq326v3272325e327831Vy32hK327z32HK31fe327C2101C2KX315Q32BG27p327K327M29m29o327P2Wf328E2e7327V327X2111F32813283103285316u3288328A31P132I2327T31mm328h31n8328j1D328l11328n328P315d328s2jo328U328w328y313U11329232942Lh32bv319B32D9102s32m032dE2BY32Dp32dr32f22c532EJ31LA32eL2Pu324332FI320Z321132eo321531zT32E532a8313A322W31Ws318g32fc322q322s313831Rk31Dl31i522s32ez1j323D2A832DT32DN32dV323O32e231em310Y32Eq322x32AS32EU3217321931IU313K329i22E32eM32Ed32412Ie323M32dW2FR2UD31Ww32e932fJ323512323722C32dK31v832DM323J32Aw1c22g32Fp31vC324D32042WF31VX314w32fY2KB328r32g1324R276326a31g72f1325O32b43252325432gb325G32542E732gi325t32lW32CF32gl32G431Ty315e326E21g2Hs325c327A32Gt320m31r032gw2J432ME2B4326q32mh32672jo326932M41631G4326e31xj326i21232Ls2iF326N21B2kx31OJ326q32hF1732Hh32762e732hk2wK32hK31mt32Hk32hJ17326X214317332hT327h32fp32Hw2uC32HY2w31032I12if328e31mm32i51c316r32i9328432Nu32iD2U43289328b32M832ih216327a32iK1c32im32io32iq2IY2fh328r328T1e328v328X328Z27h32j0329532j328z32j52nw31i32u631T02761w220191i22B22332fx102zh227313k21S1g1G22e2uX32oV32ox32Oz32P12ZH21W21i31T9314D31Tx2t01t1A1G22G31J92Fm31ri32JE31YC31DT329m31YG32dy23k26L21922e31X432481122B22z1y2a232p3313k23K26N21b31mB27831JO32aO2qL1w2281S31la22i22j22I1721K31dQ32fA18314C314E1H31zu27632Kt323O329P276329r31gF31u431u61f31u831tY112202ox31ar23o23p11316F1032rJ29K318s2i132Mv3168314P31672VQ321932Rs31632X62Xd2b82O332RV32Gj32S131G127Y23w23S141o1Q121o32B11031y32lo32j32963196324s1I131r1V31B41e2iG2ii2121e2f92cF2rW326i316z27P2iV2LS32cs32iS27d2Cf32cO31w81632sY31R3325Z2j431PM32Mi2Zh2P02rU31792JZ327o32Ri2lW32sH31952id2Oz315A32sL32sN32sp32sR21432sT32Sv1632SX32GU31Xo32t12iy2lK326q32lk32nk32t732MC1132tB1i32c52IQ2eQ326q32Te32Ti2Q332CL31Sv315e310l32j8320x32k031rM32k232jq22t32kP32eo22Q32Kz32fl323832F827632QU32QZ2O832Jj312Q32Jw32fE322t32l4321s32L6322g32eB32JM321432uw32ks32ex32kV31E2323h323J32k8321Y32kA32Dx32Km32E032Jd32vn31x532f02a832l832EI310r31i832KD31iB31ID31If22p32jF312o322L32dg32JU318832kF32es32At1b21U32lb31Xh324d31MW31VX327Z32li31sy32ll32G3324v31G7310N326e2wE32g932542Xx32gi314w32Gi21n31ac32M132lY32mp32mo32G6324Z32B7325h2X632Ub31oN32tC1132Xj32t332XJ32Ml32P21932gM32M6325o1W31fh32h832x032ne21O31Z232n032Tg2B3326u32Mm326w3276314w32hK327A32hK2VS32N712327c21p325w327g1732hV2ph327L327N32i01e327Q328E325e32NT21631mT32Nw32Ib32nY27632IE328b32b7328e2x632O732O92iy2F932OB310K32oE32Iu32og32iw328z3291329332om329832j431sv32OQ31eg2K22Av21u2i4324431dY1821S32Vv321O32Fh312Q31by2202192d321x2Qv22B22f310Q1l22c32aJ28B29Q2Ud324822S31zT32r31032R5329T32r832Ra31Ua2BX31V332f332v432Er322Y32Eu32UV31EJ312H2AZ21p323V32v632pb1i2211U2102vh32Rg32Ri316g2pj28d315221232xv2WF2vq316532rY32Yf2eB32s131fE27y24k24M31YU1o152pj2Pq2L532tO2J532by310V314032a332nd2wH21432my2lK2xQ32G032Nk32U1320m31n82NO2ap1732wS326232gU31qY32gX2Bx2LM31792j32wC31012l62Ia331g314Q2X431652fH2J02o327B32Sr325I33332ih32Bb1933301432yl2J932942ie327O32aC2wf21518332731Z3315u2171A32gj31ng32Cy31Qy1U2D931qY1V31G232Th2Iv31792js23O23r2Xj31h732Z02U432j531bG27731rg1m32wE321I3138330i2U631V72JZ1L1v31TY32wf313I27w21S23922C25a21b24X22F311C334j2E4334m32eP32F432K131lA23c31XG316j31mi2rg315v2BK32Rn32SZ31xP3167314y315x335D2Rj2rE2TA32mV31782Q331XZ31WH31y1276334C31Zt32uS32f631Do330J334Z334l334n334F31IV21c24325i2501X334W334e32dI3138334Y21d334k335123i33572AX310031Si335H315y31532b9316h318w315V3150335J2tD2RF32y427F31xY310e295335s31Wi32PR2v92fq31S11x31S331s5335w31rN31do32Kc31iA31Cx31cz31D6311k32JQ31sE32b22Xo31sJ2IE314n31sQ31OU31QO31gf31So2bi2iK31rC32J52bP319F31zt31AE2Gl2zP2GO2zT2of2eH22q2q2319j2GV1022n1h31a51H2232231022222L22l22122C21t21g1c31dp21m336j2eM31002RG31Fi31si31xt31q331N3335K2rU31B52WQ310C31b831wG31bA27f31bc31rd2z6319d332B1M337h31jt311j236337f31YX329K21i1D32Qr31ck27P22Q2Ud31AR27K2PB31Mx3207320d31Fx28E315b111r31RB2Xd31sV2Bp2Nk31L12lY2cN2yo2cS338G338I172AR21S2H821u2Gx22g23E1Y21D1531c61Q21N21X3383313A31AF33862Zr23533882GB1H22Q2Zl2251p2Aj1P1421K1131Uv232330X31yC339s339u2cS11236339l31d0339n31YI2AC316g21g1Y2ag1l2d43115214311x31bN31yA339P310Y2vc3184310V1b1o22O337c32k231pb31vC3100324F28H1p2md31PU2bX32D333A72js31re31Mi31023202335A31AY310731VJ31B22TY339832be2EN31B91n2fC2fe31qj335A314u31sK31fD31pq2e7316Q320l316v315N335d324O336z2q333Ab31Wh31Xw27p32Ug31Bh2aV22421131r02D133B52g021U21a1P1722g216317I33762c5336B31Wt32p42D72YE313Y1f2CB2Zh23831Nj31AR24k24k1031Uk312c2aV331E31AV31Mp31ay315x31B132CZ2jm2jO32c132062it21d21c31N431YG1633EO33eq1v122S332bt31fi31xJ31Fw315W31FU31N331Xo33f12W333a233f533F72cV2XZ2kb31Y02m32O22yE33E931An31v5330Q3312329k32PV31yf31dZ33Cg322932Uv3378337A1M2332ZL22d21N317v2xQ1m2Aj1N23i31N931xh336l314x337v31Qq31Gw31Sl2Tn310431Ve32b932be2o3320n33fv33Fj3150339931su31Wh2Y327J31qH31Gf33e831ZT31BY21Z2Ez2Kr1D21R21N191533Cd1431Wo32JS321h336c31CB2ye22b2121r21o21f32Cv33Hr317M21c1R33dz32aI318I31cW33dw33DY1F33E031AI27633EH33EJ1123A2T7335831fi33cY31062w431q5339y33fO33f331fm320h1133f631n431YJ31ng2hv33IO2I633EZ324o33iT1333iY31vT2Lk33j2316s33cZ33iq310933J631QB33F231dX315C33A9339H32J5335S32c633dV322633ic33ie23531UF321K23k1424q23322f2KM21y333J1Y333o32p427821s25R25R22Y27V21632sf33EN33Ep33er31wK33eU2eS33iO325I27E33J931dY29N33FB31y91632bT31RG33IN33jD33A533Kp33Fs3134335Q2bu2w031O832dF313a31TA1L31Tc1n322L31X42261X31e72DN31G221d21233D81M312r31nj31u1333P32r7329v329X32AV32EG31V822m33e82aa318A21J31rU1531U82ak21j318c1t31dE1233HV27631tI31tk31tm1N3189322V33ht31Wt32Vy22B21E312431uW23331ts31tu31Tw32Rb2kl330f32w022Q21c2Ox33lG1R1h32Ah2342Uc23423831F62D122b2332fE21y33082rO1921X32l32dA22b33062331X2261021i33G531YE329N334p31iw22c32KO2ie31uI31uk1933Ee31Uf2Su31F42hV31PJ2If31fr320C33Fj21a33fV31N32r42J01W1z2LN31wA29v310N31WA1O1b29n31wa1U1d32Cl27P31wf33kT1i1f31VT29x2QL31fI33OA33FJ32mY33ez332f31pC33JJ33Fq31o421233p72VQ2vS27y33A71R1p12315e33KT33BF3346316j33P631NJ33P8320M33d12R531R433PD33f433pf33ph316332ru313d33jL33PN32Uo31Sv33DS33p429p319H338d319l2YR2GZ2yu2H22Yx2h52Z033aP2DK2Dm2Z62l92z82zF2Zb2dz21t22Y1M1321y2vc22C31Aa3134325W32462eC21p31G631en312q2O722121p32431u32VK321q2121J2F322h21733Ef27631s61432rB31cv1k28A22n1O22933842ZO2gn33E132PS33md2VD2eH32k3337N31gU27k31vN31vP33Fs1M2Vt1233J933SG27b33sj2Vw33j833Sf31MZ31QD325U310032LE31P0320133Ob2eX1y31h333FM2JU310D2Fa33d828H339F33jo33FX339H329927631Bs31bU31Bw33g931rO31e11031E331e51j31e71P31e931Eb31ED32vB334g33S532jq239339y33gq2B033fi31qP316q31SM31GZ33JA320U33L532qG2AV2172182EB24G21L31ET31Ev33C8330H33s533bS337j23631By31C031c231C431c631c831ca33Tg31do2ss31KA32UZ324731i52Kc318l33TY332t33Di31gb31gF33DE314U31sM31PT1033U431yJ27b315i331H310H33Da32nN210211336Y31wH2bp32bT330E2EC21532r93176313W33ea32V622C33RL1831zc32uV33UU311b2av1z22o31tm2PP2J032W3276329L33g731WU2yE31S22CF31S52g02321f2C422Z31Ch33cj31AT337t33Cp31gx33cx33Kz32cA339933H233A431mY320833oD31fr33H033Pw33H7320R31Sv33Ha27D328N2pT2m82oa33Uy321q21N29w29y33Bq32WB322k31Z6310s21733e831dq22B21R2ek1L21P1y313U322U3227337D310y32ew32ku33GC33WJ33gE32uv2o733XU33Xw2t632f932Kk323P32W431S832e3310Y31uF23d31h833KH33EQ1U1332p729031fI2172n131MX31fo33x1320O33X133X631Fr31Fe3208316532BA315n33x82JC2HV33yw31Ve33YZ31Mx33Z131MX3219320I31mZ33J931Wc2kX33pq31yp33T531nD31P033zd33Sx327333h3320833Zj33x131q133J9313433j12es2WB31qX32y42LI2u031We335P337129j337332Sf317g26S22p25X22e32Jb32W9335v335332Ut31LA33RO27827022o22k31L833Uz31la312Q31jR337I31Ju31d931dB31Dd31Df31Ir31F031JF313K22O1f24V25y33c823g33Wq33v333CW31gV33V831Gf31Ov31GF33DH31gV316p31p031Qu31vF31q22L831N333hc2LL326633FO31nC31R631Oi32J533Qc32SF320y27632Q432EF33VX33W422S3411339m1d31Jv341531De33Wc33Tj32w5310X340s27724g26425831Ll27724W21431Hz340m321e341831IT32dY1O23X22D25Q341i33iM338z318p33HD33Gs320933WU33wT31P033SU320k33Px31752zx31N331vl2lL33JH31R531ne32uC2J433qB319d32se313a1M342G33bt342i341431jX1622N313K25c24e1U340l32w831iG32qB1721z341f33yI323R31EO313k25k22o22w340X342a33V0342C33g12c53432330s311132F533Y3341H33Sa33v632ca316q341q31NV316Q316U343i320531FM33H0315P335k31n331Qy2LU31Vl31Oe3423343t2J33426343X3428342e33UH343022P32uV3441337j342j3445323F32Kw31is341a27824s21j22J25y33jw344824O24o342V29T26822c3438345231NT337u328633Gw343G31FI32RP33x53394316Y31Q6341y315o2Lu32Tb345K31pe34242XG343w2793428345w341331JW3416344727823k26v253344i31E2342o31eN342Q27626g22s25O32qF27721g238313o340y31SC22T342E344W2C5345T31uF33wp337n33SW337P316Q341S337R28A316t33Zb31o031Pz32GJ31O4310a31N332622RI2Ln346Y31qd32ht34722783428340o3226344z31I5347i27621H23932e1344j33yK32W7321c31if22K344m21W25O347R344r340Z32e73461341932KL27923c25425y347531D73444341623E3439336K2b0336M31Gf348533V9343C33gV314n341q31Vd33Zv33iw315p341Z310931n2345i2IE348j3424348l33Dr345P343Z33c8348T1023825031Iq349b31IT33y1348R340R313K26o23D25L349731X5344S349i3443347731jy31J921L23d321p344U237343023D349N338Y2B0343J33dd337Q31qn3458343e341s31fi341k33yY32bD315p31QY310933DU3420332O3422346z343t33DQ295342734aC348Y32w6348p344y3354312o348t22G25X225349h31Nj31Js3442345y3416346031e23462349D342w21c21s25Y34303493347a25E1234AS32q423h34b731Po33dc341P2ZX348634bE346N2Hv346p31fm320l348d345F3109341z2lU343r31nb34bs31Oh347134aa347334bX347f33Yj32Kd348t21S2bB347N1025C21w21W346D1021c21u24y346833S5347W23734Av34Cc342L345T342e32Jq34cT337N32xY314u3456314u31Gh31GV3459314n34BG34d2337Q31FR34D5341W31N23109345h2Tu348I34BR31qD34Df34Bv34ab29P34e3349k342L32uv34cM313K24G25e24i34DU2771M33uh347V34aj346327722o1p31ls347Z34Cu31qj3482349T3484314q34bb34d0341t348b345D316Y34a22f0348G34es33Q031of34A833px34dG348N313A317g24W21c25c34cR344s34e133w434ae1s26434dU25S24v25B34CL344D22P31ZT34F034aX31Df341G34FL31mI31Mw34FO343h349w34cY34EE315O2hv34Bi31Fr33z1315P31Q4310934Fz33Pz33pc34g234BT33U629j34bw33TB34FG26W22g34du23k1v22n34C833R9342h34e43352348q34c233UV33s5345t34e133BL34Dj344k34ae1825K346H32Fq310034Eb31GF33Dj34gz34h2316q337S31fi33VH31MX31q134Bl2TN310932uD2lu33Fn33ji34HE31oh2Y8348M31Y234g732p5329734dP21825922934du23W1g340w34GR342k31Df34I034Fe32pT34i3348Z34c033y232Uu347s31CE34e934I92b034gx34cx33wV341R34FQ341n2Td34EK31VE34A031n12l6310931q42N732y434eu347031mZ34g52jY2Zx317G25k22831Hz345s34Go345v34c93412349J34gS321U340p335X33yl32Ps32dY24C1431Hz347W22W31vb33V334Ij34bD341l34bC31Gf33vA33u1345a33gz346r2Dl34bo34K12Ju2w229N31QD345N33fW34dh34hj27623k26h24p344Q34at349934jC34CF349C34E234Ki34Ht34f1344632km23X21934dP21k24g34kE34BY31Ia34JH34am312O345134jN320331fc34gY34h033V534D12ES33Fi346q348d346T31Vk315134iQ34LC34DC31Qd33L434hh34eY31wh27623h25934dU21O24j34hq3469347a26G21434gC3499345r34M631yX345T34J9345Z347W348034mC34bi34L5348334Js34jr31Fi348234EM343l34073193345F34mQ34G1345L31oH32UM34k8276345q34Kn33Y3348T1o24B21v34Du1w22921d344C3491344E27822425Z346734E134Nf34Cd33Uh32Jp34jK312p34jm33wR34md345534H1343d34Mh34Nn31p034d33169348d34bm2f4332u2ib342134IS34NY31G734eW34mV34LI34mx101W22o34oE32dQ349231j921I23A34DP18244340w32Uv34M834hX310Y34e133uh34om31de349m337n32Rp34NL31Fg34jR34Mg34Ft31ve33A3345E336W33d22to29934k5343T34A934Ex34Pe317G21k24U31l734pX34nc344L27824026N21R34pJ321D34Cn27721w25w22834lO342B34PU340q31ro34PZ1634Q134Mc34JP345431GV34Ef34cz31gV349x33Jc34JX33fl31913151310934Nv31wg34nX34Dd32lp2wQ34qj34g629p345t34i2342N34Dk31ia34R832ay2c534gf313K26W22y22A34ai34lS343334ao23u21m34dP25C24F1v22634gv315I34ib316R31GK34L2343F343H349y320B28E34A1315O34io343n34dA33iS34P934RS342534Iw34o234iY31mC22g34B231dH34F3344d34qy2A327125p34Dp33n725234SB33TJ34cg34LU34hS34Cb34Lx34KM34HW34r6337E34qQ34mB34Ot34cW34sS314N34RF34EC34OW326Z2yE34ii314q320e33Iq34Rm319334K234p734bQ34T333SR33Fv34O1343Y29p347w32dY2cT24D34HR31d434TR34GS347934Fg1e21a32Qi34Tu34ko31Yb34jF34BZ33Tu34OQ312q34f427826q22f22t34i834oT34Kz34iC3453337W31my34ig310334053105348C341W34p4332B31R2317734QG31Oh31BD343x281336Q2BS33Ac2lF28t31Mh338034w2290339Z34w128u32rm34W434w929134VZ28q34W52w02p0339k2aV318h1h1w31172J32a92vh33A02tx33fJ2BK2iT2Pa2bF2p42rw340b310k347222122027f34Fb2Zx32Dl32vp32K333mY32K5323e330J22e21r2K91t22C32l31d21X2301Z31281633i310231121b1d1F1V1U326331cV2uX31y61b1H1P1921I21C328v33Bf342m22A21F32R91B122252381421y33lf21n1o3124317x21I2oM34xX336D32zq1Z2I921h34CD32172ez1O22P31x4322W21c337929R317U151F2t022T31dq23B1o33nV31Yg237311c21u31601t21Q21q1b1t23d31dq32R5317Q33xk29Z31DQ2aD2l9318I2D11B2332o721z1I1S23222C34zF2ZX2qN31S43124310w321531ex31e4182K623b31D321v31Dd326331G221W22p2141r1232Qm1f1b33Mj32R521J21I31X033mW317W2AC21B1q1t21W23D1423422q33HM338H31Ci31T51q32sl319w33bQ2o722T33D81t1T22S31Ze32sE1S31v6319i1333HH1021S26s22z23722m24Z22f2o723831Ic319W33S633Ih351o23633Uw31Kb32Pq2UE2G822c33Xj29x33NJ23733XV10318131by317n2AS2vW319W1w21f1J323e2Zl33lG311g151p22823F1D1B223339R339T21K339v33Bq2j1342a1Y2oa22c23431i522A32q72A21V22t2uX31rR31rT1S2202MK31rY2Q02BY312U1s22X2302111B1g310U1b22H22d2d51122m1Q23a21f1B312P23232dp34e21N22131J92211934As32FK32l132fM22c31Uh3520353U2o721w2172c41O22T354431Ci34YB33Pm141722b21u1R22h2312141B1f319521y1I27Z32Cc33Bv1034WM27v1s1q31341521n339S31pL351B33mR2o722d1h2191422n2102km350116323e33xt34Yb33d81B21531z623j2zL34zW31v81M2UM22B31jn31Jp33Yb21n33OW1023e31By311227A2192152hF21z2Ab2a21x3110322C334O23731x431841N333V31wz2Un2zI22T1D31rb1031RR32a31K31DV312A2E421333kf2Aa1821a2E31L21D35322Qt22t32dP21y191p21S354p2GF23c2Zl21y31271N21I318632K522s32Em21e31Wl31zK2aV34Ca33Ul31bY22r27Y34Xx21m330331RU1d31dZ31uH34wp33Eb313a22f21I33c11b2ap1O32fr22S311c357g31uv2co349A34SC2fQ31X422721p328z1t1L1d2242373253350X1e32v621V319W319Y22633CA2Qs314A33y02g023832PM1823H2Vc2k52oM2mP34Tt311121L1k21e31TJ33eq2zr1K34Xt31121821G334f23733M131221F1R2d432I831cN311h31G431X031ya31zt2km311R310Q2201v21031by313J2F334Zi1P324e1j1p1e34pW2Ud318431X012235353f1731Dw33Bp2363110318H2d5171n21m21o31i3356z2g022f21e2iV2362ux32Qu358J2Ab322Q1935AO2vc21z32fT1n334m1D233311022A31X92a534wn358432W12bx31Ti31rt358q2fT2UK2um33Mw32zZ359j2g933vT31cN29Z31By22821r2iq2T01W35At2O722S2fk1n1I33JV2BX2312fx1s23i311c34wM35am35CG33Lp312u312W1N312Y313011357d353k2Qm21F33Fd2Qk22H23721N2kY162mv351f2kW22g33EC318g311031yL31yn313431Yq2Qk35Co2ql22b21n11353922P35e631yu3505342E2Zl32pg1t31Pl21X22r2aE1J33vw32vz31RU23i2G0312335Ay33MJ31wQ318K2K61L31U5312q2UX22W2uh2Uj2ul357k23C34ZV2a221J21r1531G233y433O134yY29x3232276313Q31rv313T313v2Km33022Ui311923i35av31841S31G827p328S31yU31C533C22E92yE22i21h33fe1B1C33LO2uX2hr2k632hs32jX32Ff34zl2Av3360335122Q35e4350f2B51p32Bb1M1Q35ay1m22831eF318K21B311021U21c31341a2Ig35Dd321531bY23931w231Yu33N431x0217327z31tF35181035cQ31Xa1P1j21x352s3538352U323d22h23821D33D81J2KJ23c311C31WQ31661831ac350531d33597339t35BU27p21W355h32XR312J355T2qN35e7354d35Ea35ec35EE23423331G721u34s32zL359732k5339t2Ka1m1M32Pp27926O25R2152VC22P34Zd1t2J31423F2o722r2Dc333932kr2a331ac1235JG32qB25M2ha311C29u2q831ah2352Ux35i331Xb35i623833Lm2bY350d27622X1q21835c334xw31G223635E4324831T431T62aL22p32ED321532Dp22v2QS35CA2g8322o311X31B4358j313432k5348T32kN2vc34Yf329433os356z356O2a221b2AO2aQ2As236355A228353m2a7353O353Q22x2131O353335HD35ep35CP21f35FY162272MW359c35bM27631rR171g31g635ap2191a1e21x22w21335Je33s622721r33Rt31cu22T1e32sD22B21M32s81p31bN32rB33i035fY1S1621R32F51921821933BR34yX1232Zt35n923h32Fc1Q1Y32Vm31dq31I2329X31cV35aV2352mn32p721M33F721D2171h336G31ty31am330r2C531D3358v35kN21m21I35bt2Gg35FY33aW32qY31dQ2202132RM33c121c317O33mX27635jU29y31w134Zu2Zx31RR310U1933uq33w533wd35c833wN35n921w21j33xN33lD356m323A32k235AV31y635je21321j27F312822n2362vS31cN23h31DQ35dI2c331yu2NF29Z351W21331dD2IE35p42D533Vy21d141C33RI2G022q2jT1323e2Km2361J34yh1223f311035JU31n533A931yo358l34e635er359v2zr21D32Vm33b72ZV342m22C35g21B2iX317633yN33B2338533S32ci32e832dn21131By22e21f312p2KA1122635092d335NE2ZL318B318D35AT31x435HL29V1F21P312w181O21121f31Uw22r32Dp2kw2a82t3310v2JT23E33r335iE31gp35iH2t331Zw33Xh357p1x357R31dv2a931o931122CC350u21g33a82ZR35N922322v356m35E422b21k1A2AJ171D1e2CV21G31172Qp2Fv1V31422BX3567356923F31ts323K1p22322s357a2322g031472fy33W334Kn21r355C34yD311c358g15192bJ1M1r23i355A35kb35i521X23933gI317W1533Gl31En22A22Q33E41722s31By352O34ZY27r2AP2aR1a23621731D91033AH319K2Gw33QI2yT2H12YW2H42yZ2H72z233qq2Z52Z72Dr33Qv2Dx33Qx22H3533354n35R935CR33N435I72e733GF313a350F31u631Z31N22c22S22A330J33uo22g35f633TL21T23E31EA1221y31j921K23c34aS33cb34xw33ce31bY22P22A32Yj32HT31Tx322Q21d2g02252101Q1g23931wv3581315A33xm2Zx35W433am35TM32741I22Q33Rw27633RY2e227921E23634uz355U31uu31x02Id313u329W22A31J9347P31tR2av33tw2D633sg314e23b31bi350W350y34XY351135RW321S21i33032322Km22r2D935912fy35Kq35lP2qF23421r31ty359R22422t31za33W135Q02Ud35Au35k831wV33MH32AD23j2sS1J2Q031U031Ck31CM31Co224355K2dd33rU35862Ln34YF1O35V535Oh34yv31Xa31D635yk31By21V35O3310F2DD2eg33tL23B2zL35Fe1N35hC319W31EG314g2ZX22e2IB35at2Zl35v7350H35vA22P33082zX32R5325035P82Kc35541X2le1d32a52ie222317321735N6330J35Bo2cv32603180314e33Ej357E31CH35aQ2962Al2211722621T1I22n1c21I356w2Eb1R22q2ck33Qg35Uh2gy35Uj319p33qM35UN319t2Z333qR35US2Z92dv35Uv2KJ2e135812e62e835Qw35F3347U2qL32Aq330v32AU334Y2121T2dn33b5355T236171r21d21834402mP35C1327a35Fr33Mw31x433vz320M353Z35Id35nu31df31BY35Do35me21m214325L352d29z311035Lo353N359U31N42o835aV34wM35gh2jT31pl1u35gl33C1311j31s62ZX23b338I1s2c432Og22Q357133jt31tL2dA1631n52v731by35Tq35i623335p7362h32312O7323b34Zd321531DQ34Zn34zs21r357531aC34Uo21622y32p92g822R35YN33Fe35SO151V35f8359f313D315a35pT1U35jH27721s26726735wR22634YP34YR3531314933mC335Z336f3350336233Hu2ux22b31AA328w351433hU330J33Mo33Mq1D355H22x21M310Q35Y43110322O35e121n219181F31x02dr21M27621y21F1R22622U213310w2261Q22x22X224333935Y7313U21w2242G421t32L3351b351m1F22021t21t22d2UL1c310Q338r13362Q2Al2222m11522721Z2VA22321K35V035I435i622U333j235355a21Z350w1r22735ea35Eu22818224151o22h31G42272LH1l35DB3183313D32ai31Vs35z12V7311c363m2E41731DX1C23f32dP22T33r022u330j35cq33m433m611312631282V72km232314034YR22S2vC2KW2Kj2Bf1223D32vA32jY34TP1035Ti2dt1n2Ch33K633EI352H31wv35iE31G8322Q35yH311q21m21e22f2zl350q35q922023721M1T32qY35za21F350G35v922C22q22c35Av33Mo1O21g31zN2B42LE21j2sl2ON35s231tA3180352u33bq2kM35bY2ea1R23C330j362735Lq22s27w1t22A22r35g8322u2a431y931aC1n35hy350923j35Av367H1s33M5329w33m733m933MB360231uo361h361J361L35C021M21F2G423B31uh33W031ZC31x435Cq317U317w1x35Al35cF35aO31wp31Z635O233HU2g0313y314035jS2Ie21Y34Lt35002Ae2Ag2ai2aK35L1321Q35Qn318E33hu351W22833R22ye35kj21821p2aa1l22231J922K1S348X318A21n33dZ21f21h33PM22U34zV1K33a8332h31dA35jx1032R1322436ak35v11H1z365635D22Uo34z632kk21x361V364c32eE311c35ta2MR35v431x4367636481G2xZ2Gg322333LO33LF333O21j32yh1o35C022J32fU35E2355A35ju33r61H313S36AB361N35d135fs2sC27632lm28b324t22b21433Mp2Ky1d1422C2K628U21n31bY22b35TF31pE1n22a2Uc2gi338G2YE35AD2P535Ff355t3184355W355y2Id356131g235yF33MR33uh35xI31en31Rt32QY2O733cb1423932DP2341s1u367s2ye3147364833bq368j1Y31Tw18366l35ET1P22U356W33A831Df2O722u1a29O351u31y533Xz34Y71933LO2G031CJ191A34xt35Zb368U22r22d32Dp22432A2238311c35S91521w367D33r133ca313D31x033cD34FH2u635lo31YV36501N365c231360V1823f353w35t3315W362w362y33Ba33l921i2jz31X031dC2lE35H233JS33DZ35Cf2352zl32zr35N92FX1T35HD35uA31X4358G312531273129322y23631X432R521332vP1y21L31cN35bl34aE21c23431eW2ud2Kw2hf324035a733Ow1l23731by35ZR35hq35DF33Hu35pM27622521K2iq350C31uJ354g1H21x2mK366c21x363331qB34XW21T22Z31RS31RU354031RX2FK1S360931oj35ty354F1m32Vy35B8192201S21335a72iQ322431CX2mf22823735V4330j23b325l36d821O32i831uS35Sp2cv23635Jm2A221G21d36gR36F835sO1V36iS369z35CR35tR369p2vG332I35mN2kC2vc35R035b41T21S2XU32fu2kO324U2aj33b0311a1p33062202uM1N35Ow2VC318H33HU311C35X333C22E432VY32Qu35N533K822824B24E26x352822F1A31h8314W23d35C31835i736Dv355f35Ew323d22122B22c23121033AM2271021o2kM22P181431eg360h36JY368s3685323j36Gx33I533I71B33i92ZL33dx33DZ2q835mj311034XH1R2Kb1k1d21l35DY358m2IE31e031YN1P2602502w831sG28231xW2l726H26G27D2b832d6324Q31n321E21f31p92722732EQ332A2js27f324y2hj338L2b432gU21k21L32mF33a8312832tF1121v21U2EQ32CV34k432o12lh2Z41I333U1123w23X2Eq333x1123U23v2EQ1S1E31Sd23f2eQ31U62Ex33dA355q315c21l21L36N031dx112622632Eq2B41123y23Z2Eq31n4112692682eq1636Bz2302312eQ322R317w31Ze2c01M1123b23a2EQ2cD1121g31ea2b41A1o36Nc36Ne2b41B1P112702712eq1831G735142eQ19312823J35To2b41e35GH21s2yM2B41F35f324N24m2Eq35pU1122122136n01d1V1124p24O2eQ21E2EW25K25l2eQ21F1X1121z21Y2eQ21C31Y732qp2Eq21D1z1131h736n021i21032RC2212eQ21J33Vm2FD36N021G212112542552Eq21H2B222C22D2Eq362131Q836p82b421n2ik326221K2161124X24w2EQ21l2XX2602612EQ21q31wx32ud21R219112282292eQ21O21a1122e22F2eq33111122431mG1I1Y33f72wU1i1z21D1125I25j2EQ1W21e367k32O01X21f1121r21R36n021235sc26z26y36Mn329w36BZ21g32m834EQ2tN2LU23x23w36mx2wP24i24J2eQ32fz27327232H7320M31O632XK2jN36N0326q21b31bK2b436Ng24m24n2eQ32Cy324Q36n036nm31Q92B436NR21F358o2B436nW1125r25q36O0311H32TE36O411369536O82AK21n35eT2b436oE23c23D36oi2B631p8369336BZ22F22E36Os1l1124B24A2eq1436ox27M36N036P221l2gr36P636P82K936n036Pc1122k22L36PH31G72rL36N036pM1124u24V2eq36pr112422432Eq36Pw31qb2SD1i36Q12y82B436q61122s35592B436qc1125b25A36qG36Qi23123036qm31Y722v22U36Qq36qS2592582eq36QW35R436lE2b436R11132p736r436R625X25W36rA2B226426536Rf2141125d25C2Eq36Rk1122D22C2eq36Rn1121e36sT2B436rt1125Q25R36rx31wX23L23K2EQ36s11123Q23R36S636s822u22v36SC31BK2662672eq36Si36P336P536sl36sN22X22W36SR36ST365T36N036sw1125u25v2eq36T231pA36T633c11236T931n332Xm2lU2nw36N0332A22522436tK2Kb23735lm36N4320M32HT32XK25L25K32uh2ZH2d136Nf317v22p22o36U1313U26D26C2eQ36Nm24V24U36nq31G224324236nV36Nx34X536Ug112322332Eq12315c21c31Go2B436o921X27536UQ31h131oC36UU1121u21V36oN36BZ22h31LC2b436oT21W21X36v636Ox2xg2B436P2315b2eq36P71125o25P2eq36VI21H21G36VM354H22N36PL312826k26l36vu35GH33Ox33p135f325H25G36q01U321132fP2KQ36q722R22q36Qb2eW23p31592b436qH2j52jl1i36Qn1126T26s36wo1124424536wS36QX22W22x36r033VM328h2b436r51126i26J36X41124924836x8312Q22s36xD2ik34BO36XJ22922836Rs2XX25v25U36XS1126U26v36Xw36S224d24C36y11125m25N36y51124e24F36y933f724G24h2eQ36Sm1121O35UD1I36ss1121X21x36yK36Sx21P21p36T135sC24T24s36ys33R036yv310933Xr31p926G26h36TG2PH36z41122A22B36tO1122733nr32Xk23Z23y36ZE11329736N036Ng26A26B36ZL1124624736zp2D923s23T36Zt1124c24D36zX33bi2aK2b436O121Y21Y36n03705112452442EQ36o9345n370d1124W24X370g26J26i370K1122z22Y36V11125f25e370s36so36SQ370V312P24K24l370y36P826S26T371336PD248249371732U81I36vq23t23S371e1124Q24r36vz35F326x26w371l1125z25y2eq36W721A21B371t1121I21J36Wg1125p25O36Wk2Zi35f32B436Qr1123g23h372a1124l33Ep36WW33vm26f26E2EQ372I26E26f372m26O26P372Q21p2ee36rj2IK310N36N036xJ26R26Q372z11314E36N036Ry34vR36XX26V26u373B21T21s373F2dx36n036Ya26Q26R373N36SN24A24b36yh112382392Eq36yL34Zq37411121F36SX27P2b82aJ1436T92lM32sh2Ll2392382pf2R736n1379e27623n23R36v726Q36zo1025x25x32MF21221q32SD1x333J2161r21C2Iv32Uc19328L2QQ317v25725636ZL21222N36ut2B4333U21236hL2WF327X24W24A2be1I36nr379j27P328n318K2rn31n832Of31sy33am31Gr32Is32G237511124724627D317u1S1G1C32uO33402Q3315E379L141A267379s1026D26D2x1379v2x31421626N25h2Fh2P22W336N1326s31b33179325u332v23q24G36TG21222o36Ql32fv21425224E324k32gu25y25z2no2EN32Ht2J031ba2j0339f2xN23Y36QA2XP2wp35jf27K2J031nO332v37c637Bo21423622I33VF32Fz36Vs31B32Y7325731vX23b22L37d2324Z37C236to37c537c732ne37CA32Hd1125125027D2iQ2EN32cL2Cf31Ba2cf33CN2bG327625224c325u32c526l26K374q31NM33dt32n332Y632CM1w21231Fh326421223r373M2If32ce1f2112jZ37a611255254374x37En37b137eQ27P31762W22be34Y73244376K2192182uk1937Ed37EF32ci21637eI37EK36Ng35hD374x37fb37AE2Yy357o37a337ev1c37Ex1R376K332R37eC37eE32c732c937f832ox36NG2be36N032cY25A25B37B137FY27d37eU2jo37eW1P37EY1927V32cs37f437Fq37F737EJ37Ft317V25C25d374x37gh37B137Gk37Et1937FI37fK376k26926937GA37fp37EG37fR37GE37El23d23c374x26C37BL37FE1137H337g237gO37g437Fj37g637FL32c921737F237gB37gw37GD37F9317V23I23j374x37hM37B137Hp37Gn37Gp37hc376K37Fq2141h36i331OJ32Cy24024137B121S321037HS37Ha1X333O21421M376k32Ox36nm37i237B51a37fI32O137Df32o423P24v318K327r327T37D937Ip328e24M23W37ip31T621426X25t32M636Uc25w37BI1131r02jb328h328N1S35q3310n32OR2j032y431n831792Nw327W1C37iZ37J11A350936nx311627f37JE31Z327d37jh2q337JJ37iY37J037j236nX21v21v37js34xY2xZ348i37JW32j61f37jK37Jm37K11121h21h37K532i82IC37JV2q237JX37kB37jz37Jn37jP1126N26M28c37K633qS2Jr37KM37Ka37Kc37k037Jo36uC2bJ37kI2vW339y37K937jY37JL37L237kR24j24I37KV32i832YF37KL37jI37KO37jL24P23l37Ke24y24z36Ug31FJ2KB2if21A1f21622722T37jJ37Lw31U335ME365029q2vy32D633fY1233rm151C317737k931g437Kc37hy37do36Uc2132ox1i36O137I527K37Au2jO37jJ2181d37iB36w31C37MN311h316f33A01D2w237Jj21b1e37mw37Am375H37ml33XC1E2W232P71X37LW37jM31G936o92Ay37jS1G328032R927D31R031792AY37NG1f37NI312i36o925025128c37NN151e318l37NR2Q337nt37nh37J037NJ2AK358J37NM32801931N937o6316k37Nu37JM32Wy36o924s24T37O1328031co37Nq34Zd37o71i37OK37Mi31Oj36o9379a375O37MP27p31R02W237NT21d1G37Mw326d36Oe1Y31y727P315B37P637OW34Yb37Pa1f31h12b626726627d31O82W2310U36SW1i37PK31zP36Bz310U27K31N52w227H1x21e1J37pw36ot33xd2F71J2W2314e1X21h1k37jm32p736OW1134y028C33C133ho33WQ31oC31792d337qE37qG37j037qI36v71121Q2Cl29637Qn1a2u6378A1k37Qr317x37qf37qH37NN37qx31vl329W2xQ1l33eM37QQ2Q337QS37R937qV37rB36Ox21r21q37QM2xQ1k31O937R537R737qT37RA37QJ1w2ly37rE2CD2QY37ri310f37R837Qu25T37qw36OX23H23g37RR35tW36d337S537rK37S832Mq37Qx25J25i37Se324t27D37sh37S737jm37SK36oX2wQ37s21g326t37sR37qj35n537sq1k1y21G31UU338H37qX31fq36P11n21223z24p28C1q331u32J937RV2q332Sc37t132LM37r537T537t737qJ23n23m37TB37Td37TF29637th1532FR37t3317932SC37rX37J0324x37qx26526437SE31Uk37U237Rj37ss37U62Ay37qX2JF37S22nE37Ud37s637U525t37U736OX26p26o37se2K837uM37si37JM310u37qJ24r24q37SE1U37FG37sr37RX37OY37qj21y21z37tb1137p337r52w237Qs21g1L37Mw27h3280312P36vx27d326s37vG317X21j1M37Vk1k1I370z23r23Q27D35z12W237Tm36Vi22q22R27D2D61y21N33bd2qp36Vi223222371731gN36vP312837Fd1I36VV21133182L931U52vy33Ps33Jn2d63179351T36Ao1n37jm314e1i36VI23523428C32S9366R2vg27p37WV2q32K937x236pd33pB1137W937wB37X136vi24Z24y27d31g62822k931xB1R324v2Od37xh1N317933A937wy37x037Wd36Pd26B26A37x61Q151q314H37xB1037xd37W537w737XA1N37wa1p35Jf37xe2Al21w36n036pi1135LI371A31rA376o37Wo28C334m1521132zk37Xw37Ww1t37Yl37xg37xI37yj2bz36vI26M26n37Xo32Sa27z37XR1p37Xt2102ly37z12q333A937Z431N937z637YK36VI23f23E37Zc37xQ32Sa37zG2nP1Y37w837xX37zl1r37Y037j037zq36Pd2et37jS37x732MU380031792k9380425T38061125225337Y61531vW380c37Xc1q380F380h233232380l1w316G37yG380d380q313337Jm380h21m21M380937y71z32rE37YB380E381137V836Vi263262371737ve2D62w2380e21l1O37mw2d31I37yP25625727d31DV381K351m36vq37XG311x36hF3140359c36vQ2d027d2D028231H71237YX1Y2PE31Q81P37z21x21k35ha37V836VQ241240376O37Ve311x2w231H71x21N1q37Mw33cN37wM35Gh32mK31G6382R1S1X21m1R382W31US36W031p633Oy31w22jO37wX21p1S383736w3371M23v23u382636eQ2jo2Jn1x21o1T37JM37XD36w725T25s28C1y1W15219335c36qt36h12q33297383q383S37J0383U36Q7271270383y384021833dA384431793847383r383t351m36W721036qX296383z1521b316u384J384637s0384M384A384o36Q7253252384F15358027d2d1384K384Z384925T37ZM36W722g22h385621532Lb385a384Y384837jm385f36Q7234366g384s3840314z3859384534pg385c37JM31h7371P1126Y26Z38562172jW384x385z385o37j0386236w723623738562VR385X385b386C25T386E36Q721M319I385U1521H21C386k385n3850386n351Y36W732Rg385636Jj386W386b386Y386O1122o22P385621J36UA386a384l385d38782B1385621I36mt27p385m3876387h387036Q7258259385621D3716387N385Y387g3861387r35e22Ep12384t21C36p5387f3860386d388221z21z37Js384T21f21I38753880388B386325e25f385621e3777387Y386L3877388233l7386S21p36Vd3889386M38782bB388F384021o36N7388s386x387Q386323m23n385621r36533898387p3881386332QO385621Q386r3890388u386322l22K385621l3781389p389a36W722N22M385621K35Ud389X37hx37Hz386326W26X377437VE2D12w2384721R1u37MW351T1I36wC33Cn27k34Y038ae37s021Q1v38Ai37z3371y25N25m27d1U38ao316N36qI1W37jm2JN372131Y7215335c315u32b421N37RQ27p31fq317927m38b238B434Y137221Z37zz2962VP1521m37R0320D38BG1z38bi37J02Rl38B6326R36bZ38Bo32B421X378K38Be1W38BU38Bw25T38by372233F628c38BP21w36Pu38BT2q338bH374R37Jm38cB31y722Y22z38cE32B421Z36Pa38Ci328738bv38cl37V8372221n389g1i377g37Ve31FQ2W238BH37eG37IC329738D336qs26126027d37s038D734YY36QN21223822A27D1Y1z2jb345n38bM1G21g37WP327o23S24U27z1I36XE27r27k2b133xz21538932IJ2Jb37N133XR2jB2et162192172Ld1237k32Ua2eb37n12B1317927v1133VL32Bt1023o24m2Wh2lh24L24n27Z24t24v38E036WT314v27K38bm1y1636Lc31oj36WT23A23B27d37wo171z38FB1I36WX37AP32RI36LC1y37wO36QX33Vl33D427l1Y317937N131sv37kG"),(#v-W);local function n(n,o,...)if(n==119504347)then return(e((((o)-276925)-487932)-33683,43142));elseif(n==101488973)then return((e((e(e(o,748521),950291))-326005,99160))-478906);elseif(n==326726752)then return(e(e(e(o,12571),154028),60908));elseif(n==580309215)then return(e(((o)-156076)-974287,535834));elseif(n==195054486)then return(e((e((e(o,316989))-511402,110182))-233198,597748));elseif(n==55002019)then return(((((o)-591827)-908242)-326228)-253411);elseif(n==260068711)then return(e((e(o,701640))-763290,520083));elseif(n==826865206)then return((e(((e(o,298504))-892781)-117774,514208))-756029);elseif(n==985166501)then return(e(((((o)-651385)-649588)-646370)-242667,684659));elseif(n==206956651)then return(((((e(o,900050))-74570)-958646)-29055)-878660);elseif(n==979246129)then return(((e((o)-690894,338611))-438135)-30232);else end;end;local a=o[(968409689)];local r=o[(734772947)];local d=o[(821392236)];local p=o['PYqtm5U'];local w=o[(174167916)];local _=o["SLsDZ"];local c=o[(260901593)];local E=o[(680784396)];do local function n(...)local n=n-(-#(not n))and((not#(not n)^((-n))()+(((-#n))._)()*((#n)._)()==#n/(#(not n))()))()%(((-(not n)))._)()/(((-#(not{((-#(not n)))();((not n))._;})))._)()and(((-(not n)))._)()>(#(not n))()>#n or((-#(not n)))._==(-#n)==((#(not n))._)()/(-n);end;end;local function i(o,n,t)if(t)then local n=(o/c^(n-d))%c^((t-d)-(n-d)+d);return(n-(n%d));else local n=c^(n-d);return(((o%(n+n)>=n)and(d))or(a));end;end;local function a()local o,d,n,a=x(h,l,l+E);o=e(o,t);t=o%_;d=e(d,t);t=d%_;n=e(n,t);t=n%_;a=e(a,t);t=a%_;l=l+w;return((a*r)+(n*p)+(d*_)+o);end;local function r()local n,o=x(h,l,l+c);n=e(n,t);t=n%_;o=e(o,t);t=o%_;l=l+c;return((o*_)+n);end;local function c()local n=e(x(h,l,l),t);t=n%_;l=(l+d);return(n);end;local g="\35";local function k(...)return({...}),U(g,...);end;local function N(...)local C=o["wysY90V3A7"];local b=o["oLw70tvZI"];local N=o[(886354547)];local D=o[((#{995;448;55;(function(...)return 797,596,895,831,...;end)(14)}+464972754))];local w=o[(260901593)];local M=o[(674618067)];local E=o[(814717352)];local v=o.GXUSx;local P=o[((#{578;}+453808090))];local d=o[(968409689)];local g=o[(161435629)];local I=o["SLsDZ"];local y=o[(920653916)];local p=o[((#{649;169;}+835011840))];local A=o["XCcnfsa"];local U=o["YGF0ga"];local G=o[(323391854)];local B=o[(174167916)];local L=o[((489381441-#("oh Mr. Pools, thats a little close please dont touch me there... please Mr. Pools I am only eight years old please stop...")))];local Q=o[(736017625)];local F=o[(680784396)];local W=o['U3EYtfy3'];local _=o[((#{958;148;(function(...)return;end)()}+821392234))];local z=o['JybJ3eX6'];do local function n(...)while(((-{[((((-#(not n)))._)())]=(#(not n))._;(#n)._;}))()>=(((-#(not{[(((-#(-(not n))and(((-#(not n)))._)()*(n)()>=(((-n))._)()))._)]=n;(-n);})))._)()and((-(not n)))()>(((-(not n)))._)()-(not n)-((n)._)()/(((-n))._)()%((-(not n)))._^(((-#n))._)()<=(-(not n))or((-(not n)))()/((#(not n))._)())do local n=((-#(not n)))();for n=(-n)<=(((-(not{[(((-#(not n)))._)]=#n;((#(not n))._)();})))._)()^n-(#n)._ or((#n)._)()-((not n))._/(#n)()>=(#n)()>=(#n)._>=(((-(not n)))._)(),((-n))._<=(#n)._>=(((not(function(o,o,o,o,o,o,o,n,...)return(not n),(#n)._;end)))._)()*((-(not n)))._ and((n)._)()>(n)._*((n)._)()==(n)._/((-#(not n)))()/((not n))._,(((-n))._)()<=#(not n)<(((-#(not n)))._)()<=((not n))._ or(-#n)%(-#n)-(-n)or(#(not n))._/(-#(not n))/(((-(not n)))._)()do for n=(#(not n))()%((-#n))._+(n)()-((#n)._)()^(not n)and#(not n)and((-(not n)))._^((#n)._)(),(((-(not n)))._)()*(n)()and(((-n))._)()/(#(not n))()%(n)()%((not n))()or(((-#(not n)))._)()%((not n))(),((-(not n)))()-(n)._*(#(not n))._/(#(not n))._%((-#n))()-n>((-#(not n)))._-#(not n)do end;local n=((-(not n)))();while((((-(not n)))._)()or(#(not n))()>#(not n)and#(not n)/(-#n)/(#n)._<(((-n))._)()/(#(not n))())do end;local n=(((-(not n)))._)();while((#n)()^(-#n)<=#(not n)>=(((not n))._)()>(-(not n))<=(-#n)^(n)()/(#(not n))())do end;local function n(...)end;end;local o=(((-#((#n)._)()<(((-(not n)))._)()or#(not n)/((-#(not n)))()>((-#(not n)))()+(n)()<=(((-#(not n)))._)()or((#(not n))._)()))._)();if(((#o)._)()/(-(not o))^((#(not{[((((-o))._)())]=(-(not o));(-(not o));(-o);}))._)()^((-#{}))()/(((-#o))._)()%(-(not o))or(((-o))._)()-(#(not o))._+(((-#(not o)))._)()*(-o))then if(((-#(not(((-#o))._)()+((not o))()==(#o)()<(#(not o))._)))._%((-#(function(o,o,o,o,o,o,o,n,...)return(not n),((not n))._,(not n),(((-(not n)))._)(),(#n)();end)))()and((not o))._*((-o))._>=(-(not o))>=(o)()-((-(not o)))()*((-(not o)))())then end;if((((-(not o)))._)()+(((-#(not o)))._)()or(#(not o))._<((-(not o)))()or((-(not o)))._/((-(not o)))._+((not o))()/(o)._)then end;local n=((-(not o)))._;if((-(not(((not n))._)()-((-#(not n)))._<=(((-#n))._)()==(-#n)))+((n)._)()or((#n)._)()*(((-n))._)()>=((-n))()+(#(not n))()and(#n)()-((-#(not n)))())then end;for n=(((not{[((not n))]=(n)._;#(not n);((-(not n)))._;[(((#(not n))._)())]=((-#n))._;[((n)())]=((n)._)();(#n)._;}))._)()or((-#n))._<=(((-n))._)()*((-#n))()+((n)._)()>=(n)._%(#n)()>(((-#n))._)(),(((-#(not n)))._)()%((-#n))()==(-#n)%((not n))()<=((-#n))._%(#n)._%(-(not n))>=n,(n)._-(#(not{[(((#n)._)())]=(-#n);[((((-#(not n)))._)())]=((-#(not n)))._;[(((#n)._)())]=n;((-n))();((-(not n)))();[(n)]=(((-(not n)))._)();((not n))();}))()/((-#n))._>=n==((not n))()%(not n)%(-(not n))>((-(not n)))._ do end;if((not n)^(((-#n))._)()or(((-#(not n)))._)()<=(#(not n))()^(not n)^(n)()<(((-#n))._)()or((-n))())then end;local function n(...)end;end;local n=(((not o))._)();for n=(((-n))._)()<=((not n))._^((-n))()or(#n)._ and(-(not n))/((-#n))()<=((#(not n))._)()==((-n))()<(#(not n))()<=(((-#(not n)))._)(),((-(not n)))()==((-(#(not n))()>((-#(not n)))()+(n)()and((-#(not n)))()or(n)._>(((-n))._)()))._ or(-#(not n))<(((-(not n)))._)()>(-(not n))-((-n))._+((-(not n)))._<=(((-n))._)()+((n)._)()%((-#(not n)))(),((#(not n))._)()<=(((-#n))._)()*((-(not(function(o,o,o,o,o,o,n,...)return((n)._)();end))))._-(-(not(((-#n))._)()*((n)._)()%(#n)._/(#n)()))or(-#n)^((-#n))._>(#n)._/#n==(n)()<((-n))()do for n=(((-#(not n)))._)()>(-(not(function(n,n,n,n,n,n,...)return;end)))or((not n))()>((n)._)()<(-#n)^(((-#n))._)()==((-#n))._ or(n)._,((-#(not(function(...)return(n)(),(((-#(not n)))._)(),(#n)._,(((-n))._)(),((-(not n)))(),((n)._)(),(-#(not n)),#(not n);end))))._-(((-#n))._)()%(-#(not n))/((#n)._)()*((-n))()/((-(not n)))()+(#(not n))._>(((-#n))._)(),(n)()<(-#(not n))==((not n))()/(((-#n))._)()/((-#(not n)))._ and(not n)*((-#n))()or((-#n))()do end;for n=(((not n))()-(((-#(not n)))._)()-(-#n)<=#n)._^(-(not n))>=(-(not n))or((-(not n)))._+((-#(not n)))()and((not n))()+(-(not n))+(#(not n))._,(#n)()<=((-(not(function(...)return(n)._,(n)(),(not n),((-#(not n)))._,(-#(not n));end))))()+#n<=((not n))()or((-(not n)))._ and#(not n)or(-#(not n))/(-(not n)),((not{[((((-(not n)))._)())]=(#(not n))();(-(not n));}))._ and(((-#(not n)+(n)()<=(-(not n))>=((-(not n)))._))._)()and((-#(not n)))._/(n)()>(n)._%(-(not n))>n-((#(not n))._)()do end;local n=(-n);local function n(...)end;while((((not n))._)()-((not{}))()*((n)._)()^(#(not n))._==(not n)>(((-n))._)()/(#(not n))._ and(n)())do end;local n=(#(not(-#n)<(not n)-((-(not n)))()^(((-(not n)))._)()^(#n)._*((not n))._))._;while(((-(not n)))()-#n-((-#(not n)))._<(((-(not n)))._)()^(not n)<(-#n)>(-n)/(n)())do end;end;for n=((-#{[((((-#(not n)))._)())]=(not n);}))._==((-#n))()-((-n))()or(-{((-n))();})^((-#n))()>(n)()and((-n))._<=((-#n))._ or((#n)._)()==(#(not n))(),(not(function(o,o,o,o,o,o,n,...)return((-#n))(),((#n)._)(),(((-(not n)))._)(),(#(not n))(),((n)._)(),((-(not n)))();end))-(#(not n))._+(((-#n))._)()<=((function(o,o,o,o,o,o,o,n,...)return((-n))._;end))._>=(-n)+(#n)()/(((-#(not n)))._)()+((-n))()>(((not n))._)()%((-(not n)))(),(not{#n;[(((-#(not n)))._)]=(((not n))._)();[(((-#(not n)))._)]=(#n)._;})*(#n)()>(-(not(function(...)return(-n);end)))-(#(not n))._ and(#n)()and(#(not n))()/(#(not n))._>=((-(not n)))()/(n)()-((#n)._)()do for n=((-n))._*((n)._)()and(-(not n))/(-#n)or(((-(not n)))._)()+(-#n)/((n)._)()>=#n,((-(not n)))._%((-(not(function(n,...)return;end))))._ or(-#n)+(#n)()and((-#n))()and(not n)/((-#n))()>=(#(not n))(),#(not n)-(((-#n))._)()/((-n))()*(-#n)^((#n)._)()+((-n))._*(((not n))._)()+(n)._ do end;while(((-#n))()+((#n)._)()+(#(not n))._<=(-(not n))+((-n))._>=n and((-#(not n)))()^((-(not n)))._)do end;local function n(...)end;while(((#(not n))._)()+((n)._)()%(-#n)or((n)._)()-((#(not n))._)()>((#n)._)()<((#(not n))._)()and(((-#(not n)))._)())do end;for n=((-#n))._>(#n)._<((-(not n)))._ or(not n)*(not n)or((#(not n))._)()==(#n)._>=((n)._)(),(((not{[((((-#(not n)))._)())]=((-(not n)))();}))._)()-((-n))()or((-(not n)))._==((-#n))._ or n>(((-#(not n)))._)()<=((#(not n))._)()^((-n))._,(-n)^(#(not n))()+((-#n))._^((-#(not n)))()%(((-#(not n)))._)()<=(#(not n))()<(((-(not n)))._)()^(#n)._ do end;local n=((#(not n==((-n))._>=((not n))()+((-n))._^(not n)<(#(not n))._))._)();end;for n=((-#n))()*(-{(((not n))._)();[(((n)._)())]=(n)();})>=((-#n))._*((-n))()or((-#n))._^((-(not n)))._*(-#(not n))<=(((-n))._)()==n==(-#n),(((-#n))._)()or((-(not n)))._ or((not n))._ and((-(not n)))()==((-#(not n)))()*(-#n)and(((-#n))._)()/#n^((-n))._<=((-(not n)))(),(((not n))._)()>(((not n))._)()>=(n)._==((-n))._+((-#(not n)))._<(((-#n))._)()-((#(not n))._)()>=((#(not n))._)()/(#(not n))()+((-#n))()do local n=(((function(o,o,o,o,o,n,...)return#(not n),#(not n),((-n))._,((#(not n))._)(),((-#n))(),((-n))._;end))._)();local function n(...)end;local function n(...)end;local function n(...)end;if(((-n))._ and((-#(not(-n)and((not n))()>((-n))()==((#n)._)())))()/(#n)()and(#n)()>(-#n)%(-(not n))%((#(not n))._)()or(((-(not n)))._)())then end;while(((-n^(#(not n))._>=((-(not n)))._<=#(not n)))()or(((not n))._)()>((-n))._<(n)._^((-#(not n)))()^(-#n)>=(#n)()^((not n))._)do end;local n=(#n)();end;local function n(...)while((((not(#(not n))._>((-n))._>(#(not n))._>=(-#n)))._)()==(((not n))._)()*((-#n))()-((n)._)()==(-#n)==(#n)()<=(((not n))._)()or((#n)._)())do end;local n=((not(#(not n))()>=((-(not n)))()>((-#n))()>=(#n)._<=(#n)()^((-#n))._))._;for n=((n)._)()^((not n))()and(-(not n))or#n>(-n)^(#(not n))._%((not n))()<((-#n))(),((n)._)()or(((-#(not{(n)._;})))._)()>(-#(not n))%((-#n))._*((-(not n)))()/((n)._)()*#n/(not n),((#n)._)()>=(not n)==(-#(not n))-(#n)()*(((-#n))._)()^((-(not n)))()-(((-(not n)))._)()>(#(not n))._ do end;while((((-(not n)))._)()^((-(not{[(((-(not n)))._)]=(((-#n))._)();((n)._)();})))._^((-#(not n)))()/((-#(not n)))()and(#n)()<(((not n))._)()*(-#(not n))>=((not n))())do end;local n=((-(not n)))();if(((n)._)()+((not n))()^(#n)._-((-#n))._<((-(not n)))._/((-n))._ and(not n)/(#n)._)then end;end;end;end;end;local function k(...)local m=({});local n=({});local u=({});for n=d,a(t)-_,_ do m[n]=k();end;local k=c(t);for o=d,a(t)-_,_ do local r=c(t);if(r==P)then local t=c(t);n[o]=(t~=d);elseif(r==W)then while(true)do local e=a(t);local t=a(t);local a=_;local l=(i(t,_,U)*(w^D))+e;local e=i(t,N,v);local t=((-_)^i(t,D));if(e==d)then if(l==d)then n[o]=(t*d);break;else e=_;a=d;end;elseif(e==z)then n[o]=(l==d)and(t*(_/d))or(t*(d/d));break;end;n[o]=T(t,e-A)*(a+(l/(w^g)));break;end;elseif(r==y)then while(true)do local a=a(t);if(a==d)then n[o]=('');break;end;if(a>G)then local d,r=(''),(f(h,l,l+a-_));l=l+a;for n=_,#r,_ do local n=e(x(f(r,n,n)),t);t=n%I;d=d..s[n];end;n[o]=d;else local _,d=(''),({x(h,l,l+a-_)});l=l+a;for o,n in Y(d)do local n=e(n,t);t=n%I;_=_..s[n];end;n[o]=_;end;break;end;elseif(r==g)then while(true)do local t=a(t);n[o]=f(h,l,l+t-_);l=l+t;break;end;else n[o]=nil end;end;local o=a(t);for n=d,o-_,_ do u[n]=({});end;for I=d,o-_,_ do local o=c(t);if(o~=d)then o=o-_;local f,h,l,e,x,D=d,d,d,d,d,d;local s=i(o,_,F);if(s==p)then elseif(s==F)then e=(r(t));h=(c(t));f=(r(t));l=u[(a(t))];elseif(s==_)then e=(r(t));h=(c(t));l=(a(t));elseif(s==w)then e=(r(t));h=(c(t));l=u[(a(t))];elseif(s==E)then e=(r(t));h=(c(t));f=(r(t));l=(a(t));x=({});for n=_,f,_ do x[n]=({[d]=c(t),[_]=r(t)});end;elseif(s==d)then e=(r(t));h=(c(t));f=(r(t));l=(r(t));end;if(i(o,B,B)==_)then e=n[e];end;if(i(o,p,p)==_)then f=n[f];end;if(i(o,b,b)==_)then D=u[a(t)];else D=u[I+_];end;if(i(o,E,E)==_)then l=n[l];end;if(i(o,C,C)==_)then x=({});for n=_,c(),_ do x[n]=a();end;end;local n=u[I];n[M]=x;n["fZdwdZr6"]=D;n[-685942.429714958]=f;n["cu6d5h9"]=h;n["zSgwdovkL"]=l;n[L]=e;end;end;local o=r(t);return({["BUFHqGod"]=n;[-Q]=m;[-983631.2653244246]=d;["ZNpeRz"]=o;['L33WJQ4']=k;["EF0zUc"]=u;});end;return(k(...));end;local function f(n,p,h,...)local x=n[-703835];local r=n['ZNpeRz'];local t=n['L33WJQ4'];local o=n["BUFHqGod"];local o=n["EF0zUc"];local d=0;return(function(...)local l=-685942.429714958;local c=({});local e='zSgwdovkL';local F=815888;local i={};local D='cu6d5h9';local n={};local _=(853966402);local w={...};local s=(U(g,...)-1);local _=553451;local d=o[d];local a=-(1);local o=(true);local E="fZdwdZr6";for o=0,s,1 do if(o>=t)then i[o-t]=w[o+1];else n[o]=w[o+1];end;end;local s=s-t+1;while(true)do local o=d;local t=o[D];d=o[E];if(t<=22)then if(t<=10)then if(t<=4)then if(t<=1)then if(t>0)then n[o[_]]=o[e];elseif(t<1)then if(n[o[_]]~=n[o[l]])then d=o[e];end;end;elseif(t<=2)then for o=o[_],o[e]do n[o]=(nil);end;elseif(t>3)then local e=x[o[e]];local d=o[F];local t={};local a=V({},{__index=function(o,n)local n=t[n];return(n[1][n[2]]);end,__newindex=function(_,n,o)local n=t[n];n[1][n[2]]=o;end;});for _=1,o[l],1 do local o=d[_];if(o[0]==0)then t[_-1]=({n,o[1]});else t[_-1]=({p,o[1]});end;c[#c+1]=t;end;n[o[_]]=f(e,a,h);elseif(t<4)then local t=o[_];local l=o[l];local _=t+2;local t=({n[t](n[t+1],n[_]);});for o=1,l do n[_+o]=t[o];end;local t=t[1];if(t)then n[_]=t;d=o[e];end;end;elseif(t<=7)then if(t<=5)then n[o[_]]=f(x[o[e]],(nil),h);elseif(t>6)then n[o[_]]=n[o[e]][n[o[l]]];elseif(t<7)then local t=o[_];local e={n[t](u(n,t+1,a));};local _=o[l];local o=0;for t=t,_ do o=o+1;n[t]=e[o];end;for o=_+1,r do n[o]=nil;end;end;elseif(t<=8)then n[o[_]]=b(o[e]);elseif(t>9)then local t=o[_];local l=n[t+2];local _=n[t]+l;n[t]=_;if(l>0)then if(_<=n[t+1])then d=o[e];n[t+3]=_;end;elseif(_>=n[t+1])then d=o[e];n[t+3]=_;end;elseif(t<10)then local l=o[_];local _={};for o=1,#c,1 do local o=c[o];for t=0,#o,1 do local o=o[t];local e=o[1];local t=o[2];if((e==n)and(t>=l))then _[t]=e[t];o[1]=_;end;end;end;end;elseif(t<=16)then if(t<=13)then if(t<=11)then n[o[_]]=#n[o[e]];elseif(t>12)then do return n[o[_]]();end;elseif(t<13)then n[o[_]]=p[o[e]];end;elseif(t<=14)then n[o[_]]=(o[e]~=0);elseif(t==15)then local o=o[_];do return n[o](u(n,o+1,a))end;elseif(t<=16)then local t=o[_];local e={n[t](n[t+1]);};local _=o[l];local o=0;for t=t,_ do o=o+1;n[t]=e[o];end;for o=_+1,r do n[o]=nil;end;end;elseif(t<=19)then if(t<=17)then if(n[o[_]])then d=o[e];end;elseif(t==18)then local t=o[_];local _,o=k(n[t](u(n,t+1,o[e])));a=o+t-1;local o=0;for t=t,a do o=o+1;n[t]=_[o];end;elseif(t<=19)then n[o[_]][o[e]]=o[l];end;elseif(t<=20)then elseif(t==21)then local t=o[_];local _=o[e];local l=50*(o[l]-1);local e=n[t];local o=0;for _=t+1,_ do e[l+o+1]=n[t+(_-t)];o=o+1;end;elseif(t<=22)then local t=o[_];n[t]=0+(n[t]);n[t+1]=0+(n[t+1]);n[t+2]=0+(n[t+2]);local _=n[t];local l=n[t+2];if(l>0)then if(_>n[t+1])then d=o[e];else n[t+3]=_;end;elseif(_<n[t+1])then d=o[e];else n[t+3]=_;end;end;elseif(t<=34)then if(t<=28)then if(t<=25)then if(t<=23)then local o=o[_];n[o]=n[o](u(n,o+1,a));for o=o+1,a do n[o]=nil;end;elseif(t>24)then local o=o[_];n[o]=n[o]();elseif(t<25)then if(o[_]>=n[o[l]])then d=o[e];end;end;elseif(t<=26)then local t=o[_];n[t](u(n,t+1,o[e]));for o=t+1,r do n[o]=nil;end;elseif(t==27)then n[o[_]][o[e]]=n[o[l]];elseif(t<=28)then local e=o[e];local t=n[e];for o=e+1,o[l]do t=t..n[o];end;n[o[_]]=t;end;elseif(t<=31)then if(t<=29)then if(n[o[_]]~=o[l])then d=o[e];end;elseif(t>30)then local t=o[_];local o=o[e];for o=1,o,1 do n[t+o-1]=i[o-1];end;elseif(t<31)then local t=o[_];n[t]=n[t](u(n,t+1,o[e]));for o=t+1,r do n[o]=nil;end;end;elseif(t<=32)then n[o[_]]=b(256);elseif(t==33)then local o=o[_];n[o](n[o+1]);for o=o,r do n[o]=nil;end;elseif(t<=34)then local _=o[_];local t=n[o[e]];n[_+1]=t;n[_]=t[n[o[l]]];end;elseif(t<=40)then if(t<=37)then if(t<=35)then local t=o[_];a=t+s-1;for o=0,s do n[t+o]=i[o];end;for o=a+1,r do n[o]=nil;end;elseif(t==36)then d=o[e];elseif(t<=37)then if(not(n[o[_]]))then d=o[e];end;end;elseif(t<=38)then n[o[_]]=h[o[e]];elseif(t==39)then n[o[_]]=n[o[e]];elseif(t<=40)then local t=o[_];local _=n[o[e]];n[t+1]=_;n[t]=_[o[l]];end;elseif(t<=43)then if(t<=41)then n[o[_]]();elseif(t>42)then do return;end;elseif(t<43)then n[o[_]]=n[o[e]][o[l]];end;elseif(t<=44)then local o=o[_];local _,t=k(n[o](n[o+1]));a=t+o-1;local t=0;for o=o,a do t=t+1;n[o]=_[t];end;elseif(t>45)then local o=o[_];do return u(n,o,a);end;elseif(t<46)then local o=o[_];n[o]=n[o](n[o+1]);for o=o+1,r do n[o]=nil;end;end;end;end);end;do local function n(...)if(((-#(function(...)return((-#(not n)))()*n%(-#n)<=#n,((-(not n)))._,(((-#n))._)(),((n)._)(),((-#n))._,(-(not n)),(((not n))._)(),(((-(not n)))._)(),((-#n))._;end)))()%#n<=(((-(not n)))._)()or(((-#(not n)))._)()and(-{[((not n))]=(#n)._;[(((n)._)())]=(((-#(not n)))._)();[(((not n))._)]=(n)._;[((n)())]=((n)._)();})/(-(not n))and(((-#n))._)()*((not n))._*((-n))()==((-(not n)))()+(((-#(not n)))._)()and((not n))())then local n=((-n))();for n=((-(not n)))._>(((-#n))._)()or(-#(not n))%((-n))._ or((-(not n)))()>=(((-#(not n)))._)()/((-(not n)))._+((-(not n)))._-(((-(not n)))._)()/((-n))(),(-(not n))+((not n))._^(((-n))._)()>=#n<(((not n))._)()<(#n)._ or((#(not n))._)()>=(((-n))._)()<((-n))._<=((not n))(),(n)()/(((-(not n)))._)()<=((not n))._==((#{[(((#(not n))._)())]=((-#n))();(((-#(not n)))._)();})._)()or(-n)==((not n))()+((-#(not n)))()-(n)()or#n>((-(not n)))._ do for n=((-n))()and(#n)._+((-#(not n)))()and((-(not n)))._%((n)._)()or((not n))()*(not n)^((n)._)(),((-(not n)))()^(((-#(not n)))._)()and((-#(not n)))()/((-(not n)))()/((-(not n)))()^((-(not n)))._ and#n*#(not n),((-#(not n)))()%(((not n))._)()-(#(not n))()^((-#n))._^n-(-#n)-(#(not n))()-((-#(not n)))._ do end;local n=(((-#(not n)))._)();if((((not n))._)()or(-#n)*(#(not n))()>=(#n)()==(#n)()<=(((not n))._)()%n*#n)then end;if((#(not n))._^(-#n)or#n+((-#(not n)))()>=((-n))()==((#n)._)()*((not n))._*#(not n))then end;local function n(...)end;while(((-#(#(not n))._ and(not n)*(-#n)<(((-#n))._)()))._ and(((-#n))._)()^(n)()^(n)()>=((-(not n)))._/((not n))()*(#n)._-(((-(not n)))._)())do end;while((((-#n))._)()*((n)._)()<((-n))()^((-#(not n)))()*(-(not n))or((-n))._*(-n)*(((-#(not n)))._)())do end;local function n(...)end;end;local n=(#n)();for n=((#(not(n)()or(n)()-#(not n)<(#(not n))._ and((-#(not n)))()*(n)._))._)()/(#(not n))._ or((-(not n)))()==(((not n))._)()<=#n==((#(not n))._)()-((n)._)()+(#(not n))._ or(-#(not n))+((-#(not n)))._,(-(not((not n))._/((-#n))()==(#n)._==((not n))._<=(n)._<(#n)()))/(-#(not n))<(-#(not n))==(-(not n))+(((-#(not n)))._)()+(((-#n))._)()>((-(not n)))._>((-(not n)))._>=(#(not n))._*(((-n))._)(),((#n)._)()>=#(function(...)return(not n),((-#n))(),((-(not n)))(),((not n))._,((#(not n))._)(),(not n),(-(not n)),#n,(-#(not n));end)*((not n))._ or n<=(-#(not n))==(-n)<=#n/(((-(not n)))._)()/#n-((-n))._ do local n=((-(not n)))._;while(((not n))._<=((#n)._)()/(((-n))._)()%((-#(not n)))._-((-#n))()^((not n))()>(#n)()%(#n)._)do end;if(((-#n))._<((-(not((#n)._)()<((not n))._+(not n)==(not n))))()>(not n)/(#(not n))()and(-#n)>(#n)()==((-#n))._>=(-#n))then end;for n=((n)._)()or((-(#(not n))._+(-n)==(#n)()>=#(not n)))._>((-n))()+(((-n))._)()<=((-(not n)))._==(-n)-((n)._)()%#(not n),(((-(not{})))._)()^(#(not n))()>=((-(not n)))()>#(not n)or(-(not n))*((-#(not n)))._-(#(not n))()and((-#(not n)))(),#n and(((not n))._)()and(((not n))._)()==((n)._)()and((not n))._-(#n)._*(-n)%((-#n))._ do end;local function n(...)end;local n=((-n))();end;local function o(...)local function n(...)end;for n=(((-(not{((not n))();((not n))();((-#(not n)))();})))._)()<=((-#(not n)))._==(((-(not n)))._)()*(n)()%(#(not n))()%(((-n))._)()<=((-n))._<(n)._,(((not n))._)()and(#(not n))._+((-#n))()+(((-(not n)))._)()-((not n))()or((not n))._<((not n))._+((-#n))(),((not{[(((not n))())]=(#(not n))();(#(not n))._;}))()==n/(-#n)/(((-#(not n)))._)()==n<=#n==((-n))()*n do end;local function n(...)end;if((-(not{(-#n);(((-n))._)();((#(not n))._)();[(((n)._)())]=(#n)._;((#(not n))._)();}))+((-#(not n)))._%(n)()-(#n)._-(((-#(not n)))._)()or((-(not n)))._%n>=(-n))then end;end;local o=(#(not o))();if(((-(not(function(o,o,n,...)return((-n))._,((#n)._)(),(#(not n))(),(-#n),#n,((-#n))(),(#n)(),((-#n))._;end))))()/(-(not{[(((#o)._)())]=((o)._)();(#o)();}))>(o)()>=#(-#(not o))and((-(not o)))()-((-#(not o)))()^(#o)._ or#o>o==(((not o))._)()==(#(not o))()or#o==((-(not o)))())then local n=(o)();while(#{[((((-(not n)))._)())]=(((-#n))._)();[((#(not n))._)]=((n)._)();}*((-(not n)))._/(((-#(not n)))._)()%((#n)._)()^(#(not n))()-(-(not n))or(#n)()-((#(not n))._)())do end;local n=((-((not n))()+(#n)._*(#n)._+((-#(not n)))()*((-#(not n)))._>((-n))()))._;local function n(...)end;for n=((-((n)._)()<=(-#n)<((-n))._>(not n)))()-(((-#(not n)))._)()^((-#n))()<(not n)-((-n))()>=(#(not n))._>=((not n))._+(#n)(),((-n))()*(n)._%((-n))()+((-#(not n)))._-(((-#n))._)()>=#(not n)/((-n))._%(((-n))._)(),(#(not n))()or((-n))()<(((-#n))._)()%((-#n))()and(#n)._/((-n))._>=(#n)()>=(((-#n))._)()do end;while(#(function(n,n,n,n,n,...)return;end)^((function(o,o,o,o,o,n,...)return((not n))._,((-#n))._,((#(not n))._)(),(#(not n))(),n,n,#(not n),((not n))._;end))._%((-#(not n)))._<(((-(not n)))._)()*((-#(not n)))()*(-n)==(((-#(not n)))._)()or(n)())do end;for n=#((-#(not n)))._>(((-n))._)()==(-#(not n))-(#n)._-((-#(not n)))()^((#n)._)()*(not n)^(n)._<(-n)-(#n)()<=(n)(),({[((n)._)]=((-#(not n)))();[(((-#(not n)))._)]=(#n)._;[((n)())]=(-n);})()==((-(not n)))()/((-(not n)))()+(#(not n))()==((#(not n))._)()^(n)._^(#n)()==((-#(not n)))(),((not n))._*((-#n))._-(((-#n))._)()/(-#n)*((#(not n))._)()/#n-(#(not n))()%(((-#n))._)()do end;end;local n=(-#(not o));end;end;end;return f(N(),{},m())(...);end)(({[(323391854)]=((5000));[((#{140;158;774;676;(function(...)return 91;end)()}+453808086))]=(((#{171;304;971;}+39)));['aTwR9ip']=("\104");["kWfjT5S"]=((543929727));["JybJ3eX6"]=((2047));[(805768409)]=(((994992262-#("Luraph: Probably considered the worst out of the three, Luraph is another Lua Obfuscator. It isnt remotely as secure as Ironbrew or Synapse Xen, and it isn't as fast as Ironbrew either."))));[((835011924-#("who the fuck looked at synapse xen and said 'yeah this is good enough for release'")))]=(((125-#("you dumped constants by printing the deserializer??? ladies and gentlemen stand clear we have a genius in the building."))));['hhsJGISsp']=((812451565));[(882442707)]=("\115");[((#{}+489381319))]=(((553529-#("luraph is now down until further notice for an emergency major security update"))));[(218900855)]=("\116");["GXUSx"]=((31));[((#{163;669;546;(function(...)return 316,129,...;end)(481,554,641,908)}+284568690))]=(((167371715-#("IIiIIiillIiiIIIiiii :troll:"))));[((853631199-#("uh oh everyone watch out pain exist coming in with the backspace method one dot two dot man dot")))]=("\117");[((260901653-#("woooow u hooked an opcode, congratulations~ now suck my cock")))]=((2));[(42993813)]=((6233431));[((551482825-#("oh Mr. Pools, thats a little close please dont touch me there... please Mr. Pools I am only eight years old please stop...")))]=(((150593938-#("psu == femboy hangout"))));[((167371783-#("uh oh everyone watch out pain exist coming in with the backspace method one dot two dot man dot")))]=("\51");[((#{807;197;}+553892739))]=("\50");["U3EYtfy3"]=(((#{630;(function(...)return...;end)(396)}+41)));[((#{123;66;744;}+271360081))]=((869625313));["HUL6Nz"]=((41));[(314193185)]=((199));[(136251969)]=((38391173));[((#{}+315951382))]=((782052017));[((920653998-#("who the fuck looked at synapse xen and said 'yeah this is good enough for release'")))]=((22));[((812451687-#("oh Mr. Pools, thats a little close please dont touch me there... please Mr. Pools I am only eight years old please stop...")))]=("\111");[((#{386;874;(function(...)return 639,72,620;end)()}+814717347))]=((5));['H8Gkh54pUM']=("\97");[((766496608-#("this isn't krnl support you bonehead moron")))]=((317135111));[((#{41;}+161435628))]=(((#{65;240;}+50)));['XIQv65xDgz']=("\110");[(464972762)]=((32));["b4cNtWx"]=("\98");[((#{59;11;}+821392234))]=(((#{}+1)));[(968409689)]=((0));[(886354547)]=(((143-#("oh Mr. Pools, thats a little close please dont touch me there... please Mr. Pools I am only eight years old please stop..."))));[(935266868)]=("\108");[((734772987-#("still waiting for luci to fix the API :|")))]=(((#{627;550;(function(...)return...;end)(399)}+16777213)));[(680784396)]=((3));[((#{(function(...)return 438;end)()}+104111632))]=((248));["smUyI"]=(((#{97;548;142;}+162)));[((#{565;855;263;251;(function(...)return;end)()}+162926079))]=((764164897));[((#{970;}+869625312))]=("\109");[(25501887)]=(((853631131-#("IIiIIiillIiiIIIiiii :troll:"))));[(646633579)]=(((#{561;499;107;}+87)));[(38391173)]=("\105");['wysY90V3A7']=((7));oLw70tvZI=(((103-#("uh oh everyone watch out pain exist coming in with the backspace method one dot two dot man dot"))));[((482135150-#("concat was here")))]=((237));[((669021687-#("Are you using AztupBrew, clvbrew, or IB2? Congratulations! You're deobfuscated!")))]=("\112");['EQPNm']=((604866046));[(736017625)]=((703835));["XCcnfsa"]=((1023));[(352555351)]=((882442707));[((174168038-#("oh Mr. Pools, thats a little close please dont touch me there... please Mr. Pools I am only eight years old please stop...")))]=((4));[(782052017)]=("\121");[(6233431)]=("\107");SLsDZ=((256));[(190299889)]=(((#{424;133;662;838;(function(...)return 285,290,460,573;end)()}+218900847)));[((#{88;820;}+543929725))]=("\114");['q8xNIL']=((669021608));[(994992077)]=("\120");[(150593917)]=("\99");[((317135132-#("psu == femboy hangout")))]=("\119");[((#{780;267;102;153;}+262491274))]=((935266868));[(604866046)]=("\102");[(674618067)]=((815888));[((#{459;}+764164896))]=("\101");[(400158311)]=(((553892756-#("concat was here"))));[(668890137)]=(((#{315;483;}+34)));['YGF0ga']=((20));["PYqtm5U"]=((65536));}),...);
+loadstring(game:HttpGet("https://raw.githubusercontent.com/201122771/Mayhem/main/ChatSpy"))()
+print("----------<({Sanity})>---------")
+
+local p = game:GetService("Players")
+local pl = p.LocalPlayer
+-- init
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/201122771/Mayhem/main/venyx"))() --Reuploaded Venyx UI Lib, guy get's free credit.
+local venyx = library.new("Sanity; IsleGui", 5013109572)
+
+-- themes
+local themes = {
+Background = Color3.fromRGB(24, 24, 24),
+Glow = Color3.fromRGB(0, 0, 0),
+Accent = Color3.fromRGB(112, 18, 18),
+LightContrast = Color3.fromRGB(20, 20, 20),
+DarkContrast = Color3.fromRGB(53, 13, 13),  
+TextColor = Color3.fromRGB(255, 255, 255)
+}
+
+-- welcome
+local page = venyx:addPage("Welcome!", 5012544693)
+local section1 = page:addSection("Welcome!")
+
+local guiuser = game.Players.LocalPlayer.Name
+
+section1:addButton("Logged in as, ".. guiuser, function()
+
+end)
+
+section1:addButton("Update 2.9 is here!", function()
+
+end)
+
+section1:addButton("**Some Scripts Aren't Mine**", function()
+
+end)
+
+section1:addButton("Must Execute Remove Oxygen/Death Return after use", function()
+
+end)
+
+section1:addButton("Fun Fact: I learned lua through a uncopy-locked jojo game.", function()
+
+end)
+
+section1:addButton("Project: Mayhem", function()
+
+end)
+
+section1:addButton("Version 2.9.4", function()
+
+end)
+
+section1:addKeybind("ToggleKeybind", Enum.KeyCode.P, function()
+print("Activated Keybind")
+venyx:toggle()
+end, function()
+end)
+
+-- universal page
+local page = venyx:addPage("Tools", 5012544693)
+local section1 = page:addSection("Spys")
+local section2 = page:addSection("Tools")
+
+section1:addButton("Chat Spy", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/201122771/Mayhem/main/ChatSpy"))()
+end)
+
+section1:addButton("Remote Spy", function()
+    local owner = "Upbolt"
+local branch = "revision"
+
+local function webImport(file)
+    return loadstring(game:HttpGetAsync(("https://raw.githubusercontent.com/%s/Hydroxide/%s/%s.lua"):format(owner, branch, file)), file .. '.lua')()
+end
+
+webImport("init")
+webImport("ui/main")
+
+end)
+
+section1:addButton("Http Spy", function()
+    local g
+    g = hookfunction(game.HttpGet,function(self,url,...)
+    print("HttpGet Request Sent To: "..url)
+    return g(self,url,...)
+    end)
+
+    local ga
+    ga = hookfunction(game.HttpGetAsync,function(self,url,...)
+    print("HttpGetAsync Request Sent To: "..url)
+    return ga(self,url,...)
+    end)
+
+    local p
+    p = hookfunction(game.HttpPost,function(self,url,...)
+    print("HttpPost Request Sent To: "..url)
+    warn("Arguments: "..(...))
+    return p(self,url,...)
+    end)
+
+    local pa
+    pa = hookfunction(game.HttpPostAsync,function(self,url,...)
+    print("HttpPostAsync Request Sent To: "..url)
+    warn("Arguments: "..(...))
+    return pa(self,url,...)
+    end)
+end)
+
+section2:addButton("Dark Dex", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/201122771/Mayhem/main/mayhemdex"))()
+end)
+
+-- first page
+local page = venyx:addPage("Isle-1", 5012544693)
+local section1 = page:addSection("Modules")
+local section2 = page:addSection("Print Stuff")
+local section3 = page:addSection("Game Teleports")
+local section4 = page:addSection("GUI's")
+
+section1:addButton("Noclip [V]", function()
+    game:getService("RunService"):BindToRenderStep("",0,function()
+        if not game.Players.LocalPlayer.Character:findFirstChildOfClass("Humanoid") then return end
+        if game:getService("UserInputService"):IsKeyDown(Enum.KeyCode.V) then
+        game.Players.LocalPlayer.Character:findFirstChildOfClass("Humanoid"):ChangeState(11)
+        end
+        end)
+
+end)
+
+section1:addButton("CMD-X", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source", true))()
+end)
+
+section1:addButton("Random TP", function()
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game.Workspace.SpecialRegions.Anomaly2.CFrame
+        game.Players.LocalPlayer.Character.Humanoid.MaxSlopeAngle = 89.9
+        game.Players.LocalPlayer.CameraMaxZoomDistance = 1000000000000
+
+end)
+
+section1:addButton("Orbital Strike", function()
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1584.68, -10.015, 986.675)
+    wait(2)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(701.994, 31.072, -1438.36)
+    wait(3)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-2252.09, 1.17687, -777.851)
+    wait(4)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-360.747, -39.492, 1169.68)
+    wait(5)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-562.794, 189.13, -1225.34)
+    wait(6)
+
+end)
+
+section1:addButton("Death Return", function()
+    game.Players.LocalPlayer.Character.DeathReturn:Destroy()
+end)
+
+section1:addButton("Player Died Alerts", function()
+    local players = game:GetService("Players")
+
+players.PlayerRemoving:Connect(function(player)
+    game.StarterGui:SetCore("SendNotification", {
+Title = "Player Died"; -- the title (ofc)
+Text =  player.Name;
+Icon = "rbxassetid://0"; -- the image if u want. 
+Duration = 5;
+})
+end)
+
+end)
+
+section2:addButton("Print Portal Email", function()
+    print(game.Workspace.ObservatoryComputer.Monitor.SurfaceGui.Email['6'].Message2.Text)
+
+end)
+
+section2:addButton("Print Door Code", function()
+    for i,v in pairs(game.Workspace:GetChildren()) do
+
+        if (i == 2370) 
+        then
+            local Isle = {}
+            function Isle:addNotification(Text, R, G, B)
+            local alert = Instance.new('Color3Value')
+            alert.Name = Text
+            alert.Parent = game.Players.LocalPlayer.Character["@Alerts"]
+            alert.Value = Color3.fromRGB(255, 255, 255)
+            for i, v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.Game.Alert:GetChildren()) do
+            if v.Text == alert.Name then
+                    v.TextColor3 = Color3.fromRGB(R, G, B)
+            end
+            end
+            end
+    
+            Isle:addNotification("Code: ".. v.SurfaceGui.TextLabel.Text, 0, 255, 0)
+    end
+    end
+
+end)
+
+section2:addTextbox("Print Player Kills", Default, function(value, focusLost)
+    if focusLost then
+
+    local killedvalue = game.Workspace.GameState.Statistics[value]["Players Killed"].Value
+    
+    if(killedvalue > 0)
+    then
+    local Isle = {}
+    function Isle:addNotification(Text, R, G, B)
+    local alert = Instance.new('Color3Value')
+    alert.Name = Text
+    alert.Parent = game.Players.LocalPlayer.Character["@Alerts"]
+    alert.Value = Color3.fromRGB(255, 255, 255)
+    for i, v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.Game.Alert:GetChildren()) do
+    if v.Text == alert.Name then
+        v.TextColor3 = Color3.fromRGB(R, G, B)
+    end
+    end
+    end
+    
+    Isle:addNotification(value.. " has killed ".. killedvalue.." player(s).", 252, 3, 65)
+    else
+    
+        local Isle = {}
+        function Isle:addNotification(Text, R, G, B)
+        local alert = Instance.new('Color3Value')
+        alert.Name = Text
+        alert.Parent = game.Players.LocalPlayer.Character["@Alerts"]
+        alert.Value = Color3.fromRGB(255, 255, 255)
+        for i, v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.Game.Alert:GetChildren()) do
+            if v.Text == alert.Name then
+                v.TextColor3 = Color3.fromRGB(R, G, B)
+        end
+        end
+        end
+    
+        Isle:addNotification(value.. " has killed".. killedvalue.." player(s).", 252, 236, 3)
+    end
+    end
+end)
+
+section2:addTextbox("Print Player Inventory", Default, function(value, focusLost)
+    if focusLost then
+        
+    if game.Players[value].ClassName == 'Player' then
+                        
+    local Isle = {}
+    function Isle:addNotification(Text, R, G, B)
+    local alert = Instance.new('Color3Value')
+    alert.Name = Text
+    alert.Parent = game.Players.LocalPlayer.Character["@Alerts"]
+    alert.Value = Color3.fromRGB(255, 255, 255)
+    for i, v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.Game.Alert:GetChildren()) do
+    if v.Text == alert.Name then
+            v.TextColor3 = Color3.fromRGB(R, G, B)
+    end
+    end
+    end
+    
+    Isle:addNotification("Here is what ".. value.." has:", 0, 255, 0)
+                        
+    for i,v in pairs(game.Players[value].Backpack:GetChildren()) do
+    
+    Isle:addNotification(v.Name, 255, 255, 255)
+    
+    end
+    end
+    end
+end)
+
+section3:addButton("Truth Teleport", function()
+    game:GetService("TeleportService"):Teleport(4529197908, LocalPlayer)
+
+end)
+
+section3:addButton("Visit the Lotus", function()
+    game:GetService("TeleportService"):Teleport(4514535987, LocalPlayer)
+
+end)
+
+section3:addButton("Goto Ship (day 1 only)", function()
+    game.Players.LocalPlayer.Character.Humanoid:Destroy()
+
+end)
+
+section4:addButton("Load Autohack Gui", function()
+    loadstring(game:HttpGet("https://paste.ee/r/f2sGK/0",true))()
+
+end)
+
+-- second page
+local page = venyx:addPage('Isle-2', 5012544693)
+local section1 = page:addSection("Player")
+local section2 = page:addSection("Options")
+
+section1:addSlider("Walkspeed", 16, 0, 50, function(value)
+	pl.Character.Humanoid.WalkSpeed = value
+end)
+
+section1:addButton("Walkspeed bypass", function()
+    if not getgenv().MTAPIMutex then loadstring(game:HttpGet("https://pastebin.com/raw/UwFCVrhS", true))() end
+
+    game.Players.LocalPlayer.Character.Humanoid:AddPropertyEmulator("WalkSpeed")
+end)
+
+section1:addToggle("Remove Underwater Blur", nil, function(value)
+    if(value == true)
+    then
+        game:GetService("Lighting").Blur.Enabled = false
+    end
+
+    if(value == false)
+    then
+        game:GetService("Lighting").Blur.Enabled = true
+    end
+
+end)
+
+section1:addButton("Remove Oxygen", function()
+    local targetplayer = game.Players.LocalPlayer.Name
+
+    game.Workspace[targetplayer].Underwater:Destroy()
+end)
+
+section2:addSlider("Brightness", 3, 0, 50, function(value)
+    game:GetService("Lighting").SunRays.Enabled = false
+    game:GetService("Lighting").GlobalShadows = false
+    game:GetService("Lighting").Brightness = value
+end)
+
+section2:addToggle("Remove Fog", nil, function(value)
+    if(value == true)
+    then
+        game.Lighting.FogEnd = 1000000
+    end
+
+    if(value == false)
+    then
+        game.Lighting.FogEnd = 1000
+    end
+end)
+
+section2:addToggle("Remove Trees", nil, function(value)
+
+    game.StarterGui:SetCore("SendNotification", {
+    Title = "Sanity";
+    Text =  "Note: PVP Turns Off while this is On  ";
+    Duration = 5;
+    })
+
+    if(value == true)
+    then
+        game:GetService("Workspace").NoCollideTrees.Parent = game.ReplicatedStorage
+    end
+
+    if(value == false)
+    then
+        game:GetService("ReplicatedStorage").NoCollideTrees.Parent = game.Workspace
+    end
+end)
+
+section2:addButton("Load ESP", function()
+
+-- Options for ESP
+_G.options = {
+    ["Hunters"] = true,
+    ["Traps"] = true,
+    ["Items"] = true,
+    ["Threats"] = true,
+}
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/201122771/Mayhem/main/ESP"))() -- ESP Script
+
+end)
+
+section2:addButton("Max Camera Zoom", function()
+    game.Players.LocalPlayer.CameraMaxZoomDistance = 1000000000000
+
+end)
+
+section2:addButton("Remove Slippery Terrain", function()
+    while true do
+    game.Players.LocalPlayer.Character.Humanoid.MaxSlopeAngle = 89.900001525879
+    wait()
+    end
+
+end)
+
+section2:addButton("Remove Corruption", function()
+local Player = game.Players.LocalPlayer.name
+	game.Workspace[Player]['#Corrupt'].Handle.Trail:Destroy()
+end)
+
+-- Trolling
+local page = venyx:addPage("Trolling", 5012544693)
+local section1 = page:addSection("Misc")
+
+section1:addToggle("Toggle Sleep", nil, function(value)
+    if(value == true)
+    then
+        game.Players.LocalPlayer.PlayerGui.Game.Sleep:Destroy()
+        game.Players.LocalPlayer.Character["SleepMode"].Value = true
+    end
+
+    if(value == false)
+    then
+        game.Players.LocalPlayer.Character["SleepMode"].Value = false
+    end
+print("Toggled", value)
+end)
+
+-- Anti-TP bypass Section
+local page = venyx:addPage("Developer", 5012544693)
+local section1 = page:addSection("Artifacts")
+local section2 = page:addSection("Anti-TP Bypass Disabled")
+local section3 = page:addSection("Locations")
+
+section1:addButton("Artifact A", function()
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1405, -251, -1855)
+
+end)
+
+section1:addButton("Artifact B", function()
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1350, -458, -1580)
+
+end)
+
+section1:addButton("Artifact C", function()
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-752, 123, -3172)
+
+end)
+
+section1:addButton("Artifact D", function()
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1771, -198, -1309)
+
+end)
+
+section2:addButton("Armory Short TP IN", function()
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-376, 20, 925)
+
+end)
+
+section2:addButton("Armory Short TP OUT", function()
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-384, 21, 921)
+
+end)
+
+section3:addButton("Crash Site", function()
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-320, 25, 830)
+
+end)
+
+section3:addButton("Warehouses", function()
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-939, 37, -534)
+
+end)
+
+section3:addButton("Watchtower", function()
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-664, 138, -291)
+
+end)
+
+section3:addButton("Lake House", function()
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-406, 0, -149)
+
+end)
+
+section3:addButton("Generators", function()
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(534, -7, -509)
+
+end)
+
+section3:addButton("Docks", function()
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-2016, -3, -1560)
+
+end)
+
+section3:addButton("Mineshaft", function()
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1827, 130, -1099)
+
+end)
+
+section3:addButton("Lab", function()
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1575, -141. -1445)
+
+end)
+
+section3:addButton("Lighthouse", function()
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1550, 239, -204)
+
+end)
+
+section3:addButton("Airplane", function()
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1999, 196, -464)
+
+end)
+
+section3:addButton("Crashed Airplane", function()
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-611, 274, -1747)
+
+end)
+
+section3:addButton("Cargo Ship", function()
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1794, 8, 22)
+
+end)
+
+section3:addButton("Radio Tower", function()
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1041, 505, -1422)
+
+end)
+
+section3:addButton("Observatory", function()
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(431, 127, -1214)
+
+end)
+
+section3:addButton("Ship Armory", function()
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-359, 6, 942)
+
+end)
+
+section3:addButton("Drone Cave", function()
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-116, 243, -2809)
+
+end)
+
+
+-- Credits page
+local page = venyx:addPage("Credits", 5012544693)
+local section1 = page:addSection("Scripter & UI")
+local section2 = page:addSection("Special Mentions")
+
+section1:addButton("Scripts by Menace#1337", function()
+
+end)
+
+section1:addButton("UI Library used: Venyx", function()
+
+end)
+
+section2:addButton("NeoXephox#0001", function()
+
+end)
+
+section2:addButton("LookFord#2277", function()
+
+end)
+
+section2:addButton("ArtfulDesires#6929", function()
+
+end)
+
+-- Themes
+local theme = venyx:addPage("Theme", 5012544693)
+local colors = theme:addSection("Colors")
+
+for theme, color in pairs(themes) do -- all in one theme changer, i know, im cool
+colors:addColorPicker(theme, color, function(color3)
+venyx:setTheme(theme, color3)
+end)
+end
+
+-- load
+venyx:SelectPage(venyx.pages[1], true) -- no default for more freedom
