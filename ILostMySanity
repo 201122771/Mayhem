@@ -256,22 +256,6 @@ section2:addToggle("Remove Trees", nil, function(value)
     end
 end)
 
-section2:addButton("Load ESP", function()
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/201122771/Mayhem/main/PlayerESP"))() -- PlayerESP Script
-
--- Options for ESP
-_G.options = {
-    ["Hunters"] = true,
-    ["Traps"] = true,
-    ["Items"] = true,
-    ["Threats"] = true,
-}
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/201122771/Mayhem/main/ESP"))() -- ESP Script
-
-end)
-
 section2:addButton("Max Camera Zoom", function()
     game.Players.LocalPlayer.CameraMaxZoomDistance = 1000000000000
 
