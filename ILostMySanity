@@ -27,7 +27,7 @@ section1:addButton("Logged in as, ".. guiuser, function()
 
 end)
 
-section1:addButton("Update 2.9 is here!", function()
+section1:addButton("Update 3 is here!", function()
 
 end)
 
@@ -39,7 +39,7 @@ section1:addButton("Must Execute Remove Oxygen/Death Return after use", function
 
 end)
 
-section1:addButton("Fun Fact: I learned lua through a uncopy-locked jojo game.", function()
+section1:addButton("Remove Corruption is a WIP and not functional", function()
 
 end)
 
@@ -47,7 +47,7 @@ section1:addButton("Project: Mayhem", function()
 
 end)
 
-section1:addButton("Version 2.9.4", function()
+section1:addButton("Version 3", function()
 
 end)
 
@@ -114,9 +114,8 @@ end)
 -- first page
 local page = venyx:addPage("Isle-1", 5012544693)
 local section1 = page:addSection("Modules")
-local section2 = page:addSection("Print Stuff")
-local section3 = page:addSection("Game Teleports")
-local section4 = page:addSection("GUI's")
+local section2 = page:addSection("Game Teleports")
+local section3 = page:addSection("GUI's")
 
 section1:addButton("Noclip [V]", function()
     game:getService("RunService"):BindToRenderStep("",0,function()
@@ -160,132 +159,27 @@ end)
 section1:addButton("Player Died Alerts", function()
     local players = game:GetService("Players")
 
-players.PlayerRemoving:Connect(function(player)
-    game.StarterGui:SetCore("SendNotification", {
-Title = "Player Died"; -- the title (ofc)
-Text =  player.Name;
-Icon = "rbxassetid://0"; -- the image if u want. 
-Duration = 5;
-})
+    players.PlayerRemoving:Connect(function(player)
+        game.StarterGui:SetCore("SendNotification", {
+    Title = "Player Died"; -- the title (ofc)
+    Text =  player.Name;
+    Icon = "rbxassetid://0"; -- the image if u want. 
+    Duration = 5;
+    })
+    end)
 end)
 
-end)
-
-section2:addButton("Print Portal Email", function()
-    print(game.Workspace.ObservatoryComputer.Monitor.SurfaceGui.Email['6'].Message2.Text)
-
-end)
-
-section2:addButton("Print Door Code", function()
-    for i,v in pairs(game.Workspace:GetChildren()) do
-
-        if (i == 2370) 
-        then
-            local Isle = {}
-            function Isle:addNotification(Text, R, G, B)
-            local alert = Instance.new('Color3Value')
-            alert.Name = Text
-            alert.Parent = game.Players.LocalPlayer.Character["@Alerts"]
-            alert.Value = Color3.fromRGB(255, 255, 255)
-            for i, v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.Game.Alert:GetChildren()) do
-            if v.Text == alert.Name then
-                    v.TextColor3 = Color3.fromRGB(R, G, B)
-            end
-            end
-            end
-    
-            Isle:addNotification("Code: ".. v.SurfaceGui.TextLabel.Text, 0, 255, 0)
-    end
-    end
-
-end)
-
-section2:addTextbox("Print Player Kills", Default, function(value, focusLost)
-    if focusLost then
-
-    local killedvalue = game.Workspace.GameState.Statistics[value]["Players Killed"].Value
-    
-    if(killedvalue > 0)
-    then
-    local Isle = {}
-    function Isle:addNotification(Text, R, G, B)
-    local alert = Instance.new('Color3Value')
-    alert.Name = Text
-    alert.Parent = game.Players.LocalPlayer.Character["@Alerts"]
-    alert.Value = Color3.fromRGB(255, 255, 255)
-    for i, v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.Game.Alert:GetChildren()) do
-    if v.Text == alert.Name then
-        v.TextColor3 = Color3.fromRGB(R, G, B)
-    end
-    end
-    end
-    
-    Isle:addNotification(value.. " has killed ".. killedvalue.." player(s).", 252, 3, 65)
-    else
-    
-        local Isle = {}
-        function Isle:addNotification(Text, R, G, B)
-        local alert = Instance.new('Color3Value')
-        alert.Name = Text
-        alert.Parent = game.Players.LocalPlayer.Character["@Alerts"]
-        alert.Value = Color3.fromRGB(255, 255, 255)
-        for i, v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.Game.Alert:GetChildren()) do
-            if v.Text == alert.Name then
-                v.TextColor3 = Color3.fromRGB(R, G, B)
-        end
-        end
-        end
-    
-        Isle:addNotification(value.. " has killed".. killedvalue.." player(s).", 252, 236, 3)
-    end
-    end
-end)
-
-section2:addTextbox("Print Player Inventory", Default, function(value, focusLost)
-    if focusLost then
-        
-    if game.Players[value].ClassName == 'Player' then
-                        
-    local Isle = {}
-    function Isle:addNotification(Text, R, G, B)
-    local alert = Instance.new('Color3Value')
-    alert.Name = Text
-    alert.Parent = game.Players.LocalPlayer.Character["@Alerts"]
-    alert.Value = Color3.fromRGB(255, 255, 255)
-    for i, v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.Game.Alert:GetChildren()) do
-    if v.Text == alert.Name then
-            v.TextColor3 = Color3.fromRGB(R, G, B)
-    end
-    end
-    end
-    
-    Isle:addNotification("Here is what ".. value.." has:", 0, 255, 0)
-                        
-    for i,v in pairs(game.Players[value].Backpack:GetChildren()) do
-    
-    Isle:addNotification(v.Name, 255, 255, 255)
-    
-    end
-    end
-    end
-end)
-
-section3:addButton("Truth Teleport", function()
+section2:addButton("Truth Teleport", function()
     game:GetService("TeleportService"):Teleport(4529197908, LocalPlayer)
 
 end)
 
-section3:addButton("Visit the Lotus", function()
+section2:addButton("Visit the Lotus", function()
     game:GetService("TeleportService"):Teleport(4514535987, LocalPlayer)
 
 end)
 
-section3:addButton("Goto Ship (day 1 only)", function()
-    game.Players.LocalPlayer.Character.Humanoid:Destroy()
-
-end)
-
-section4:addButton("Load Autohack Gui", function()
+section3:addButton("Load Autohack Gui", function()
     loadstring(game:HttpGet("https://paste.ee/r/f2sGK/0",true))()
 
 end)
@@ -294,6 +188,7 @@ end)
 local page = venyx:addPage('Isle-2', 5012544693)
 local section1 = page:addSection("Player")
 local section2 = page:addSection("Options")
+local section3 = page:addSection("Intelligence")
 
 section1:addSlider("Walkspeed", 16, 0, 50, function(value)
 	pl.Character.Humanoid.WalkSpeed = value
@@ -363,6 +258,8 @@ end)
 
 section2:addButton("Load ESP", function()
 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/201122771/Mayhem/main/PlayerESP"))() -- PlayerESP Script
+
 -- Options for ESP
 _G.options = {
     ["Hunters"] = true,
@@ -388,9 +285,122 @@ section2:addButton("Remove Slippery Terrain", function()
 
 end)
 
-section2:addButton("Remove Corruption", function()
+section2:addButton("Remove Corruption(WIP)", function()
 local Player = game.Players.LocalPlayer.name
 	game.Workspace[Player]['#Corrupt'].Handle.Trail:Destroy()
+end)
+
+section3:addButton("Print Portal Email", function()
+    print(game.Workspace.ObservatoryComputer.Monitor.SurfaceGui.Email['6'].Message2.Text)
+
+end)
+
+section3:addButton("Print Door Code", function()
+    for i,v in pairs(game.Workspace:GetChildren()) do
+
+        if (i == 2370) 
+        then
+            local Isle = {}
+            function Isle:addNotification(Text, R, G, B)
+            local alert = Instance.new('Color3Value')
+            alert.Name = Text
+            alert.Parent = game.Players.LocalPlayer.Character["@Alerts"]
+            alert.Value = Color3.fromRGB(255, 255, 255)
+            for i, v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.Game.Alert:GetChildren()) do
+            if v.Text == alert.Name then
+                    v.TextColor3 = Color3.fromRGB(R, G, B)
+            end
+            end
+            end
+    
+            Isle:addNotification("Code: ".. v.SurfaceGui.TextLabel.Text, 0, 255, 0)
+    end
+    end
+
+end)
+
+section3:addTextbox("Print Player Kills", Default, function(value, focusLost)
+    if focusLost then
+
+    local killedvalue = game.Workspace.GameState.Statistics[value]["Players Killed"].Value
+    
+    if(killedvalue > 0)
+    then
+    local Isle = {}
+    function Isle:addNotification(Text, R, G, B)
+    local alert = Instance.new('Color3Value')
+    alert.Name = Text
+    alert.Parent = game.Players.LocalPlayer.Character["@Alerts"]
+    alert.Value = Color3.fromRGB(255, 255, 255)
+    for i, v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.Game.Alert:GetChildren()) do
+    if v.Text == alert.Name then
+        v.TextColor3 = Color3.fromRGB(R, G, B)
+    end
+    end
+    end
+    
+    Isle:addNotification(value.. " has killed ".. killedvalue.." player(s).", 252, 3, 65)
+    else
+    
+        local Isle = {}
+        function Isle:addNotification(Text, R, G, B)
+        local alert = Instance.new('Color3Value')
+        alert.Name = Text
+        alert.Parent = game.Players.LocalPlayer.Character["@Alerts"]
+        alert.Value = Color3.fromRGB(255, 255, 255)
+        for i, v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.Game.Alert:GetChildren()) do
+            if v.Text == alert.Name then
+                v.TextColor3 = Color3.fromRGB(R, G, B)
+        end
+        end
+        end
+    
+        Isle:addNotification(value.. " has killed".. killedvalue.." player(s).", 252, 236, 3)
+    end
+    end
+end)
+
+section3:addTextbox("Print Player Inventory", Default, function(value, focusLost)
+    if focusLost then
+        
+    if game.Players[value].ClassName == 'Player' then
+                        
+    local Isle = {}
+    function Isle:addNotification(Text, R, G, B)
+    local alert = Instance.new('Color3Value')
+    alert.Name = Text
+    alert.Parent = game.Players.LocalPlayer.Character["@Alerts"]
+    alert.Value = Color3.fromRGB(255, 255, 255)
+    for i, v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.Game.Alert:GetChildren()) do
+    if v.Text == alert.Name then
+            v.TextColor3 = Color3.fromRGB(R, G, B)
+    end
+    end
+    end
+    
+    Isle:addNotification("Here is what ".. value.." has:", 0, 255, 0)
+                        
+    for i,v in pairs(game.Players[value].Backpack:GetChildren()) do
+    
+    Isle:addNotification(v.Name, 255, 255, 255)
+    
+    end
+    end
+    end
+end)
+
+section3:addButton("Load ESP", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/201122771/Mayhem/main/PlayerESP"))() -- PlayerESP Script
+    
+    -- Options for ESP
+    _G.options = {
+        ["Hunters"] = true,
+        ["Traps"] = true,
+        ["Items"] = true,
+        ["Threats"] = true,
+    }
+    
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/201122771/Mayhem/main/ESP"))() -- ESP Script
 end)
 
 -- Trolling
