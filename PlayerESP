@@ -152,6 +152,7 @@ for i, v in pairs(game.Players:GetChildren()) do
                 SkeletonRightArm.Visible = false
                 SkeletonRightLeg.Visible = false
                 if game.Players:FindFirstChild(v.Name) then
+                    print("Found")
                 else
                     Disconnect()
                 end
@@ -271,7 +272,7 @@ for i, v in pairs(game.Players:GetChildren()) do
                 Left.Visible = false
                 Bottom.Visible = false
                 Right.Visible = false
-                if game.Players:FindFirstChild(v.Name) == nil then
+            if game.Players:FindFirstChild(v.Name) == nil then
                     connection:Disconnect()
                 end
             end
@@ -315,20 +316,26 @@ for i, v in pairs(game.Players:GetChildren()) do
                 if OnScreen then
                     if game.Workspace.GameState.Statistics[targetC]["Players Killed"].Value > 0 then
                         PlayerName.TextColor3 = Color3.new(255, 157, 0)
+                        
                     elseif v.Backpack:FindFirstChild("Heat Vision Goggles") then
                         PlayerName.TextColor3 = Color3.new(255, 0, 0)
-                        PlayerName.Text = v.Name.." |Heat Vision"
+                        PlayerName.Text = v.Name.." |Heat Vision; OFF"
+                        
                     elseif v.Backpack:FindFirstChild("Experimental Vision Goggles") then
                         PlayerName.TextColor3 = Color3.new(255, 0, 0)
-                        PlayerName.Text = v.Name.." |Experimental Vision"
+                        PlayerName.Text = v.Name.." |Experimental Vision; OFF"
+                        
                     elseif game.Workspace[targetC]:FindFirstChild("Heat Vision Goggles") then
                         PlayerName.TextColor3 = Color3.new(255, 0, 0)
-                        PlayerName.Text = v.Name.." |Heat Vision"
+                        PlayerName.Text = v.Name.." |Heat Vision; ON"
+                        
                     elseif game.Workspace[targetC]:FindFirstChild("Experimental Vision Goggles") then
                         PlayerName.TextColor3 = Color3.new(255, 0, 0)
-                        PlayerName.Text = v.Name.." |Experimental Vision"
+                        PlayerName.Text = v.Name.." |Experimental Vision; ON"
+                        
                     else 
                         PlayerName.TextColor3 = Color3.new(255, 255, 255)
+                        PlayerName.Text = v.Name
                     end
                 end
             else 
@@ -340,3 +347,4 @@ for i, v in pairs(game.Players:GetChildren()) do
     end
     coroutine.wrap(ESP)()
 end
+
