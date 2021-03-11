@@ -3,6 +3,7 @@ local camera = game.Workspace.CurrentCamera
 
 for i, v in pairs(game.Players:GetChildren()) do
     local targetA = v.Name
+    
     local SkeletonTorso = Drawing.new("Line")
     SkeletonTorso.Visible = false
     SkeletonTorso.From = Vector2.new(0, 0)
@@ -86,6 +87,34 @@ for i, v in pairs(game.Players:GetChildren()) do
                     SkeletonRightArm.To = Vector2.new(UpperTorso.X, UpperTorso.Y)
 
                     if game.Workspace.GameState.Statistics[targetA]["Players Killed"].Value > 0 then
+                        SkeletonTorso.Color = Color3.fromRGB(255, 157, 0)
+                        SkeletonHead.Color = Color3.fromRGB(255, 157, 0)
+                        SkeletonLeftArm.Color = Color3.fromRGB(255, 157, 0)
+                        SkeletonLeftLeg.Color = Color3.fromRGB(255, 157, 0)
+                        SkeletonRightArm.Color = Color3.fromRGB(255, 157, 00)
+                        SkeletonRightLeg.Color = Color3.fromRGB(2255, 157, 0)
+                    elseif v.Backpack:FindFirstChild("Heat Vision Goggles") then
+                        SkeletonTorso.Color = Color3.fromRGB(255, 0, 0)
+                        SkeletonHead.Color = Color3.fromRGB(255, 0, 0)
+                        SkeletonLeftArm.Color = Color3.fromRGB(255, 0, 0)
+                        SkeletonLeftLeg.Color = Color3.fromRGB(255, 0, 0)
+                        SkeletonRightArm.Color = Color3.fromRGB(255, 0, 0)
+                        SkeletonRightLeg.Color = Color3.fromRGB(255, 0, 0)
+                    elseif v.Backpack:FindFirstChild("Experimental Vision Goggles") then
+                        SkeletonTorso.Color = Color3.fromRGB(255, 0, 0)
+                        SkeletonHead.Color = Color3.fromRGB(255, 0, 0)
+                        SkeletonLeftArm.Color = Color3.fromRGB(255, 0, 0)
+                        SkeletonLeftLeg.Color = Color3.fromRGB(255, 0, 0)
+                        SkeletonRightArm.Color = Color3.fromRGB(255, 0, 0)
+                        SkeletonRightLeg.Color = Color3.fromRGB(255, 0, 0)
+                    elseif game.Workspace[targetA]:FindFirstChild("Experimental Vision Goggles") then
+                        SkeletonTorso.Color = Color3.fromRGB(255, 0, 0)
+                        SkeletonHead.Color = Color3.fromRGB(255, 0, 0)
+                        SkeletonLeftArm.Color = Color3.fromRGB(255, 0, 0)
+                        SkeletonLeftLeg.Color = Color3.fromRGB(255, 0, 0)
+                        SkeletonRightArm.Color = Color3.fromRGB(255, 0, 0)
+                        SkeletonRightLeg.Color = Color3.fromRGB(255, 0, 0)
+                    elseif game.Workspace[targetA]:FindFirstChild("Heat Vision Goggles") then
                         SkeletonTorso.Color = Color3.fromRGB(255, 0, 0)
                         SkeletonHead.Color = Color3.fromRGB(255, 0, 0)
                         SkeletonLeftArm.Color = Color3.fromRGB(255, 0, 0)
@@ -134,11 +163,9 @@ end
 
 -- Box ESp
 
-local plr = game.Players.LocalPlayer
-local camera = game.Workspace.CurrentCamera
-
 for i, v in pairs(game.Players:GetChildren()) do
     local targetB = v.Name
+
     local Top = Drawing.new("Line")
     Top.Visible = false
     Top.From = Vector2.new(0, 0)
@@ -198,6 +225,26 @@ for i, v in pairs(game.Players:GetChildren()) do
                     Bottom.To = Vector2.new(BR.X, BR.Y)
 
                     if game.Workspace.GameState.Statistics[targetB]["Players Killed"].Value > 0 then
+                        Top.Color = Color3.fromRGB(255, 157, 0)
+                        Left.Color = Color3.fromRGB(255, 157, 0)
+                        Bottom.Color = Color3.fromRGB(255, 157, 0)
+                        Right.Color = Color3.fromRGB(255, 157, 0)
+                    elseif v.Backpack:FindFirstChild("Heat Vision Goggles") then
+                        Top.Color = Color3.fromRGB(255, 0, 0)
+                        Left.Color = Color3.fromRGB(255, 0, 0)
+                        Bottom.Color = Color3.fromRGB(255, 0, 0)
+                        Right.Color = Color3.fromRGB(255, 0, 0)
+                    elseif v.Backpack:FindFirstChild("Experimental Vision Goggles") then
+                        Top.Color = Color3.fromRGB(255, 0, 0)
+                        Left.Color = Color3.fromRGB(255, 0, 0)
+                        Bottom.Color = Color3.fromRGB(255, 0, 0)
+                        Right.Color = Color3.fromRGB(255, 0, 0)
+                    elseif game.Workspace[targetB]:FindFirstChild("Heat Vision Goggles") then
+                        Top.Color = Color3.fromRGB(255, 0, 0)
+                        Left.Color = Color3.fromRGB(255, 0, 0)
+                        Bottom.Color = Color3.fromRGB(255, 0, 0)
+                        Right.Color = Color3.fromRGB(255, 0, 0)
+                    elseif game.Workspace[targetB]:FindFirstChild("Experimental Vision Goggles") then
                         Top.Color = Color3.fromRGB(255, 0, 0)
                         Left.Color = Color3.fromRGB(255, 0, 0)
                         Bottom.Color = Color3.fromRGB(255, 0, 0)
@@ -233,54 +280,63 @@ for i, v in pairs(game.Players:GetChildren()) do
     coroutine.wrap(ESP)()
 end
 
--- name esp
+-- Name ESP
 
-spawn(function()
-    for i,v in pairs(game.CoreGui:GetDescendants()) do
-        if v.Name == plr.Name..'_ESP' then
-            v:Destroy()
-        end
-    end
-    wait()
-    if plr.Character and plr.Name ~= game.Players.LocalPlayer.Name and not COREGUI:FindFirstChild(plr.Name..'_ESP') then
-        local ESPholder = Instance.new("Folder")
-        ESPholder.Name = plr.Name..'_ESP'
-        ESPholder.Parent = COREGUI
-        repeat wait(1) until plr.Character and getRoot(plr.Character) and plr.Character:FindFirstChild('Humanoid')
-
-        if plr.Character and plr.Character:FindFirstChild('Head') then
-            local BillboardGui = Instance.new("BillboardGui")
-            local TextLabel = Instance.new("TextLabel")
-            BillboardGui.Adornee = plr.Character.Head
-            BillboardGui.Name = plr.Name
-            BillboardGui.Parent = ESPholder
-            BillboardGui.Size = UDim2.new(0, 100, 0, 150)
-            BillboardGui.StudsOffset = Vector3.new(0, 1, 0)
-            BillboardGui.AlwaysOnTop = true
-            TextLabel.Parent = BillboardGui
-            TextLabel.BackgroundTransparency = 1
-            TextLabel.Position = UDim2.new(0, 0, 0, -50)
-            TextLabel.Size = UDim2.new(0, 100, 0, 100)
-            TextLabel.Font = Enum.Font.SourceSansSemibold
-            TextLabel.TextSize = 20
-            TextLabel.TextColor3 = Color3.new(1, 1, 1)
-            TextLabel.TextStrokeTransparency = 0
-            TextLabel.TextYAlignment = Enum.TextYAlignment.Bottom
-            TextLabel.Text = plr.Name
-            TextLabel.ZIndex = 10
-            local function espLoop()
-                if COREGUI:FindFirstChild(plr.Name..'_ESP') then
-                    if plr.Character and getRoot(plr.Character) and plr.Character:FindFirstChild('Humanoid') and Players.LocalPlayer.Character and getRoot(Players.LocalPlayer.Character) and Players.LocalPlayer.Character:FindFirstChild('Humanoid') then
-                        local pos = math.floor((getRoot(Players.LocalPlayer.Character).Position - getRoot(plr.Character).Position).magnitude)
-                        TextLabel.Text = 'Name: '..plr.Name..' | Health: '..round(plr.Character:FindFirstChildOfClass('Humanoid').Health, 1)..' | Studs: '..pos
+for i, v in pairs(game.Players:GetChildren()) do
+    
+    local NameMarker = Instance.new("BillboardGui")
+    local PlayerName = Instance.new("TextLabel")
+    local targetC = v.Name
+    
+    NameMarker.Name = "NameMarker"
+    NameMarker.Parent = game.Workspace[targetC].Head
+    NameMarker.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+    NameMarker.Active = true
+    NameMarker.AlwaysOnTop = true
+    NameMarker.LightInfluence = 1.000
+    NameMarker.Size = UDim2.new(0, 350, 0, 100)
+    
+    PlayerName.Name = "PlayerName"
+    PlayerName.Parent = NameMarker
+    PlayerName.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    PlayerName.BackgroundTransparency = 1.000
+    PlayerName.BorderSizePixel = 2
+    PlayerName.Size = UDim2.new(0, 350, 0, 50)
+    PlayerName.Font = Enum.Font.SourceSans
+    PlayerName.Text = v.Name
+    PlayerName.TextSize = 25.000
+    PlayerName.TextStrokeTransparency = 0.500
+    
+        function ESP()
+        local connection
+        connection = game:GetService("RunService").RenderStepped:Connect(function()
+            if v.Character ~= nil and v.Character:FindFirstChild("HumanoidRootPart") ~= nil and v.Name ~= plr.Name  and v.Character.Humanoid.Health > 0 then 
+                local ScreenPos, OnScreen = camera:WorldToViewportPoint(v.Character.HumanoidRootPart.Position)
+                if OnScreen then
+                    if game.Workspace.GameState.Statistics[targetC]["Players Killed"].Value > 0 then
+                        PlayerName.TextColor3 = Color3.new(255, 157, 0)
+                    elseif v.Backpack:FindFirstChild("Heat Vision Goggles") then
+                        PlayerName.TextColor3 = Color3.new(255, 0, 0)
+                        PlayerName.Text = v.Name.." |Heat Vision"
+                    elseif v.Backpack:FindFirstChild("Experimental Vision Goggles") then
+                        PlayerName.TextColor3 = Color3.new(255, 0, 0)
+                        PlayerName.Text = v.Name.." |Experimental Vision"
+                    elseif game.Workspace[targetC]:FindFirstChild("Heat Vision Goggles") then
+                        PlayerName.TextColor3 = Color3.new(255, 0, 0)
+                        PlayerName.Text = v.Name.." |Heat Vision"
+                    elseif game.Workspace[targetC]:FindFirstChild("Experimental Vision Goggles") then
+                        PlayerName.TextColor3 = Color3.new(255, 0, 0)
+                        PlayerName.Text = v.Name.." |Experimental Vision"
+                    else 
+                        PlayerName.TextColor3 = Color3.new(255, 255, 255)
                     end
-                else
-                    teamChange:Disconnect()
-                    addedFunc:Disconnect()
-                    espLoopFunc:Disconnect()
+                end
+            else 
+                if game.Players:FindFirstChild(v.Name) == nil then
+                    connection:Disconnect()
                 end
             end
-            espLoopFunc = game:GetService("RunService").RenderStepped:Connect(espLoop)
-        end
+        end)
     end
-end)
+    coroutine.wrap(ESP)()
+end
