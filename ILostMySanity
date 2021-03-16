@@ -1,4 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/201122771/Mayhem/main/ChatSpy"))()
 print("----------<({Sanity})>---------")
 
 local p = game:GetService("Players")
@@ -406,7 +405,7 @@ print("Toggled", value)
 end)
 
 -- Anti-TP bypass Section
-local page = venyx:addPage("Developer", 5012544693)
+local page = venyx:addPage("TPs", 5012544693)
 local section1 = page:addSection("Artifacts")
 local section2 = page:addSection("Anti-TP Bypass Disabled")
 local section3 = page:addSection("Locations")
