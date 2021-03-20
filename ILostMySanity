@@ -64,7 +64,7 @@ local section1 = page:addSection("Spys")
 local section2 = page:addSection("Tools")
 
 section1:addButton("Chat Spy", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/201122771/Mayhem/main/ChatSpy"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/201122771/Mayhem/main/Chatlogger"))()
 end)
 
 section1:addButton("Remote Spy", function()
