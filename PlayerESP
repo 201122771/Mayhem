@@ -1,4 +1,12 @@
+--[[
+
+  Player ESP for Isle,
+      made by Menace#1337
+
+]]
+
 local plr = game.Players.LocalPlayer
+local Client = game.Players.LocalPlayer.Name
 local camera = game.Workspace.CurrentCamera
 
 for i, v in pairs(game.Players:GetChildren()) do
@@ -288,6 +296,7 @@ for i, v in pairs(game.Players:GetChildren()) do
     local NameMarker = Instance.new("BillboardGui")
     local PlayerName = Instance.new("TextLabel")
     local targetC = v.Name
+    local killcount = game.Workspace.GameState.Statistics[targetC]["Players Killed"].Value
     
     NameMarker.Name = "NameMarker"
     NameMarker.Parent = game.Workspace[targetC].Head
@@ -319,24 +328,25 @@ for i, v in pairs(game.Players:GetChildren()) do
                         
                     elseif v.Backpack:FindFirstChild("Heat Vision Goggles") then
                         PlayerName.TextColor3 = Color3.new(255, 0, 0)
-                        PlayerName.Text = v.Name.." |Heat Vision; OFF"
+                        PlayerName.Text = v.Name.. " | Heat Vision; OFF | Kills: ".. killcount.. " | Health: ".. v.Character.Humanoid.Health
                         
                     elseif v.Backpack:FindFirstChild("Experimental Vision Goggles") then
                         PlayerName.TextColor3 = Color3.new(255, 0, 0)
-                        PlayerName.Text = v.Name.." |Experimental Vision; OFF"
+                        PlayerName.Text = v.Name.. " | Experimental Vision; OFF | Kills: ".. killcount.. " | Health: ".. v.Character.Humanoid.Health
                         
                     elseif game.Workspace[targetC]:FindFirstChild("Heat Vision Goggles") then
                         PlayerName.TextColor3 = Color3.new(255, 0, 0)
-                        PlayerName.Text = v.Name.." |Heat Vision; ON"
+                        PlayerName.Text = v.Name.. " | Heat Vision; ON | Kills: ".. killcount.. " | Health: ".. v.Character.Humanoid.Health
                         
                     elseif game.Workspace[targetC]:FindFirstChild("Experimental Vision Goggles") then
                         PlayerName.TextColor3 = Color3.new(255, 0, 0)
-                        PlayerName.Text = v.Name.." |Experimental Vision; ON"
+                        PlayerName.Text = v.Name.. " | Experimental Vision; ON | Kills: ".. killcount.. " | Health: ".. v.Character.Humanoid.Health
                         
                     else 
                         PlayerName.TextColor3 = Color3.new(255, 255, 255)
-                        PlayerName.Text = v.Name
+                        PlayerName.Text = v.Name.. " | Kills: ".. killcount.. " | Health: ".. v.Character.Humanoid.Health
                     end
+                    
                 end
             else 
                 if game.Players:FindFirstChild(v.Name) == nil then
@@ -347,4 +357,3 @@ for i, v in pairs(game.Players:GetChildren()) do
     end
     coroutine.wrap(ESP)()
 end
-
