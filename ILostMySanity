@@ -391,6 +391,7 @@ end)
 -- Trolling
 local page = venyx:addPage("Trolling", 5012544693)
 local section1 = page:addSection("Misc")
+local section2 = page:addSection("Generator")
 
 section1:addToggle("Toggle Sleep", nil, function(value)
     if(value == true)
@@ -404,6 +405,20 @@ section1:addToggle("Toggle Sleep", nil, function(value)
         game.Players.LocalPlayer.Character["SleepMode"].Value = false
     end
 print("Toggled", value)
+end)
+
+section2:addButton("Power Generators", function()
+    local GenSwitch = game.Workspace.ControlBox.Switch.Handle.ClickDetector
+
+    fireclickdetector(GenSwitch)
+end)
+
+section2:addButton("Sabotage Power", function()
+    for i, v in pairs(game.Workspace.ControlBox:GetChildren()) do
+        local Fuse = v.Tube.ClickDetector
+
+        fireclickdetector(Fuse)
+    end
 end)
 
 -- Anti-TP bypass Section
