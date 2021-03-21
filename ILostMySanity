@@ -415,9 +415,9 @@ end)
 
 section2:addButton("Sabotage Power", function()
     for i, v in pairs(game.Workspace.ControlBox:GetChildren()) do
-        local Fuse = v.Tube.ClickDetector
+        local _Fuse = Fuse.Tube.ClickDetector
 
-        fireclickdetector(Fuse)
+        fireclickdetector(_Fuse)
     end
 end)
 
