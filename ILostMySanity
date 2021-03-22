@@ -413,11 +413,49 @@ section2:addButton("Power Generators", function()
     fireclickdetector(GenSwitch)
 end)
 
-section2:addButton("Sabotage Power", function()
-    for i, v in pairs(game.Workspace.ControlBox:GetChildren()) do
-        local _Fuse = Fuse.Tube.ClickDetector
+section2:addButton("Power Hangar", function()
+    local _Fuse = game.Workspace.ControlBox.Fuse.Tube.ClickDetector
 
-        fireclickdetector(_Fuse)
+    fireclickdetector(_Fuse)
+end)
+
+section2:addButton("Power Docks", function()
+    for i, v in pairs(game.Workspace.ControlBox:GetChildren()) do
+        if i == 31 then
+            local __Fuse = v.Tube.ClickDetector
+            
+            fireclickdetector(__Fuse)
+        end
+    end
+end)
+
+section2:addButton("Power Observatory", function()
+    for i, v in pairs(game.Workspace.ControlBox:GetChildren()) do
+        if i == 32 then
+            local ____Fuse = v.Tube.ClickDetector
+            
+            fireclickdetector(____Fuse)
+        end
+    end
+end)
+
+section2:addButton("Power RadioTower", function()
+    for i, v in pairs(game.Workspace.ControlBox:GetChildren()) do
+        if i == 33 then
+            local _____Fuse = v.Tube.ClickDetector
+            
+            fireclickdetector(_____Fuse)
+        end
+    end
+end)
+
+section2:addButton("Power Warehouse", function()
+    for i, v in pairs(game.Workspace.ControlBox:GetChildren()) do
+        if i == 29 then
+            local ___Fuse = v.Tube.ClickDetector
+            
+            fireclickdetector(___Fuse)
+        end
     end
 end)
 
