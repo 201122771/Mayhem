@@ -60,7 +60,7 @@ _0.MouseButton1Click:Connect(function()
 	fireclickdetector(__0)
 	
 	if Result.Text == "" then
-		Result.Text = Result.Text
+		Result.Text = _0.Text
 	else
 		Result.Text = Result.Text .. _0.Text
 	end
@@ -81,7 +81,7 @@ _8.MouseButton1Click:Connect(function()
 	fireclickdetector(__8)
 	
 	if Result.Text == "" then
-		Result.Text = Result.Text
+		Result.Text = _8.Text
 	else
 		Result.Text = Result.Text .. _8.Text
 	end
