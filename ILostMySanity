@@ -189,7 +189,7 @@ end)
 local page = venyx:addPage('Isle-2', 5012544693)
 local section1 = page:addSection("Player")
 local section2 = page:addSection("Options")
-local section3 = page:addSection("Intelligence")
+local section3 = page:addSection("Intelligence/Remotes")
 
 section1:addSlider("Walkspeed", 16, 0, 50, function(value)
 	pl.Character.Humanoid.WalkSpeed = value
@@ -272,7 +272,7 @@ end)
 
 section2:addButton("Remove Corruption(WIP)", function()
 local Player = game.Players.LocalPlayer.name
-	game.Workspace[Player]['#Corrupt'].Handle.Trail:Destroy()
+	game.Workspace[Player]['#Corrupt']:Destroy()
 end)
 
 section3:addButton("Print Portal Email", function()
@@ -302,6 +302,18 @@ section3:addButton("Print Door Code", function()
     end
     end
 
+end)
+
+section3:addButton("Open Docks Facillity Entrance", function()
+    local FDoor = game.Workspace.Gate.Buttons.Open.ClickDetector
+
+    fireclickdetector(FDoor)
+end)
+
+section3:addButton("Open Wing B", function()
+    local WingB = game.Workspace['WING B BUTTON'].OpenWingBButton.ClickDetector
+
+    fireclickdetector(WingB)
 end)
 
 section3:addTextbox("Print Player Kills", Default, function(value, focusLost)
