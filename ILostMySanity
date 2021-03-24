@@ -417,6 +417,10 @@ section1:addToggle("Toggle Sleep", nil, function(value)
 print("Toggled", value)
 end)
 
+section1:addButton("Remote Door Keypad", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/201122771/Mayhem/main/RemoteKeypad"))()
+end)
+
 section2:addButton("Power Generators", function()
     local GenSwitch = game.Workspace.ControlBox.Switch.Handle.ClickDetector
 
