@@ -375,8 +375,6 @@ section3:addTextbox("Print Player Inventory", Default, function(value, focusLost
 end)
 
 section3:addButton("Load ESP", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/201122771/Mayhem/main/PlayerESP"))() -- PlayerESP Script
-    
     -- Options for ESP
     _G.options = {
         ["Hunters"] = true,
