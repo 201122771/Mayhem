@@ -280,30 +280,6 @@ section3:addButton("Print Portal Email", function()
 
 end)
 
-section3:addButton("Print Door Code", function()
-    for i,v in pairs(game.Workspace:GetChildren()) do
-
-        if (i == 2370) 
-        then
-            local Isle = {}
-            function Isle:addNotification(Text, R, G, B)
-            local alert = Instance.new('Color3Value')
-            alert.Name = Text
-            alert.Parent = game.Players.LocalPlayer.Character["@Alerts"]
-            alert.Value = Color3.fromRGB(255, 255, 255)
-            for i, v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.Game.Alert:GetChildren()) do
-            if v.Text == alert.Name then
-                    v.TextColor3 = Color3.fromRGB(R, G, B)
-            end
-            end
-            end
-    
-            Isle:addNotification("Code: ".. v.SurfaceGui.TextLabel.Text, 0, 255, 0)
-    end
-    end
-
-end)
-
 section3:addButton("Open Docks Facillity Entrance", function()
     local FDoor = game.Workspace.Gate.Buttons.Open.ClickDetector
 
@@ -419,6 +395,30 @@ end)
 
 section1:addButton("Remote Door Keypad", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/201122771/Mayhem/main/RemoteKeypad"))()
+end)
+
+section1:addButton("Print Door Code", function()
+    for i,v in pairs(game.Workspace:GetChildren()) do
+
+        if (i == 2370) 
+        then
+            local Isle = {}
+            function Isle:addNotification(Text, R, G, B)
+            local alert = Instance.new('Color3Value')
+            alert.Name = Text
+            alert.Parent = game.Players.LocalPlayer.Character["@Alerts"]
+            alert.Value = Color3.fromRGB(255, 255, 255)
+            for i, v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.Game.Alert:GetChildren()) do
+            if v.Text == alert.Name then
+                    v.TextColor3 = Color3.fromRGB(R, G, B)
+            end
+            end
+            end
+    
+            Isle:addNotification("Code: ".. v.SurfaceGui.TextLabel.Text, 0, 255, 0)
+    end
+    end
+
 end)
 
 section2:addButton("Power Generators", function()
